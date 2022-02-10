@@ -1,0 +1,17 @@
+---
+title: "Pence Kaine EDA"
+output: html_document
+---
+
+```{r load-packages}
+library(rvest)
+library(dplyr)
+library(tidyr)
+```
+
+
+```{r load-data}
+checkdata = read.csv("checkdata.csv")
+pencekaine = read.csv("pence_kaine_2016.csv")
+```
+
