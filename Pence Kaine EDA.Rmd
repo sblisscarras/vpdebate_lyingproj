@@ -1,9 +1,9 @@
 ---
 title: "Pence Kaine EDA"
-output: html_document
+output: pdf_document
 ---
 
-```{r load-packages}
+```{r load-packages, message = FALSE}
 library(rvest)
 library(dplyr)
 library(tidyr)
