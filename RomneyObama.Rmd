@@ -1,42 +1,67 @@
 ---
-title: "claimbuster"
-output: html_document
+title: "Third Obama-Romney Presidential Debate"
+subtitle: "Claimbuster Data, EDA"
+output: pdf_document
 ---
 
 ```{r}
 library(rvest)
 library(dplyr)
+library(tidyr)
+library(tidyverse)
 ```
 
 
 ```{r}
-all_sentences = read.csv("datasets/all_sentences.csv")
-crowdsourced = read.csv("datasets/crowdsourced.csv")
-groundtruth = read.csv("datasets/groundtruth.csv")
+all_sentences = read_csv("all_sentences.csv")
+crowdsourced = read_csv("crowdsourced.csv")
+groundtruth = read_csv("groundtruth.csv")
 ```
 
 ```{r}
 rom_ob_all = all_sentences %>% 
-  filter(File_id == "2012-10-03.txt")
+  filter(File_id == "2012-10-22.txt")
 
 rom_ob_crowd = crowdsourced %>% 
-  filter(File_id == "2012-10-03.txt")
+  filter(File_id == "2012-10-22.txt")
 
 rom_ob_truth = crowdsourced %>% 
-  filter(File_id == "2012-10-03.txt")
+  filter(File_id == "2012-10-22.txt")
+```
 
+```{r}
+rom_ob_entire <- rom_ob_all %>%
+  filter(Speaker == "Mitt Romney" |
+         Speaker == "Barack Obama")
 ```
 
 
+```{r}
+full_join(rom_ob_crowd, rom_ob_truth, Sentence_id = Sentence_id)
+#essentially, these datasets are identical
+write.csv(rom_ob_truth, 'rom_ob.csv', row.names=FALSE) 
+```
 
 
-# ```{r}
-# truth = read_csv("datasets/groundtruth.csv")
-# crowdsource = read_csv("datasets/crowdsourced.csv")
-# allclaims = read_csv("datasets/all_sentences.csv")
-# ```
-# 
-# ```{r}
-# rom_ob_2012 = truth %>% 
-#   filter(File_id == "2012-10-22.txt")
-# ```
+**README Info from Claimbuster Datasets**
+
+The ClaimBuster dataset consists of six files, the three used are the following:
+groundtruth.csv, (22,501 sentences)
+crowdsourced.csv, (1032 sentences)
+all_sentences.csv, (32,072 sentences)
+
+Both groundtruth.csv and crowdsourced.csv files contain the following attributes.
+- Sentence_id: A unique numerical identifier to identify sentences in the dataset.
+- Text: A sentence spoken by a debate participant. 
+- Speaker: Name of the person who verbalized the Text.
+- Speaker_title: Speaker’s job at the time of the debate.
+- Speaker_party: Political affiliation of the Speaker.
+- File_id: Debate transcript name.
+- Length: Number of words in the Text.  
+- Line_number: A numerical identifier to to indicate the order of the Text in the debate transcript.
+- Sentiment: Sentiment score of the Text. The score ranges from -1 (most negative sentiment) to 1 (most positive sentiment). 
+- Verdict: Assigned class label (1 when the sentence is CFS,0 when the sentence is UFS, and -1 when sentence is NFS).
+
+all_sentences.csv file contains all presidential debate sentences. It has all the features shown above except for ``Verdict''. It also includes the following attribute:
+- Speaker_role: It depicts the role of the Speaker in the debate as a participant.
+
