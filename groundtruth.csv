@@ -1,0 +1,1033 @@
+Sentence_id,Text,Speaker,Speaker_title,Speaker_party,File_id,Length,Line_number,Sentiment,Verdict
+26,"You know, I saw a movie - ""Crocodile Dundee.""",George Bush,Vice President,REPUBLICAN,1988-09-25.txt,9,26,0.0,0
+80,We're consuming 50 percent of the world's cocaine.,Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,8,80,-0.740979,1
+129,That answer was about as clear as Boston harbor.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,9,129,0.0,-1
+131,Let me help the governor.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,5,131,0.212987,-1
+172,We've run up more debt in the last eight years than under all the presidents from George Washington to Jimmy Carter combined.,Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,22,172,-0.268506,1
+202,"I was in Houston on Tuesday meeting with a group of good citizens, working citizens.",Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,15,202,0.0,0
+219,"The last time the Vice President used that phrase, I suspect he remembers it, don't you?",Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,16,219,-0.624865,-1
+228,I think we have to demonstrate some flexibility and I think the FDA is attempting to do so now in trying to make it possible for new and experimental drugs to be available to people who are at risk at AIDS and I would hope that we could bring that kind of a policy to bear beginning in January.,Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,59,228,0.59505,1
+384,This isn't a question of a little charity for the homeless.,Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,11,384,-0.750847,-1
+411,Go out and take a look at St. Louis at some of that effort.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,14,411,0.469989,-1
+432,I don't think it's a good thing.,Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,7,432,0.0,-1
+543,"The federal government spends seven percent of the total on education, and the rest of the state governments and local governments and the thousand points of lightened I'm talking about private schools and private church schools and things of this nature--are putting up 93 percent.",George Bush,Vice President,REPUBLICAN,1988-09-25.txt,45,543,0.0,1
+591,But I'll tell you what I was thinking of.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,9,591,0.0,-1
+611,I'm simply not going to do that.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,7,611,-0.672886,-1
+726,He's got to get this thing more clear.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,8,726,0.409073,-1
+750,"Yes, we should make every effort to try to help those hostages come home, but it can never be because we make concessions.",Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,23,750,0.0,-1
+816,And I think it's important to understand what happened here.,Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,10,816,0.206263,-1
+826,You cannot make concessions to terrorists.,Michael Dukakis,Governor,DEMOCRAT,1988-09-25.txt,6,826,-0.459685,-1
+893,I had hoped this had been a little friendlier evening.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,10,893,-0.561847,-1
+942,I don't want to go back to malaise and misery index.,George Bush,Vice President,REPUBLICAN,1988-09-25.txt,11,942,-0.857765,-1
+1036,We can also have a- an end to the extremes.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,10,57,0.426085,-1
+1037,"We now have one extreme for instance, of some welfare recipients, who by taking advantage of the welfare laws, the housing laws, the uh - Medicaid uh - laws, and the uh - food stamp laws, make over $10 thousand a year and uh - they don't have to pay any taxes on it.",Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,54,58,-0.791836,1
+1116,I don't believe it will happen.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,6,137,-0.521862,-1
+1128,"But no president of the United States, in my opinion, should signal in advance to a prospective enemy, what his uhh - decision might be or what option he might exercise.",Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,31,149,-0.562661,-1
+1150,And I know that everybody uh - makes mistakes.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,9,171,-0.823504,-1
+1204,"Well, first, uh - let me set the record straight.",Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,10,225,0.52154,-1
+1233,I would do the opposite in every respect.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,8,254,0.219711,-1
+1242,"A mayor of a city like New York, for instance, needs to know uh - eighteen months or two years ahead of time what responsibility the city will have in administration and in financing - in things like housing, uh - pollution control, uh - crime control, education, welfare and health.",Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,51,263,0.281942,-1
+1255,The last point is that the major - uh thrust has gotta be to put people back to work.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,19,276,-0.620316,-1
+1260,"And over a longer period of time, let the federal government begin to absorb part of it that's now paid by the state governments.",Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,24,281,0.0,-1
+1263,Let me uh - speak out very strongly.,Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,8,284,0.240223,-1
+1311,I would not work hard to support any of those.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,10,332,0.0,-1
+1342,"Uh - Mr. Maynard, uh - the record of gun control, whether it's one city or another or in some states, does not show that the registration of a gun, handgun, or the registration of the gun owner, has in any way whatsoever decreased the crime rate or the use of that gun in the committing of a crime.",Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,59,363,-0.805866,1
+1406,"Well, I think the answer uh - as to the kind of person that I would select uh - is obvious.",Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,21,427,0.0,-1
+1448,"Now, uh - I'd like to point out as well that the United States' economic recovery from the recession of a year ago is well ahead of the economic recovery of any major free industrial nation in the world today.",Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,40,469,0.295206,1
+1459,"In the last month, we've had a net loss of one hundred and sixty-three thousand jobs.",Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,16,480,-0.70562,1
+1466,The economic growth is less than half today what it was at the beginning of this year.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,17,487,-0.342009,1
+1502,That's an overwhelming support from my own people who know me best.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,12,523,0.896042,-1
+1517,"We have reduced the number of people in the Army, Navy, Air Force and Marines from three million, one hundred - three million, five hundred thousand to two mil- lion one hundred thousand.",Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,33,538,-0.603884,1
+1537,"That uh - situation called for me to first put the United States on a steady course and to keep our keel well balanced, because we had to face the difficult problems that had all of a sudden hit America.",Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,40,558,-0.331265,-1
+1546,We have cut inflation by better than half.,Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,8,567,0.0,1
+1554,I love America just as all of you love America.,Gerald R. Ford,President,REPUBLICAN,1976-10-22.txt,10,575,0.862005,-1
+1571,"I was a school board member, and a library board member.",Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,11,592,0.0,0
+1576,I was Governor of Georgia for four years.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,8,597,0.0,0
+1582,We don't have good health care.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,6,603,0.0,-1
+1596,Now I don't know all the answers.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,7,617,-0.310057,-1
+1600,We might have to do it slowly.,Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,7,621,-0.244352,-1
+1604,"I believe in the greatness of our country, and I believe the American people are ready for a change in Washington.",Jimmy Carter,Governor,DEMOCRAT,1976-10-22.txt,21,625,0.728241,-1
+1669,I've got a different view.,Barack Obama,President,DEMOCRAT,2012-10-03.txt,5,43,0.462835,-1
+1674,And I'm looking forward to having that debate.,Barack Obama,President,DEMOCRAT,2012-10-03.txt,8,48,0.598272,-1
+1686,"I was in Dayton, Ohio, and a woman grabbed my arm and she said, ""I've been out of work since May.",Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,21,60,-0.346145,0
+1698,"Crack down on China, if and when they cheat.",Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,9,72,-0.39371,-1
+1746,"Health care costs have gone up by $2,500 a family.",Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,10,120,0.334011,1
+1943,What things would I cut from spending?,Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,7,317,-0.480799,-1
+2055,The oil industry gets $4 billion a year in corporate welfare.,Barack Obama,President,DEMOCRAT,2012-10-03.txt,11,429,0.0,1
+2136,My grandmother died three days before I was elected president.,Barack Obama,President,DEMOCRAT,2012-10-03.txt,10,510,0.0,0
+2148,"And using that money, we were actually able to lower prescription drug costs for seniors by an average of $600, and we were also able to make a -- make a significant dent in providing them the kind of preventive care that will ultimately save money through the -- throughout the system.",Barack Obama,President,DEMOCRAT,2012-10-03.txt,52,522,0.522042,1
+2156,"But for younger people, we need to talk about what changes are going to be occurring.",Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,16,530,-0.277009,-1
+2363,"You know, I was in New Hampshire.",Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,7,737,0.0,0
+2453,"And over the last two years, health care premiums have gone up -- it's true -- but they've gone up slower than any time in the last 50 years.",Barack Obama,President,DEMOCRAT,2012-10-03.txt,29,827,-0.74628,1
+2591,The proof of that is 1 out of 6 people in poverty.,Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,12,965,-0.740788,1
+2688,And Republicans and Democrats both love America.,Mitt Romney,Governor,REPUBLICAN,2012-10-03.txt,7,1062,-0.335802,-1
+2842,"I believe that the United States ha- had many successes in recent years, in recent months, as far as the Communist movement is concerned.",Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,24,74,0.0,-1
+2855,We wanted to have majority rule with the full protection of the rights of the minority.,Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,16,87,0.0,-1
+2879,And we have weakened our position in NATO because the other countries in Europe supported the democ- democratic forces in Portugal long before we did; we stuck to the Portugal dictatorships much longer than other democracies did in this world.,Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,40,111,-0.487843,1
+2888,I am a graduate of the U.S.,Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,7,120,0.0,0
+2902,"Every time Mr. Ford speaks from a position of secrecy in negotiations, in secret - in secret treaties that've been uh - pursued and achieved, in supporting dictatorships, in ignoring human rights, we are weak and the rest of the world knows it.",Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,43,134,-0.669412,-1
+2971,The Soviet Union is still jamming Radio Free Europe - Radio - uh- uh - Radio Free Europe is being jammed.,Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,21,203,-0.435517,1
+2976,One press conference he had without sound.,Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,7,208,0.0,0
+3013,"As a matter of fact, Iran is gonna get eighty F-14s before we even meet our own Air Force orders for F-l4s.",Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,22,245,-0.486984,1
+3024,We have made available to the Israelis over 45 percent of the total economic and military aid since the establishment of Israel twenty-seven years ago.,Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,25,256,-0.243526,1
+3029,Iran has Iraq as one of its neighbors.,Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,8,261,-0.586502,0
+3073,"I would uh - also like to point out that we, in this country, have let our economy go down the drain.",Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,22,305,-0.836688,-1
+3090,"Now, I can't say when this can come.",Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,8,322,-0.599615,-1
+3110,"In Puerto Rico this year, I met with six of the leading industrial nations' heads of state to meet the problem of inflation so we would be able to solve it before it got out of hand.",Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,37,342,-0.327993,0
+3111,I have met with the heads of government bilaterally as well as multilaterally.,Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,13,343,0.0,0
+3130,"In the meantime, there has developed the problem of the Soviet Backfire - their high-performance aircraft which they say is not a long-range aircraft and which some of our people say is a intercontinental aircraft.",Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,35,362,0.0,1
+3139,"I believe that the cruise missiles which we are now developing in research and development across the spectrum from air, from the sea, or from the land, uh - can be uh - included within a SALT II agreement.",Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,39,371,0.0,-1
+3262,Now I would be willing to go ahead with negotiations.,Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,10,494,0.781036,-1
+3321,It may later be Catholics; it may be - later be Baptists who are threatened by some foreign country.,Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,19,553,0.0,-1
+3322,But we ought to stand staunch.,Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,6,554,-0.600539,-1
+3339,But not until they have given us the full accounting of our MIAs.,Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,13,571,-0.477679,-1
+3369,"I remember the world with NATO, and the world of Point Four, and the world of the Marshall Plan, and the world of the Peace Corps.",Jimmy Carter,Governor,DEMOCRAT,1976-10-06.txt,26,601,0.662377,-1
+3384,Not a single young American today is fighting or dying on any foreign battlefield.,Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,14,616,-0.526227,1
+3385,America is at peace and with freedom.,Gerald R. Ford,President,REPUBLICAN,1976-10-06.txt,7,617,0.617817,-1
+3423,"Well, thank you very much, Jim, and thanks to the commission and the University of Mississippi, Ole Miss, for hosting us tonight.",Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,22,30,0.730678,-1
+3429,How's it going to affect my job?,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,7,36,-0.526864,-1
+3436,"Number three, we've got to make sure that none of that money is going to pad CEO bank accounts or to promote golden parachutes.",Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,24,43,-0.458236,-1
+3440,And I think that the fundamentals of the economy have to be measured by whether or not the middle class is getting a fair shake.,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,25,47,0.445473,-1
+3441,"That's why I'm running for president, and that's what I hope we're going to be talking about tonight.",Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,18,48,0.217055,-1
+3519,Are you afraid I couldn't hear him?,John McCain,Senator,REPUBLICAN,2008-09-26.txt,7,126,-0.781753,-1
+3539,"And I still believe, under the right leadership, our best days are ahead of us.",John McCain,Senator,REPUBLICAN,2008-09-26.txt,15,146,0.916827,-1
+3545,It's gone -- we have now presided over the largest increase in the size of government since the Great Society.,John McCain,Senator,REPUBLICAN,2008-09-26.txt,20,152,0.0,1
+3555,"I've got a pen, and I'm going to veto every single spending bill that comes across my desk.",John McCain,Senator,REPUBLICAN,2008-09-26.txt,18,162,-0.79661,-1
+3579,Maybe to Senator Obama it's not a lot of money.,John McCain,Senator,REPUBLICAN,2008-09-26.txt,10,186,-0.550554,-1
+3583,Do you know that it's gone completely out of control to the point where it corrupts people?,John McCain,Senator,REPUBLICAN,2008-09-26.txt,17,190,-0.728904,-1
+3595,The worst thing we could do in this economic climate is to raise people's taxes.,John McCain,Senator,REPUBLICAN,2008-09-26.txt,15,202,-0.87205,-1
+3647,"I know we have to, but this is a classic example of walking the walk and talking the talk.",John McCain,Senator,REPUBLICAN,2008-09-26.txt,19,254,0.9422,-1
+3694,We've got to make sure that our children are keeping pace in math and in science.,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,16,301,0.457165,-1
+3695,And one of the things I think we have to do is make sure that college is affordable for every young person in America.,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,24,302,0.851606,-1
+3698,So there are some -- some things that we've got to do structurally to make sure that we can compete in this global economy.,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,24,305,0.380829,-1
+3752,"Look, we are sending $700 billion a year overseas to countries that don't like us very much.",John McCain,Senator,REPUBLICAN,2008-09-26.txt,17,359,0.0,1
+3896,"Senator McCain cut -- Senator McCain opposed funding for troops in legislation that had a timetable, because he didn't believe in a timetable.",Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,23,503,-0.20247,1
+3975,But we have to get the cooperation of the people in those areas.,John McCain,Senator,REPUBLICAN,2008-09-26.txt,13,582,0.0,-1
+4202,But we have to have a president who is clear that you don't deal with Russia based on staring into his eyes and seeing his soul.,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,26,809,0.0,-1
+4250,The second point I want to make is -- is the issue of energy.,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,14,857,0.0,-1
+4275,"So I want to say that, with the Nunn-Lugar thing...",John McCain,Senator,REPUBLICAN,2008-09-26.txt,10,882,-0.283482,-1
+4336,"The other thing that we have to focus on, though, is Al Qaida.",Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,13,943,0.0,-1
+4387,That sense is something that I want to restore.,Barack Obama,Senator,DEMOCRAT,2008-09-26.txt,9,994,0.358734,-1
+4390,"And I -- and I honestly don't believe that Senator Obama has the knowledge or experience and has made the wrong judgments in a number of areas, including his initial reaction to Russian invasion -- aggression in Georgia, to his -- you know, we've seen this stubbornness before in this administration to cling to a belief that somehow the surge has not succeeded and failing to acknowledge that he was wrong about the surge is -- shows to me that we -- that -- that we need more flexibility in a president of the United States than that.",John McCain,Senator,REPUBLICAN,2008-09-26.txt,98,997,-0.594782,-1
+4393,And I know that they know that I'll take care of them.,John McCain,Senator,REPUBLICAN,2008-09-26.txt,12,1000,0.0,-1
+4398,And that's going to be my job.,John McCain,Senator,REPUBLICAN,2008-09-26.txt,7,1005,0.568404,-1
+4401,I don't think I need any on-the-job training.,John McCain,Senator,REPUBLICAN,2008-09-26.txt,8,1008,-0.531267,-1
+5487,"Well, let -- let me say, Bob, thank you.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,9,33,0.849072,-1
+5491,"Americans are hurting right now, and they're angry.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,8,37,-0.816743,-1
+5493,"They're innocent victims of greed and excess on Wall Street and as well as Washington, D.C. And they're angry, and they have every reason to be angry.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,27,39,-0.739514,-1
+5496,"But we also have to have a short-term fix, in my view, and long- term fixes.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,16,42,-0.281077,-1
+5498,The catalyst for this housing crisis was the Fannie and Freddie Mae that caused subprime lending situation that now caused the housing market in America to collapse.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,27,44,-0.795781,1
+5502,"Now, I know the criticism of this.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,48,-0.379775,-1
+5503,"Well, what about the citizen that stayed in their homes?",John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,49,0.611286,-1
+5506,And so we've got to reverse this.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,52,0.0,-1
+5512,I think everybody understands at this point that we are experiencing the worst financial crisis since the Great Depression.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,19,58,-0.698215,1
+5527,And we've got to get the financial package working much quicker than it has been working.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,16,73,0.415692,-1
+5528,"Last point I want to make, though.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,7,74,-0.301757,-1
+5540,"Joe, I want to tell you, I'll not only help you buy that business that you worked your whole life for and be able -- and I'll keep your taxes low and I'll provide available and affordable health care for you and your employees.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,44,86,0.913633,-1
+5541,And I will not have -- I will not stand for a tax increase on small business income.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,18,87,-0.348866,-1
+5542,Fifty percent of small business income taxes are paid by small businesses.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,88,0.0,1
+5552,"Exxon Mobil, and other oil companies, for example, would get an additional $4 billion in tax breaks.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,17,98,-0.406741,1
+5553,"What I've said is I want to provide a tax cut for 95 percent of working Americans, 95 percent.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,19,99,-0.701412,1
+5559,"And what I want to do is to make sure that the plumber, the nurse, the firefighter, the teacher, the young entrepreneur who doesn't yet have money, I want to give them a tax break now.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,36,105,-0.594459,-1
+5562,"Not only do 98 percent of small businesses make less than $250,000, but I also want to give them additional tax breaks, because they are the drivers of the economy.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,30,108,-0.301628,1
+5565,"In other words, we're going to take Joe's money, give it to Senator Obama, and let him spread the wealth around.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,21,111,0.0,-1
+5570,Who -- why would you want to increase anybody's taxes right now?,John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,116,-0.420727,-1
+5571,"Why would you want to do that, anyone, anyone in America, when we have such a tough time, when these small business people, like Joe the plumber, are going to create jobs, unless you take that money from him and spread the wealth around.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,44,117,-0.467257,-1
+5577,"Now, it is true that my friend and supporter, Warren Buffett, for example, could afford to pay a little more in taxes in order...",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,24,123,0.0,0
+5582,"I would prefer that none of us had to pay taxes, including myself.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,13,128,-0.330833,-1
+5583,"But ultimately, we've got to pay for the core investments that make this economy strong and somebody's got to do it.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,21,129,0.232223,-1
+5587,"Well, I don't mind paying a little more.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,8,133,-0.467222,-1
+5589,Our tax rate for business in America is 35 percent.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,135,0.0,1
+5592,We need to cut the business tax rate in America.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,138,0.0,-1
+5594,"Now, of all times in America, we need to cut people's taxes.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,140,-0.263191,-1
+5595,"We need to encourage business, create jobs, not spread the wealth around.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,141,0.0,-1
+5608,"Well, first of all, I think it's important for the American public to understand that the $750 billion rescue package, if it's structured properly, and, as president, I will make sure it's structured properly, means that ultimately taxpayers get their money back, and that's important to understand.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,47,154,0.842742,1
+5609,But there is no doubt that we've been living beyond our means and we're going to have to make some adjustments.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,21,155,-0.400399,-1
+5614,So let me get to that.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,6,160,0.0,-1
+5622,"And I want to go through the federal budget line by line, page by page, programs that don't work, we should cut.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,22,168,-0.578098,-1
+5625,I mentioned health care earlier.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,5,171,0.550583,0
+5630,"And we're going to have to embrace a culture and an ethic of responsibility, all of us, corporations, the federal government, and individuals out there who may be living beyond their means.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,32,176,0.836964,-1
+5635,"During the Depression era, we had a thing called the home ownership loan corporation.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,14,181,0.0,0
+5641,But -- OK. All right.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,187,0.526333,-1
+5643,"Energy -- well, first -- second of all, energy independence.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,189,0.514014,-1
+5644,We have to have nuclear power.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,6,190,0.0,-1
+5648,"OK, what -- what would I cut?",John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,194,0.0,-1
+5654,"Government spending has gone completely out of control; $10 trillion dollar debt we're giving to our kids, a half-a-trillion dollars we owe China.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,23,200,-0.62205,1
+5655,I know how to save billions of dollars in defense spending.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,11,201,-0.625464,-1
+5665,Senator Obama has asked for nearly $1 billion in pork-barrel earmark projects...,John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,211,0.0,1
+5676,And I want to make sure that we are focused on those programs that work.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,15,222,0.0,-1
+5683,"When President Bush came into office, we had a budget surplus and the national debt was a little over $5 trillion.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,21,229,-0.846376,1
+5685,And we are now looking at a deficit of well over half a trillion dollars.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,15,231,-0.725554,1
+5692,And let me tell you...,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,238,0.0,-1
+5699,"He voted twice for a budget resolution that increases the taxes on individuals making $42,000 a year.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,17,245,0.0,1
+5711,He voted for the last two budgets that had that $24 billion more in spending than the budget that the Bush administration proposed.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,23,257,-0.746007,1
+5713,"So the fact is, let's look at our records, Senator Obama.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,11,259,0.0,-1
+5736,We need to move in a new direction.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,8,282,0.0,-1
+5738,"Let me just say, Bob.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,284,0.0,-1
+5764,So I think the tone of this campaign could have been very different.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,13,310,0.0,-1
+5773,"So I want to tell you, we will run a truthful campaign.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,319,0.0,-1
+5774,This is a tough campaign.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,320,0.0,-1
+5778,"And when you looked into the camera in a debate with Senator Clinton and said, ""I will sit down and negotiate with John McCain about public financing before I make a decision,"" you didn't tell the American people the truth because you didn't.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,43,324,-0.288239,1
+5779,And that's -- that's -- that's an unfortunate part.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,9,325,-0.712141,-1
+5780,Now we have the highest spending by Senator Obama's campaign than any time since Watergate.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,15,326,0.0,1
+5783,"Well, look, you know, I think that we expect presidential campaigns to be tough.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,14,329,0.55451,-1
+5784,"I think that, if you look at the record and the impressions of the American people -- Bob, your network just did a poll, showing that two-thirds of the American people think that Senator McCain is running a negative campaign versus one-third of mine.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,44,330,-0.425913,1
+5788,"And, now, I think the American people are less interested in our hurt feelings during the course of the campaign than addressing the issues that matter to them so deeply.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,30,334,-0.506648,-1
+5815,You've got to read what he said...,John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,361,0.0,-1
+5823,"The important point here is, though, the American people have become so cynical about our politics, because all they see is a tit- for-tat and back-and-forth.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,26,369,-0.751035,-1
+5827,We do and I hope...,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,373,0.0,-1
+5830,"But when people suggest that I pal around with terrorists, then we're not talking about issues.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,16,376,-0.67411,-1
+5849,"I mean, we can have a debate back and forth about the merits of each other's campaigns.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,17,395,0.332641,-1
+5860,"Mr. Ayers, I don't care about an old washed-up terrorist.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,406,-0.763783,-1
+5863,"The same front outfit organization that your campaign gave $832,000 for ""lighting and site selection.""",John McCain,Senator,REPUBLICAN,2008-10-15.txt,15,409,0.327779,1
+5864,"So all of these things need to be examined, of course.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,11,410,0.0,-1
+5871,Bill Ayers is a professor of education in Chicago.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,9,417,0.0,0
+5886,Let me tell you who I associate with.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,8,432,0.0,-1
+5894,And the facts are facts and records are records.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,9,440,0.0,-1
+5907,"Well, Joe Biden, I think, is one of the finest public servants that has served in this country.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,18,453,0.557184,-1
+5936,"Her husband's a pretty tough guy, by the way, too.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,482,0.532777,-1
+5941,"I agree with that, John.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,5,487,0.557413,-1
+5942,"I do want to just point out that autism, for example, or other special needs will require some additional funding, if we're going to get serious in terms of research.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,30,488,0.0,-1
+5947,I think that Joe Biden is qualified in many respects.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,493,0.695679,-1
+5948,"But I do point out that he's been wrong on many foreign policy and national security issues, which is supposed to be his strength.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,24,494,-0.427239,-1
+5949,He voted against the first Gulf War.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,495,-0.227564,1
+5974,"Senator Obama will tell you, in the -- as the extreme environmentalists do, it has to be safe.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,18,520,0.31093,-1
+5975,"Look, we've sailed Navy ships around the world for 60 years with nuclear power plants on them.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,17,521,0.0,1
+5990,"But understand, we only have three to four percent of the world's oil reserves and we use 25 percent of the world's oil, which means that we can't drill our way out of the problem.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,35,536,-0.733944,1
+5993,We invented the auto industry and the fact that we have fallen so far behind is something that we have to work on.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,23,539,-0.646354,0
+5996,"But I also believe that for far too long, certainly during the course of the Bush administration with the support of Senator McCain, the attitude has been that any trade agreement is a good trade agreement.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,36,542,0.503994,-1
+6000,"And when it comes to South Korea, we've got a trade agreement up right now, they are sending hundreds of thousands of South Korean cars into the United States.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,29,546,0.0,1
+6002,"We can only get 4,000 to 5,000 into South Korea.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,10,548,0.0,1
+6004,We've got to have a president who is going to be advocating on behalf of American businesses and American workers and I make no apology for that.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,27,550,0.0,-1
+6006,"Well, you know, I admire so much Senator Obama's eloquence.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,552,0.648478,-1
+6016,"Now, on the subject of free trade agreements.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,8,562,0.0,-1
+6019,But let me give you another example of a free trade agreement that Senator Obama opposes.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,16,565,0.0,-1
+6022,"So Senator Obama, who has never traveled south of our border, opposes the Colombia Free Trade Agreement.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,17,568,0.0,1
+6049,"Look, as I travel around the country, this is the issue that will break your heart over and over again.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,20,595,-0.682412,-1
+6050,"Just yesterday, I was in Toledo shaking some hands in a line.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,12,596,0.0,0
+6057,The only thing we're going to try to do is lower costs so that those cost savings are passed onto you.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,21,603,-0.529572,-1
+6064,We've got to put more money into preventive care.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,9,610,0.0,-1
+6072,And I am convinced we need to do a lot of things.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,618,0.706399,-1
+6073,We need to put health care records online.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,8,619,0.355726,-1
+6079,The rise of obesity amongst young Americans is one of the most alarming statistics that there is.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,17,625,-0.712965,1
+6080,We should have physical fitness programs and nutrition programs in schools.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,11,626,0.692583,-1
+6087,"Now, Senator Obama, I'd like -- still like to know what that fine is going to be, and I don't think that Joe right now wants to pay a fine when he is seeing such difficult times in America's economy.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,40,633,0.0,-1
+6107,So here's what we do.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,5,653,0.355481,-1
+6120,"For the first time in history, you will be taxing people's health care benefits.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,14,666,0.806934,1
+6121,"By the way, the average policy costs about $12,000.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,9,667,0.0,1
+6131,"The average cost of a health care insurance plan in America today is $5,800.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,14,677,0.642487,1
+6132,"I'm going to give them $5,000 to take with them wherever they want to go, and this will give them affordability.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,21,678,0.837816,-1
+6133,This will give them availability.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,679,0.247018,-1
+6135,This really gets down to the fundamental difference in our philosophies.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,11,681,0.82303,-1
+6138,"I want, Joe, you to do the job.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,8,684,0.0,-1
+6139,I want to leave money in your pocket.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,8,685,-0.506483,-1
+6141,That's what I'm all about.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,687,0.0,-1
+6152,And don't take my word for it.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,7,698,-0.410883,-1
+6154,"All I want to do, if you've already got health care, is lower your costs.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,15,700,-0.414911,-1
+6164,That's not appropriate to do.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,710,-0.634826,-1
+6168,I think that decisions should rest in the hands of the states.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,12,714,0.0,-1
+6177,"Not because I agreed with their ideology, but because I thought they were qualified and that elections have consequences when presidents are nominated.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,23,723,0.0,-1
+6178,This is a very important issue we're talking about.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,9,724,0.856862,-1
+6179,Senator Obama voted against Justice Breyer and Justice Roberts on the grounds that they didn't meet his ideological standards.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,19,725,0.0,1
+6183,And so that's what I will do.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,729,0.230777,-1
+6187,I would consider anyone in their qualifications.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,733,0.0,-1
+6192,"And it is true that this is going to be, I think, one of the most consequential decisions of the next president.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,22,738,0.841644,-1
+6194,Now I would not provide a litmus test.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,8,740,-0.289075,-1
+6196,I think that abortion is a very difficult issue and it is a moral issue and one that I think good people on both sides can disagree on.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,28,742,0.0,-1
+6213,We have to change the culture of America.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,8,759,0.0,-1
+6214,Those of us who are proudly pro-life understand that.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,9,760,-0.27975,-1
+6215,And it's got to be courage and compassion that we show to a young woman who's facing this terribly difficult decision.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,21,761,-0.359305,-1
+6216,"Senator Obama, as a member of the Illinois State Senate, voted in the Judiciary Committee against a law that would provide immediate medical attention to a child born of a failed abortion.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,32,762,-0.368397,1
+6219,"Then there was another bill before the Senate Judiciary Committee in the state of Illinois not that long ago, where he voted against a ban on partial-birth abortion, one of the late-term abortion, a really -- one of the bad procedures, a terrible.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,43,765,-0.943265,1
+6227,"Yes, let me respond to this.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,6,773,0.281178,-1
+6243,We should try to reduce these circumstances.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,7,789,0.0,-1
+6247,"Just again, the example of the eloquence of Senator Obama.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,793,0.0,-1
+6273,"If we do those things, then I believe that we can create a better school system.",Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,16,819,0.430959,-1
+6276,Parents are going to have to show more responsibility.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,9,822,0.0,-1
+6287,"Now, throwing money at the problem is not the answer.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,833,-0.556748,-1
+6289,So I believe that we need to reward these good teachers.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,11,835,0.727029,-1
+6291,"Look, we must improve education in this country.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,8,837,0.506449,-1
+6292,"As far as college education is concerned, we need to make those student loans available.",John McCain,Senator,REPUBLICAN,2008-10-15.txt,15,838,-0.399098,-1
+6307,I think it's important to foster competition inside the public schools.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,11,853,0.315637,-1
+6328,And we need to fix a lot of the problems.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,874,-0.425328,-1
+6331,I think the Head Start program is a great program.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,10,877,0.727893,-1
+6338,We need to have transparency.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,5,884,0.0,-1
+6344,And we'll care for these young children.,John McCain,Senator,REPUBLICAN,2008-10-15.txt,7,890,0.316621,-1
+6351,I'll just make a quick comment about vouchers in D.C.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,10,897,0.332071,-1
+6392,And that's why the biggest risk we could take right now is to adopt the same failed policies and the same failed politics that we've seen over the last eight years and somehow expect a different result.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,37,938,-0.624717,-1
+6399,In businesses that can create the new energy economy of the future.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,12,945,0.346589,-1
+6402,And these are the policies I want to bring to the White House.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,13,948,0.0,-1
+6403,But it's not going to be easy.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,7,949,-0.315767,-1
+6406,I'm absolutely convinced we can do it.,Barack Obama,Senator,DEMOCRAT,2008-10-15.txt,7,952,0.820644,-1
+6449,"Well, first of all, Bob, thank you for moderating tonight.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,10,35,0.859358,-1
+6483,Freedom is on the march.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,5,69,0.0,-1
+6542,We're going to make it affordable and accessible.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,8,128,0.943339,-1
+6584,I'm going to stand up and fight for the American worker.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,11,170,0.0,-1
+6596,"When they tried to reduce taxes, he voted against that 127 times.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,12,182,-0.491087,1
+6658,"I've had shop stewards stand up and say, ""Will you promise me you're going to stop all this outsourcing?",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,19,244,0.0,0
+6665,I don't want American workers subsidizing the loss of their own job.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,12,251,-0.650941,-1
+6667,And we're going to have a manufacturing jobs credit and a job hiring credit so we actually help people be able to hire here.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,24,253,0.901088,-1
+6701,"I believe the role of government is to stand side by side with our citizens to help them realize their dreams, not tell citizens how to live their lives.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,29,287,0.435875,-1
+6720,"When they voted -- when they proposed reducing taxes, you voted against it 126 times.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,15,306,-0.286457,1
+6721,He voted to violate the budget cap 277 times.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,9,307,-0.421466,1
+6729,"You know, Bob, I don't know.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,6,315,0.0,-1
+6759,"But I also believe that because we are the United States of America, we're a country with a great, unbelievable Constitution, with rights that we afford people, that you can't discriminate in the workplace.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,34,345,0.355891,-1
+6776,"It's between a woman, God and her doctor.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,8,362,0.0,-1
+6784,I was an altar boy.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,5,370,0.0,0
+6862,Result: $139 billion windfall profit to the drug companies coming out of your pockets.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,14,448,-0.470664,1
+6881,"I've actually passed 56 individual bills that I've personally written and, in addition to that, and not always under my name, there is amendments on certain bills.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,27,467,0.0,1
+6882,"But more importantly, with respect to the question of no record, I helped write -- I did write, I was one of the original authors of the early childhood health care and the expansion of health care that we did in the middle of the 1990s.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,46,468,0.920155,1
+6883,And I'm very proud of that.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,6,469,0.88296,-1
+6903,But I got a better plan.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,6,489,0.796474,-1
+6910,"If it's good enough for us, it's good enough for every American.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,12,496,0.918031,-1
+6917,"Now, what happens is when you begin to get people covered like that -- for instance in diabetes, if you diagnose diabetes early, you could save $50 billion in the health care system of America by avoiding surgery and dialysis.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,40,503,-0.557703,1
+6946,Americans ought to have it too.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,6,532,-0.53524,-1
+6963,"There is a problem for our youngsters, a real problem.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,10,549,-0.709122,-1
+6986,The fact is that the president is driving the largest deficits in American history.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,14,572,0.0,1
+6992,And that's what we're going to do.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,7,578,0.502742,-1
+6993,We're going to protect Social Security.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,6,579,0.0,-1
+7021,"And this is the first president in 72 years to preside over an economy in America that has lost jobs, 1.6 million jobs.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,23,607,-0.623183,1
+7023,I have a plan to put America back to work.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,10,609,-0.386087,-1
+7033,Twenty percent of the upper-income people pay about 80 percent of the taxes in America today because of how we structured the tax cuts.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,24,619,-0.782259,1
+7049,But the way to make sure our economy grows is not to raise taxes on small-business owners.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,17,635,-0.220235,-1
+7064,"We've got 1,000 more Border Patrol agents on the southern border.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,11,650,0.0,1
+7074,"And so in order to take pressure off the borders, in order to make the borders more secure, I believe there ought to be a temporary worker card that allows a willing worker and a willing employer to mate up, so long as there's not an American willing to do that job, to join up in order to be able to fulfill the employers' needs.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,65,660,0.749058,-1
+7082,I don't think we ought to reward illegal behavior.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,9,668,-0.683763,-1
+7102,"The fact is, we haven't done what we need to do to toughen up our borders, and I will.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,19,688,-0.742028,-1
+7131,"Well, I'm glad you raised that question.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,7,717,0.755395,-1
+7141,"One percent of America got $89 billion last year in a tax cut, but people working hard, playing by the rules, trying to take care of their kids, family values, that we're supposed to value so much in America -- I'm tired of politicians who talk about family values and don't value families.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,53,727,-0.772051,1
+7142,What we need to do is raise the minimum wage.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,10,728,-0.305529,-1
+7143,We also need to hold on to equal pay.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,9,729,0.0,-1
+7145,That's not right in America.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,5,731,-0.475153,-1
+7162,You cannot solve a problem unless you diagnose the problem.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,10,748,-0.296613,-1
+7180,Is that a new question or a 30-second question?,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,9,766,0.0,-1
+7215,Five hundred thousand kids lost after-school programs because of your budget.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,11,801,-0.708427,1
+7236,There's much we can do with them with respect to homeland security.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,12,822,0.678096,-1
+7269,"But I think it makes sense, I think most Americans in their guts know, that we ought to pass a sort of truth standard.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,24,855,-0.279185,-1
+7272,"In 1990, there was a vast coalition put together to run Saddam Hussein out of Kuwait.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,16,858,-0.312562,1
+7291,"I've been a hunter since I was a kid, 12, 13 years old.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,13,877,0.0,0
+7319,Now I'm the senior Democrat on it.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,7,905,0.0,0
+7336,"Now, let me just share something.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,6,922,0.0,-1
+7340,"If a president doesn't reach out and bring people in and be inclusive, then how are we going to get over those barriers?",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,23,926,-0.469804,-1
+7346,"I agree, we shouldn't have quotas.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,6,932,0.0,-1
+7349,"Do you realize today in America, we spend $73 billion to help 10 million low- and middle-income families better afford college?",George W. Bush,President,REPUBLICAN,2004-10-13.txt,21,935,0.27552,1
+7351,"I believe the best way to help our small businesses is not only through small-business loans, which we have increased since I've been the president of the United States, but to unbundle government contracts so people have a chance to be able to bid and receive a contract to help get their business going.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,54,937,0.784423,1
+7389,"Well, I respect everything that the president has said and certainly respect his faith.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,14,975,0.932844,-1
+7394,And people all find their ways to express it.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,9,980,0.0,-1
+7396,"And frankly, I think we have a lot more loving of our neighbor to do in this country and on this planet.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,22,982,0.642974,-1
+7454,I love the strong women around me.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,7,1040,0.729565,-1
+7455,I can't tell you how much I love my wife and our daughters.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,13,1041,0.357029,-1
+7471,"And not only did she interest me, I guess you would say it was love at first sight.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,18,1057,0.0,-1
+7510,"I think the greatest possibilities of our country, our dreams and our hopes, are out there just waiting for us to grab onto them.",John Kerry,Senator,DEMOCRAT,2004-10-13.txt,24,1096,0.399807,-1
+7512,I ask you for your trust.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,6,1098,0.668866,-1
+7517,And God bless the United States of America.,John Kerry,Senator,DEMOCRAT,2004-10-13.txt,8,1103,0.0,-1
+7524,"It's the side to see the day that is coming, not to see the day that is gone. """,George W. Bush,President,REPUBLICAN,2004-10-13.txt,19,1110,-0.295898,-1
+7525,"I love the optimism in that painting, because that's how I feel about America.",George W. Bush,President,REPUBLICAN,2004-10-13.txt,14,1111,0.84066,-1
+7539,I want to thank you for listening tonight.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,8,1125,0.78796,-1
+7540,I'm asking for your vote.,George W. Bush,President,REPUBLICAN,2004-10-13.txt,5,1126,0.0,-1
+7583,Now Senator Kennedy has made some very strong criticisms of my part - or alleged part - in what has happened in Cuba.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,23,22,-0.205018,0
+7586,"There were eleven dictators in South America and in Central America when we came in, in 1953.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,17,25,0.0,1
+7596,There isn't any question but that we will defend Guantanamo if it's attacked.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,13,35,-0.433669,-1
+7600,In the first place I've never suggested that Cuba was lost except for the present.,John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,15,39,0.0,1
+7637,"But when the president of the United States is doing something that's right, something that is for the purpose of defending the security of this country against surprise attack, he can never express regrets or apologize to anybody, including Mr. Khrushchev.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,41,76,-0.261814,-1
+7650,I think we have to make progress first in the field of employment.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,13,89,0.214954,-1
+7653,"Second, in the field of schools, we believe that there should be provisions whereby the federal government would give assistance to those districts who do want to integrate their schools.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,30,92,0.42763,-1
+7657,Here we have a situation which causes all of us concern - causes us concern because of the denial of the rights of people to the equality which we think belongs to everybody.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,33,96,-0.693814,-1
+7702,We are a goldfish bowl before the world.,John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,8,141,0.0,-1
+7722,Let me s- look also at what I did.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,9,161,0.0,-1
+7743,There were seventy votes for our position and none for theirs.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,11,182,-0.287507,1
+7747,Now looking to what we ought to do in the future.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,11,186,-0.278644,-1
+7789,"We tried to provide an appropriation of a billion and a half for five years, on a long-term loan basis, which this Administration opposed.",John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,24,228,-0.605278,1
+7836,Well Mr. Nixon has stated the record inaccurately in regard to the depressed area bill.,John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,15,275,-0.688303,1
+7839,I was the floor manager.,John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,5,278,0.0,0
+7847,"Third, I believe we should step up the use of our surplus foods in these areas until we're able to get the people back to work.",John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,26,286,-0.269833,-1
+7871,"I think in many ways this election is more important than any since 1932, or certainly almost any in this century.",John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,21,310,0.455438,-1
+7923,"On the question of the summit, I agree with the position of Mr. Nixon.",John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,14,362,0.0,-1
+7939,"Now, many of the programs that I'm talking about - economic growth, care for the aged, development of our natural resources - build the strength of the United States.",John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,29,378,0.823521,-1
+7944,We're using our steel capacity fifty-five per cent today.,John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,9,383,0.228099,1
+7981,"But the thing that is right about the United States, it should be emphasized, is that less people go to bed hungry in the United States than in any major country in the world.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-07.txt,34,420,0.0,1
+7994,You can't tell me that a surplus food distribution of five cents po- per person - and that n- nearly six million Americans receiving that - is adequate.,John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,28,433,-0.648702,1
+8010,We have never said flatly that we will defend Quemoy and Matsu if it's attacked.,John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,15,449,-0.684093,1
+8016,"I believe that when you get into a w- if you're going to get into war for the defense of Formosa, it ought to be on a clearly defined line.",John F. Kennedy,Senator,DEMOCRAT,1960-10-07.txt,30,455,0.0,-1
+8123,"This is a great country, but I think it could be a greater country; and this is a powerful country, but I think it could be a more powerful country.",John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,30,26,0.790388,-1
+8124,I'm not satisfied to have fifty percent of our steel-mill capacity unused.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,12,27,-0.754051,1
+8136,I'm not satisfied until every American enjoys his full constitutional rights.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,11,39,-0.458995,-1
+8164,That is the obligation upon our generation.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,7,67,0.597432,-1
+8188,Is the United States standing still?,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,6,91,-0.248064,-1
+8222,What kind of programs are we for?,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,7,125,0.492126,-1
+8229,I think that the means that I advocate will reach that goal better than the means that he advocates.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,19,132,0.501138,-1
+8239,Because it isn't a question of how much the federal government spends; it isn't a question of which government does the most.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,22,142,-0.390104,-1
+8255,"Well, the Vice President and I came to the Congress together 1946; we both served in the Labor Committee.",John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,19,158,0.0,0
+8310,In my judgment the only policy that will work will be for effective supply and demand to be in balance.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,20,213,0.349977,-1
+8319,I of course disagree with Senator Kennedy insofar as his suggestions as to what should be done uh - with re- on the farm program.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,25,222,0.314561,-1
+8353,Uh - I can only say that my experience is there for the people to consider; Senator Kennedy's is there for the people to consider.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,25,256,0.0,-1
+8411,"As far as aid for school construction is concerned, I favor that, as Senator Kennedy did, in January of this year, when he said he favored that rather than aid to s- teacher salaries.",Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,34,314,0.568388,1
+8422,Why did Senator Kennedy take that position then?,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,8,325,-0.242185,-1
+8437,My objection here is not the cost in dollars.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,9,340,-0.491989,-1
+8460,And I might say that two-thirds of the Republicans in the House voted against a dollar twenty-five cent minimum wage and a majority of the Democrats sustained it - nearly two-thirds of them voted for the dollar twenty-five.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,38,363,-0.659104,1
+8468,Every Republican on the Rules Committee voted against sending that bill to be considered by the members of the House of Representatives.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,22,371,0.0,1
+8533,That's why we have to continue to be alert.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,9,436,-0.533772,-1
+8546,Now that isn't the test of whether America moves.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,9,449,-0.279914,-1
+8551,"Now, the reason the Eisenhower Administration has moved, the reason that we've had the funds, for example, locally to build the schools, and the hospitals, and the highways, to make the progress that we have, is because this Administration has encouraged individual enterprise; and it has resulted in the greatest expansion of the private sector of the economy that has ever been witnessed in an eight-year period.",Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,67,454,0.583661,1
+8562,"I think that's the big assignment, the big task, the big function of the federal government.",John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,16,465,-0.425751,-1
+8596,And I stand for programs that will mean growth and progress.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,11,499,0.825269,-1
+8597,But it is also essential that he not allow a dollar spent that could be better spent by the people themselves.,Richard M. Nixon,Vice President,REPUBLICAN,1960-09-26.txt,21,500,0.521821,-1
+8605,The Kerr bill provided assistance to all those who were not on Social Security.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,14,508,0.0,1
+8612,The means are at issue.,John F. Kennedy,Senator,DEMOCRAT,1960-09-26.txt,5,515,0.0,-1
+8668,"What I would propose, and I proposed it way back in March when I was a candidate in my own state of Illinois, I proposed $11.3 billion, specifically, in cuts in the Federal budget.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,34,37,-0.640828,1
+8710,Why not leave it with them?,Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,6,79,-0.45155,-1
+8718,"Well, I believe that conservation, at course, is worthy in and of itself.",Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,13,87,0.861665,-1
+8778,"When you have a report, as we did recently, that six out of 10 CONUS Divisions in this country - Continental United States Army Divisions - simply could not pass a readiness test: that two out of three divisions that were to be allocated to the so-called Rapid Deployment Force could not meet a readiness test.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,56,147,-0.202391,1
+8824,"That is just a downpayment, in my opinion.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,8,193,0.215625,-1
+8835,But I am not in favor of the plan that is so costly.,Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,13,204,-0.653886,-1
+8876,"We have also provided in our program for a $4 billion Community Trust Fund, and we've told you where the money is coming from.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,24,245,0.706912,1
+8886,"And the problem is, with Governments - Federal, State and Local - taking $.44 out of every dollar earned, that the Federal Government has pre-empted too many of the tax sources, and that the cities.",Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,35,255,-0.569282,1
+8928,"And one is going to give you $122 more if you happen to be in that range of about a $20,000-a-year income.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,22,297,0.615137,1
+8961,This is 1980 and not 1966.,John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,6,330,0.0,0
+8974,"Now also, with regard to the figures about California.",Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,9,343,0.0,-1
+9000,"Now, whether it is rightful, on a single issue, for anyone to advocate that someone should not be elected or not, I won't take a position on that.",Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,28,369,0.0,-1
+9009,"Now, Governor Reagan is running on a platform that calls for a Constitutional amendment banning abortion.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,16,378,0.0,1
+9017,"On the Amendment that you mentioned, I abandoned it 15 years ago.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,12,386,-0.348261,1
+9027,"With regard to the freedom of the individual for choice with regard to abortion, there's one individual who's not being considered at all.",Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,23,396,0.342907,-1
+9063,"I believe the people of this country can, and together, we can begin the world over again.",Ronald Reagan,Governor,REPUBLICAN,1980-09-21.txt,17,432,0.503331,-1
+9083,"A great historian, Henry Steele Commager, said that in their lust for victory, neither traditional party is looking beyond November.",John Anderson,Congressman,INDEPENDENT,1980-09-21.txt,20,452,0.0,0
+9128,"Thank you, Mr. President, also for being part of this -- this debate.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,13,33,0.78716,-1
+9130,"I was in Pennsylvania with someone who had just graduated -- this was in Philadelphia -- and she said, ""I've got my degree.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,23,35,0.0,0
+9136,We have to make sure that we make it easier for kids to afford college.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,15,41,0.0,-1
+9145,I know what it takes to get this economy going.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,10,50,-0.330875,-1
+9150,I'm going to change that.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,55,0.0,-1
+9164,"Jeremy, first of all, your future is bright.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,8,69,0.66206,-1
+9170,"And what I want to do, is build on the five million jobs that we've created over the last 30 months in the private sector alone.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,26,75,0.0,1
+9190,Well what you're seeing in this country is 23 million people struggling to find a job.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,16,95,0.0,1
+9243,We have increased oil production to the highest levels in 16 years.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,12,148,0.0,1
+9244,Natural gas production is the highest it's been in decades.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,10,149,0.532677,1
+9247,We've also got to look to the future.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,8,152,0.433626,-1
+9255,"We've got potentially 600,000 jobs and 100 years worth of energy right beneath our feet with natural gas.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,18,160,0.662541,1
+9272,So where'd the increase come from?,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,6,177,-0.587073,-1
+9283,I was in coal country.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,188,-0.202098,0
+9292,I'll get America and North America energy independent.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,8,197,0.328952,-1
+9294,We're going to bring that pipeline in from Canada.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,9,199,0.219998,-1
+9332,How much did you cut them by?,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,7,237,-0.216316,-1
+9333,I'm happy to answer the question.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,6,238,0.685647,-1
+9348,Production on government land of oil is down 14 percent.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,10,253,-0.647295,1
+9350,And production on gas --,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,255,-0.381823,-1
+9355,"And coal, coal production is not up; coal jobs are not up.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,12,260,-0.600802,1
+9367,I don't think the American people believe that.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,8,272,-0.20863,-1
+9395,And we need to win that future.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,7,300,0.246972,-1
+9396,And I intend to win it as President of the United States.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,12,301,0.264632,-1
+9457,Why am I lowering taxes on the middle-class?,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,8,362,-0.822561,-1
+9461,"And I will not, under any circumstances increase taxes on the middle-class.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,12,366,-0.693441,-1
+9464,"A recent study has shown the people in the middle-class will see $4,000.00 per year in higher taxes as a result of the spending and borrowing of this administration.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,29,369,-0.486677,1
+9475,"Actually it was a town hall, and I said I would cut taxes for middle- class families, and that's what I've done, by $3,600.00.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,24,380,-0.354036,1
+9487,It will be good for our economy and it will be good for job creation.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,15,392,0.86711,-1
+9494,I think that grows the economy.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,6,399,0.0,-1
+9495,I think what grows the economy is when we make sure small businesses are getting a tax credit for hiring veterans who fought for our country.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,26,400,0.0,-1
+9503,"The top 5 percent will continue to pay 60 percent, as they do today.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,14,408,-0.25566,1
+9516,We don't have to live like this.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,7,421,-0.400189,-1
+9535,"Along with what he also wants to do in terms of eliminating the estate tax, along what he wants to do in terms of corporates, changes in the tax code, it costs about $5 trillion.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,35,440,-0.560822,1
+9591,"Well, Katherine, that's a great question.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,6,496,0.803341,-1
+9592,"And, you know, I was raised by a single mom who had to put herself through school while looking after two kids.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,22,497,-0.207869,0
+9623,"I was proud of the fact that after I staffed my Cabinet and my senior staff, that the University of New York in Albany did a survey of all 50 states, and concluded that mine had more women in senior leadership positions than any other state in America.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,48,528,0.35683,1
+9627,"She said, I can't be here until 7 or 8 o'clock at night.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,13,532,-0.563494,0
+9630,Let's have a flexible schedule so you can have hours that work for you.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,14,535,0.542073,-1
+9632,"In the -- in the last women have lost 580,000 jobs.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,11,537,-0.297701,1
+9635,"I mentioned 31/2 million women, more now in poverty than four years ago.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,13,540,-0.672282,1
+9640,An economy that has 23 million people looking for work is not a strong economy.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,15,545,-0.351172,1
+9656,"Governor Romney not only opposed it, he suggested that in fact employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,32,561,0.0,1
+9668,And I've got two daughters and I want to make sure that they have the same opportunities that anybody's sons have.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,21,573,0.0,0
+9677,And I appreciate that question.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,582,0.52102,-1
+9683,The time -- the time...,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,588,0.0,-1
+9693,Let me come back and -- and answer your question.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,10,598,0.214908,-1
+9694,President Bush and I are -- are different people and these are different times and that's why my five point plan is so different than what he would have done.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,30,599,-0.295427,-1
+9704,"He was right, but then he put in place deficits twice that size for every one of his four years.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,20,609,-0.297064,1
+9716,I know how to make that happen.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,7,621,-0.299612,-1
+9722,"We were losing 800,000 jobs a month when I started.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,10,627,-0.595367,1
+9724,"Now, we've seen 30 consecutive -- 31 consecutive months of job growth; 5.2 million new jobs created.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,17,629,0.0,1
+9731,We've brought twice as many cases against unfair trading practices than the previous administration and we've won every single one that's been decided.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,23,636,-0.513816,1
+9733,"Well, in fact we saved 1,000 jobs.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,7,638,0.43757,1
+9735,But the last point I want to make is this.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,10,640,-0.464733,-1
+9796,He said that by now we'd have unemployment at 5.4 percent.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,11,701,-0.557488,1
+9817,The entire record is such that the unemployment has not been reduced in this country.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,15,722,-0.432064,1
+9818,"The unemployment, the number of people who are still looking for work, is still 23 million Americans.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,17,723,-0.583856,1
+9829,"Yeah, in the Reagan recession where unemployment hit 10.8 percent, between that period -- the end of that recession and the equivalent of time to today, Ronald Reagan's recovery created twice as many jobs as this president's recovery.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,38,734,-0.753064,1
+9835,"And that record shows he just hasn't been able to cut the deficit, to put in place reforms for Medicare and Social Security to preserve them, to get us the rising incomes we need.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,34,740,-0.667831,1
+9836,"Median income is down $4,300 a family and 23 million Americans out of work.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,14,741,-0.435673,1
+9860,Thank you for your question.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,765,0.757965,-1
+9862,"But first of all, this is a nation of immigrants.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,10,767,0.405651,0
+9867,I want it to be streamlined.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,6,772,0.242934,-1
+9868,I want it to be clearer.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,6,773,0.0,-1
+9872,We should make sure our legal system works.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,8,777,0.40433,-1
+9874,There are 4 million people who are waiting in line to get here legally.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,14,779,0.0,1
+9876,So I will not grant amnesty to those who have come here illegally.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,13,781,-0.634059,-1
+9888,I mean we're just a few miles away from Ellis Island.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,11,793,-0.274394,0
+9897,"Number two, we do have to deal with our border so we put more border patrol on the -- any time in history and the flow of undocumented works across the border is actually lower than it's been in 40 years.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,41,802,-0.622705,1
+9929,He was asked this on Univision the other day.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,9,834,0.0,0
+9950,"Mr. President, I'm still speaking.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,855,0.0,-1
+9952,"Mr. President, let me finish.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,857,0.0,-1
+9984,I do want to make sure that -- I do want to make sure that we just understand something.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,19,889,-0.2349,-1
+9992,And we want to encourage that.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,6,897,0.584838,-1
+10040,"Thank you Kerry for your question, it's an important one.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,10,945,0.845047,-1
+10043,And today there's a memorial service for one of those that was lost in this tragedy.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,16,948,0.0,0
+10060,"Syria -- Syria's not just a tragedy of 30,000 civilians being killed by a military, but also a strategic -- strategically significant player for America.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,25,965,0.513176,1
+10088,"Can you say that a little louder, Candy?",Barack Obama,President,DEMOCRAT,2012-10-16.txt,8,993,-0.666672,-1
+10098,The ambassador of the United Nations went on the Sunday television shows and spoke about how --,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,17,1003,0.0,0
+10102,I'm happy to have a longer conversation --,Barack Obama,President,DEMOCRAT,2012-10-16.txt,8,1007,0.59234,-1
+10196,But -- but it'll -- it'll -- it'll be...,Barack Obama,President,DEMOCRAT,2012-10-16.txt,9,1101,0.208971,-1
+10261,OK. We need to create jobs here.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,7,1166,-0.511622,-1
+10262,And both Governor Romney and I agree actually that we should lower our corporate tax rate.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,16,1167,-0.470556,1
+10275,"The way we're going to create jobs here is not just to change our tax code, but also to double our exports.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,22,1180,0.0,-1
+10276,"And we are on pace to double our exports, one of the commitments I made when I was president.",Barack Obama,President,DEMOCRAT,2012-10-16.txt,19,1181,0.270705,1
+10292,We can compete with anyone in the world as long as the playing field is level.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,16,1197,0.218054,-1
+10298,"We will have to have people play on a fair basis, that's number one.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,14,1203,0.281999,-1
+10333,"Thank you, and that's an opportunity for me, and I appreciate it.",Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,12,1238,0.917262,-1
+10337,I want 100 percent of the American people to have a bright and prosperous future.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,15,1242,0.726584,-1
+10338,I care about our kids.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,5,1243,0.238802,-1
+10359,I will get us on track to a balanced budget.,Mitt Romney,Governor,REPUBLICAN,2012-10-16.txt,10,1264,0.450202,-1
+10372,I believe that the free enterprise system is the greatest engine of prosperity the world's ever known.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,17,1277,0.843222,-1
+10386,And I want to fight for them.,Barack Obama,President,DEMOCRAT,2012-10-16.txt,7,1291,-0.602058,-1
+10437,"Well, Alan (ph), thank you very much for the question.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,10,36,0.805454,-1
+10448,"And, in fact, we just found out that AIG, a company that got a bailout, just a week after they got help went on a $400,000 junket.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,27,47,-0.308987,1
+10451,The middle-class need a rescue package.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,6,50,-0.312525,-1
+10455,"And then long-term we've got to fix our health care system, we've got to fix our energy system that is putting such an enormous burden on families.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,27,54,-0.601545,-1
+10461,"And, Alan (ph), thank you for your question.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,60,0.712922,-1
+10462,You go to the heart of America's worries tonight.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,9,61,0.729647,-1
+10464,It's our job to fix the problem.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,7,63,-0.433056,-1
+10465,"Now, I have a plan to fix this problem and it has got to do with energy independence.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,18,64,0.0,-1
+10467,We have to keep Americans' taxes low.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,7,66,-0.632839,-1
+10469,Let's not raise taxes on anybody today.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,7,68,-0.390473,-1
+10472,We've got to have a package of reforms and it has got to lead to reform prosperity and peace in the world.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,22,71,0.807639,-1
+10479,And we've got to give some trust and confidence back to America.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,12,78,0.831606,-1
+10494,"But I think the first criteria, Tom, would have to be somebody who immediately Americans identify with, immediately say, we can trust that individual.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,24,93,0.579812,-1
+10498,She knows how to create jobs.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,6,97,0.0,-1
+10508,Prosperity is not just going to trickle down.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,8,107,-0.573774,-1
+10513,"And that's why, for example, on tax policy, what I want to do is provide a middle class tax cut to 95 percent of working Americans, those who are working two jobs, people who are not spending enough time with their kids, because they are struggling to make ends meet.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,50,112,-0.816635,-1
+10514,Senator McCain is right that we've got to stabilize housing prices.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,11,113,0.339112,-1
+10555,"Now, with respect to Fannie Mae, what Senator McCain didn't mention is the fact that this bill that he talked about wasn't his own bill.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,25,154,-0.225283,1
+10574,I think it depends on what we do.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,173,0.0,-1
+10579,Americans' workers are the best in the world.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,178,0.437747,-1
+10586,And we've got to give them a chance.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,185,0.619675,-1
+10587,They've got -- we've got to give them a chance to do their best again.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,15,186,0.815531,-1
+10597,Maybe you don't go out to dinner as much.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,9,196,-0.474842,-1
+10605,"When George Bush came into office, our debt -- national debt was around $5 trillion.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,15,204,-0.682739,1
+10608,"And so while it's true that nobody's completely innocent here, we have had over the last eight years the biggest increases in deficit spending and national debt in our history.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,30,207,-0.68343,1
+10610,So here's what I would do.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,6,209,0.0,-1
+10615,We are mortgaging our children's future.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,6,214,-0.381046,-1
+10629,Senator Obama has never taken on his leaders of his party on a single issue.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,15,228,-0.278068,1
+10630,And we need to reform.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,5,229,0.0,-1
+10634,I don't expect you to watch every vote.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,233,-0.475282,-1
+10659,I think it's very important that we reform our entitlement programs.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,11,258,0.586364,-1
+10682,So we've got to deal with that right away.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,9,281,0.711237,-1
+10685,And we can do it.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,5,284,0.0,-1
+10687,So that would be priority number one.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,7,286,0.0,-1
+10692,We do need to look at our records.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,8,291,0.0,-1
+10699,That's what I'm going to do as president of the United States.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,12,298,0.0,-1
+10707,"Well, Fiora (ph), I'm going to ask the American people to understand that there are some programs that we may have to eliminate.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,23,306,-0.612457,-1
+10713,I believe that we have to eliminate the earmarks.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,9,312,-0.800387,-1
+10719,"And, by the way, I want to go back a second.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,11,318,-0.453417,-1
+10720,"Look, we can attack health care and energy at the same time.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,12,319,0.579179,-1
+10723,"We can, with the participation of all Americans, work together and solve these problems together.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,15,322,-0.271375,-1
+10730,That wasn't the kind of call to service that I think the American people were looking for.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,17,329,0.0,-1
+10737,We're going to have to develop clean coal technology and safe ways to store nuclear energy.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,16,336,0.786534,-1
+10738,"But each and every one of us can start thinking about how can we save energy in our homes, in our buildings.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,22,337,0.72087,-1
+10753,"Now, when Senator McCain is proposing tax cuts that would give the average Fortune 500 CEO an additional $700,000 in tax cuts, that's not sharing a burden.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,27,352,-0.749764,1
+10762,"Well, you know, nailing down Senator Obama's various tax proposals is like nailing Jell-O to the wall.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,17,361,-0.405583,-1
+10771,"I've got some news, Senator Obama, the news is bad.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,10,370,-0.748181,-1
+10794,"So let's be clear about my tax plan and Senator McCain's, because we're not going to be able to deal with entitlements unless we understand the revenues coming in.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,29,393,0.0,-1
+10799,"Only a few percent of small businesses make more than $250,000 a year.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,13,398,-0.373637,1
+10803,"Now, in contrast, Senator McCain wants to give a $300 billion tax cut, $200 billion of it to the largest corporations and a hundred thousand of it -- a hundred billion of it going to people like CEOs on Wall Street.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,41,402,-0.484026,1
+10815,I want to get to Medicare in a second.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,9,414,-0.453057,-1
+10822,Senator Obama has never taken on his party leaders on a single major issue.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,14,421,-0.296333,1
+10834,"When he ran for the United States Senate from Illinois, he said he would have a middle-income tax cut.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,19,433,-0.256716,1
+10842,And our best days are ahead of us.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,441,0.864659,-1
+10859,"Now, how -- what's -- what's the best way of fixing it?",John McCain,Senator,REPUBLICAN,2008-10-07.txt,12,458,0.683326,-1
+10863,"Nuclear power is safe, and it's clean, and it creates hundreds of thousands of jobs.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,15,462,0.805385,1
+10874,"And we can do it, but we're going to have to make an investment.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,14,473,0.636509,-1
+10882,"And during that time, he voted 23 times against alternative fuels, 23 times.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,13,481,0.0,1
+10889,We've got to make sure that we're giving them the energy that they need or helping them to create the energy that they need.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,24,488,0.658055,-1
+10892,I'm just trying to keep up with John.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,8,491,-0.379698,-1
+10899,I think pure research and development investment on the part of the United States government is certainly appropriate.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,18,498,0.590131,-1
+10901,"By the way, my friends, I know you grow a little weary with this back-and-forth.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,15,500,-0.588583,-1
+10927,"If you've got health insurance, most of you have seen your premiums double over the last eight years.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,18,526,0.519334,1
+10952,"Well, thank you for the question.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,6,551,0.820056,-1
+10955,And we need to do all of the things that are necessary to make it more efficient.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,17,554,0.642552,-1
+10959,Let's do a lot of things to impose efficiencies.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,9,558,0.0,-1
+10967,"I want to give every American a $5,000 refundable tax credit.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,11,566,0.0,-1
+10970,Don't we go across state lines when we purchase other things in America?,John McCain,Senator,REPUBLICAN,2008-10-07.txt,13,569,-0.50497,-1
+10974,But the point is that we have got to give people choice in America and not mandate things on them and give them the ability.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,25,573,0.0,-1
+10978,We've got to give them the wherewithal to do it.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,10,577,0.493287,-1
+10998,So let me -- let me just talk about this fundamental difference.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,12,597,0.519033,-1
+11001,All I'm going to do is help you to lower the premiums on it.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,14,600,0.0,-1
+11025,"Well, I thank you for that question, because there's no doubt that history shows us that nations that are strong militarily over time have to have a strong economy, as well.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,31,624,0.805161,-1
+11026,And that is one of the challenges that America faces.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,10,625,-0.382283,-1
+11040,"Well, you know, Senator McCain, in the last debate and today, again, suggested that I don't understand.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,17,639,0.0,0
+11049,"We've spent, so far, close to $700 billion and if we continue on the path that we're on, as Senator McCain is suggesting, it's going to go well over $1 trillion.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,31,648,0.38504,1
+11061,"Well, we may not always have national security issues at stake, but we have moral issues at stake.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,18,660,0.0,-1
+11062,"If we could have intervened effectively in the Holocaust, who among us would say that we had a moral obligation not to go in?",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,24,661,0.0,-1
+11065,"And so I do believe that we have to consider it as part of our interests, our national interests, in intervening where possible.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,23,664,0.0,-1
+11070,Right now there's a peacekeeping force that has been set up and we have African Union troops in Darfur to stop a genocide that has killed hundreds of thousands of people.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,31,669,-0.64954,1
+11072,And that's what I intend to do when I'm president.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,10,671,0.0,-1
+11074,"Well, let me just follow up, my friends.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,673,0.651488,-1
+11080,"And we must do whatever we can to prevent genocide, whatever we can to prevent these terrible calamities that we have said never again.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,24,679,-0.888847,-1
+11081,But it also has to be tempered with our ability to beneficially affect the situation.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,15,680,-0.284237,-1
+11094,And I understand that we have to say never again to a Holocaust and never again to Rwanda.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,18,693,-0.670975,-1
+11112,"And if we have Osama bin Laden in our sights and the Pakistani government is unable or unwilling to take them out, then I think that we have to act and we will take them out.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,36,711,-0.573138,-1
+11130,And that is to get the support of the people.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,10,729,0.621271,-1
+11132,"And by working and coordinating our efforts together, not threatening to attack them, but working with them, and where necessary use force, but talk softly, but carry a big stick.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,30,731,0.367744,-1
+11145,It'd be fine with me.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,5,744,0.507324,-1
+11191,"We are going to have to make the Iraqi government start taking more responsibility, withdraw our troops in a responsible way over time, because we're going to have to put some additional troops in Afghanistan.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,35,790,-0.425738,-1
+11195,And we want a democracy in Afghanistan.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,7,794,0.0,-1
+11199,And I've had conversations with him.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,6,798,-0.28188,0
+11203,We have to have a streamlined NATO command structure.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,9,802,0.0,-1
+11204,We have to do a lot of things.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,8,803,0.0,-1
+11210,We will succeed and we will bring our troops home with honor and victory and not in defeat.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,18,809,0.309784,-1
+11228,"But the Russians must understand that these kinds of actions and activities are not acceptable and hopefully we will use the leverage, economic, diplomatic and others united with our allies, with our allies and friends in Europe who are equally disturbed as we are about their recent behaviors.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,48,827,0.485407,-1
+11234,And for the most part I agree with Senator McCain on many of the steps that have to be taken.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,20,833,0.438201,-1
+11235,But we can't just provide moral support.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,7,834,0.0,-1
+11240,"The other thing we have to do, though, is we've got to see around the corners.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,16,839,0.0,-1
+11266,And Georgia and Ukraine are both major gateways of energy into Europe.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,12,865,0.0,1
+11277,"Well, thank you, Terry (ph).",John McCain,Senator,REPUBLICAN,2008-10-07.txt,5,876,0.804116,-1
+11278,And thank you for your service to the country.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,9,877,0.811791,-1
+11293,And I think we can do that.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,7,892,0.217727,-1
+11295,"But, at the end of the day, my friend, I have to tell you again, and you know what it's like to serve, and you know what it's like to sacrifice, but we can never allow a second Holocaust to take place.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,42,894,0.0,-1
+11299,It would be a game-changer in the region.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,8,898,0.376094,-1
+11302,And I will do everything that's required to prevent it.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,10,901,0.0,-1
+11313,"Iran went from zero centrifuges to develop nuclear weapons to 4,000.",Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,11,912,-0.473446,1
+11327,But here's what I do know.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,6,926,0.0,-1
+11333,And the question in this election is: are we going to pass on that same American dream to the next generation?,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,21,932,0.551427,-1
+11340,That's what's at stake in this election.,Barack Obama,Senator,DEMOCRAT,2008-10-07.txt,7,939,0.0,-1
+11351,"There are challenges around the world that are new and different and there will be different -- we will be talking about countries sometime in the future that we hardly know where they are on the map, some Americans.",John McCain,Senator,REPUBLICAN,2008-10-07.txt,39,950,-0.316274,-1
+11354,I grew up in a family where my father was gone most of the time because he was at sea and doing our country's business.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,25,953,-0.226681,0
+11357,I know what it's like to have to fight to keep one's hope going through difficult times.,John McCain,Senator,REPUBLICAN,2008-10-07.txt,17,956,-0.653842,-1
+11665,I thought that was a good model.,George W. Bush,Governor,REPUBLICAN,2000-10-11.txt,7,289,0.0,-1
+11676,I don't think we agree on that.,Al Gore,Vice President,DEMOCRAT,2000-10-11.txt,7,300,-0.391901,-1
+11975,And I think that's a private matter.,George W. Bush,Governor,REPUBLICAN,2000-10-11.txt,7,599,0.0,-1
+12145,"And therefore Congress passes the bill after our session in 1997 ended, we passed an enabling legislation in 1999.",George W. Bush,Governor,REPUBLICAN,2000-10-11.txt,19,769,0.0,0
+12157,I believe there are 1.4 million children in Texas who do not have health insurance.,Al Gore,Vice President,DEMOCRAT,2000-10-11.txt,15,781,0.0,1
+12163,We've spent $4.7 billion a year in the State of Texas for uninsured people.,George W. Bush,Governor,REPUBLICAN,2000-10-11.txt,14,787,-0.369819,1
+12246,And Texas is number one in industrial pollution.,Al Gore,Vice President,DEMOCRAT,2000-10-11.txt,8,870,-0.377951,1
+12540,"That is why Senator wh- President Eisenhower was also correct in his policy in the Formosa Straits, where he declined, and refused to follow the recommendations - recommendations which Senator Kennedy voted for in 1955; again made in 1959; again repeated in his debates that you have heard - recommendations with regard to - again - slicing off a piece of free territory, and abandoning it, if - in effect, to the Communists.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,73,48,0.614006,1
+12557,"And so we need military strength, we need economic strength, we also need the right diplomatic policies.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,17,65,0.0,-1
+12568,"And you cannot fight a victory for Communism or a strategy of victory for Communism with the strategy, simply of holding the line.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,23,76,0.0,-1
+12574,I voted for the Formosa resolution in 1955.,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,8,82,0.0,1
+12591,In 1957 I was in Havana.,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,6,99,0.0,0
+12606,And yet last year we gave them less than five percent of all the technical assistance funds that we distributed around the world.,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,23,114,0.0,1
+12609,There isn't one country in the Middle East that now endorses the Eisenhower Doctrine.,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,14,117,-0.228711,1
+12613,But are we doing enough in these areas?,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,8,121,0.536299,-1
+12619,Are we doing enough in that area?,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,7,127,0.584143,-1
+12651,I think we are today.,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,5,159,0.0,-1
+12690,"Now, what can we do?",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,5,198,0.0,-1
+12701,"He surely must be aware that most of the equipment and arms and resources for Castro came from the United States, flowed out of Florida and other parts of the United States to Castro in the mountains.",John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,37,209,0.0,1
+12736,So that is my answer to this question.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,8,244,0.0,-1
+12750,"Second, as far as this report is concerned, I would have no objection to having it made public.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,18,258,-0.385124,-1
+12780,"What I said was that ten years ago, we were producing twice as many scientists and engineers as the Soviet Union and today they're producing twice as many as we are, and that this affects our security around the world.",John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,40,288,-0.71929,1
+12791,"I think we should go back to Geneva, who's ever elected president, Mr. Nixon or myself, and try once again.",John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,20,299,0.0,-1
+12829,This means at the secretary of state level and at the ambassadorial level.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,13,337,0.0,-1
+12832,"I don't believe we should go to a summit conference unless we have such an agenda, unless we have some reasonable insur- assurance from Mr. Khrushchev that he intends seriously to negotiate on those points.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,35,340,-0.527552,-1
+12885,We can make it move.,John F. Kennedy,Senator,DEMOCRAT,1960-10-21.txt,5,393,0.0,-1
+12922,"If he says that, this issue will not be discussed in the campaign.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,13,430,0.0,-1
+12990,Let's talk about civil rights.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,5,498,0.0,-1
+12994,Anybody that says America has been standing still for the last seven and a half years hasn't been traveling in America.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,21,502,0.0,-1
+13002,"It is essential that we extend freedom, extend it to all the world.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,13,510,0.853078,-1
+13003,And this means more than what we've been doing.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-21.txt,9,511,0.0,-1
+13122,The whole th- the United States now has a treaty - which I voted for in the United States Senate in 1955 - to defend Formosa and the Pescadores Island.,John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,30,71,0.0,1
+13129,The treaty does not include these two islands.,John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,8,78,0.0,1
+13144,"Then I believe that we should move full time on our missile production, particularly on Minuteman and on Polaris.",John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,19,93,0.0,-1
+13149,There have been many wars in the history of mankind.,John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,10,98,0.0,0
+13153,"Now, we may not succeed.",John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,5,102,-0.237827,-1
+13187,What do we do then?,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,5,136,0.0,-1
+13198,But certainly we're not going to have peace by giving in and indicating in advance that we are not going to defend what has become a symbol of freedom.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,29,147,-0.404427,-1
+13206,"I would take any action necessary to defend the treaty, Formosa, and the Pescadores Island.",John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,15,155,0.0,-1
+13295,"I don't suggest that, I don't support it.",John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,8,244,-0.59023,-1
+13303,"On our last television debate, I pointed out that it was my position that Americans must choose the best man that either party could produce.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,25,252,0.561078,0
+13322,"Uh - Also, so that we can get the uh - opportunity for the questioners to question me, it will be before the next television debate.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,26,271,0.0,-1
+13346,The difficulty now is the president's course is quite limited.,John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,10,295,-0.366481,-1
+13361,"My judgment is that the program the Vice President put forward, which is an extension of Mr. Benson's program, will cost a billion dollars more than the present program, which costs about six billion dollars a year, the most expensive in history.",John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,42,310,0.0,1
+13388,"I don't believe we ought to pay our bills through inflation, through a phony interest rate.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,16,337,-0.861081,-1
+13396,"We've got to grow enough to maintain the forces that we have abroad and to wage the non-military battle for the war - uh - for the world in Asia, in Africa and Latin America.",Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,35,345,0.243582,-1
+13403,We have to move into those areas with programs so that we make adequate use of the resources of those areas.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,21,352,0.0,-1
+13462,And so he would be doing exactly the wrong thing.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,10,411,0.0,-1
+13469,I oppose it because I want us to have more oil exploration and not less.,Richard M. Nixon,Vice President,REPUBLICAN,1960-10-13.txt,15,418,-0.305947,-1
+13502,I believe that we must be able to compete in the market - steel and in all the basic commodities abroad - we must be able to compete against them because we always did because of our technological lead.,John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,39,451,0.784844,-1
+13521,Every other ca- African country either abstained or voted against us.,John F. Kennedy,Senator,DEMOCRAT,1960-10-13.txt,11,470,-0.446395,1
+13790,I thought you'd forgotten I was here.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-19.txt,7,227,-0.538789,-1
+14104,So I have to stand up for myself.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-19.txt,8,541,0.0,-1
+14659,I don't think we're a declining nation.,George Bush,President,REPUBLICAN,1992-10-19.txt,7,1096,-0.719419,-1
+14752,"Then the question is, can we govern?",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-19.txt,7,1189,0.0,-1
+14890,"In 1974, we had the worst recession, the deepest and most penetrating recession since the Second World War.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,18,112,-0.769582,1
+14892,"In addition, we've brought down inflation.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,6,114,0.0,1
+14899,"And Business Week, which is not a Democratic publication, said that this Reagan-Kemp-Roth proposal - and I quote them, I think - was completely irresponsible and would result in inflationary pressures which would destroy this nation.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,36,121,-0.772141,1
+14911,We've had a 25% reduction since the first year I was in office.,Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,13,133,0.0,1
+14925,It had been cut in two by President Gerald Ford.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,10,147,0.0,1
+14926,It is now running at 12.7%.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,6,148,0.0,1
+14930,Mr. Carter had also promised that he would not use unemployment as a tool to fight against inflation.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,18,152,-0.298533,1
+14933,We don't have inflation because the people are living too well.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,11,155,0.335676,-1
+14937,I'll have to get this out very fast.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,8,159,0.0,-1
+14964,He more than doubled state spending while he was Governor - 122% increase - and had between a 20% and 30% increase in the number of employees,Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,27,186,0.0,1
+15027,"I have brought into the top level, top levels of government, into the White House, into administrative offices of the Executive branch, into the judicial system, highly qualified black and Spanish citizens and women who in the past had been excluded.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,41,249,0.0,1
+15084,"That's been a consistent policy, one I intend to carry out.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,11,306,0.482299,-1
+15125,"I have no quarrel whatsoever with the things that have been done, because I believe it is high time that the civilized countries of the world made it plain that there is no room worldwide for terrorism; there will be no negotiation with terrorists of any kind.",Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,47,347,-0.728537,-1
+15149,"Now, I have not blocked the SALT II treaty, as Mr. Carter and Mr. Mondale suggest I have.",Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,18,371,0.0,1
+15166,Every President who has served in the Oval Office since Harry Truman has been dedicated to the proposition of controlling nuclear weapons.,Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,22,388,0.0,1
+15167,"To negotiate with the Soviet Union a balanced, controlled, observable, and then reducing levels of atomic weaponry, there is a disturbing pattern in the attitude of Governor Reagan.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,28,389,0.0,-1
+15222,We've now reduced the importing of foreign oil in the last year alone by one-third.,Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,15,444,-0.595174,1
+15259,I just happen to believe that free enterprise can do a better job of producing the things that people need than government can.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,23,481,0.358646,-1
+15380,Six predecessors of mine who served in the Oval Office called for this guarantee of women's rights.,Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,17,602,0.227221,1
+15409,I thought that was the subject we were supposed to be on.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,12,631,-0.462836,-1
+15416,I've been President now for almost four years.,Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,8,638,0.0,0
+15418,"I've seen the strength of my nation, and I've seen the crises it approached in a tentative way.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,18,640,0.0,-1
+15422,I consider myself in the mainstream of my party.,Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,9,644,0.628418,-1
+15426,"And we must extend the benefits of our own commitment to peace, to create a peaceful world.",Jimmy Carter,President,DEMOCRAT,1980-10-28.txt,17,648,0.938985,-1
+15445,Next Tuesday is Election Day.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,5,667,0.0,0
+15460,I know that the economic program that I have proposed for this nation in the next few years can resolve many of the problems that trouble us today.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,28,682,-0.809715,-1
+15462,We cut the cost - the increased cost of government - in half over the eight years.,Ronald Reagan,Governor,REPUBLICAN,1980-10-28.txt,17,684,0.202561,1
+15491,And I want to call a hemispheric summit just as soon after the 20th of January as possible to fight that war.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,22,23,-0.41327,-1
+15525,"You know, the American people are fair.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,7,57,0.313236,-1
+15527,They want to judge it on the record itself.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,9,59,0.0,-1
+15559,"And I don't want to do that, and I won't do that.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,12,91,-0.647804,-1
+15561,And it's going to take discipline of the executive branch; it's going to take discipline of the congressional branch.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,19,93,-0.492283,-1
+15564,The American people are pretty smart: they know who writes out the checks.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,13,96,0.718992,-1
+15565,And they know who appropriates the money.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,7,97,0.0,-1
+15570,"And those pessimists who say it can't be done, I'm sorry, I just have a fundamental disagreement with them",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,19,102,-0.781518,-1
+15578,"He says he wants to give the wealthiest one percent of the people in this country a five-year $40 billion tax break, and we're going to pay for it.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,29,110,-0.691819,1
+15583,will go out and do the job that we expect of him and do it with the Congress of the United States.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,22,115,0.385235,-1
+15597,"We can do all of those things, and at the same time build a future in which we are standing on a good strong fiscal foundation.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,26,129,0.768387,-1
+15602,The Governor has to balance the budget in his state he is required to by law.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,16,134,0.0,0
+15607,I'm not going to do that; I won't do that.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,10,139,-0.717475,-1
+15626,"As a matter of fact, I'm the first governor in the history of my state to fund that pension system, and I'm very proud of that.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,26,158,0.841702,1
+15632,"I think the presidency of the United States is a very serious office, and I think we have to address these issues in a very serious way.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,27,164,-0.32329,-1
+15633,So I hope and expect that I will be liked by the people of this country as president of the United States; I certainly hope I will be liked by them on the 8th of November.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,36,165,0.516098,-1
+15638,"So that pledge isn't realistic, and I think the vice president knows it; I think the people of this country know it.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,22,170,0.0,-1
+15640,"And I am going to be a president who is serious, I hope and expect will be liked by the American people.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,22,172,0.538688,-1
+15641,"But more than that, to do the kind of job that I'm elected to do, will do it with as much good humor as I can, but at the same time will do it in a way which will achieve the goals we want for ourselves and our people.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,49,173,0.741253,-1
+15645,"I think it's whether you share the broad dreams of the American people, whether you have confidence in the people's ability to get things done or whether you think it all should be turned over, as many of the liberals do, to Washington, D.C. You see, I think it's a question of values, not likability or loveability, it's a question in foreign affairs in experience, knowing world leaders, knowing how to build on a superb record of this administration in arms control, because you'd know exactly how to begin.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,89,177,0.855493,-1
+15646,You have to learn from experience that making unilateral cuts in defense system is not the way that you enhance peace.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,21,178,0.0,-1
+15648,"It is, though, trying to understand the heartbeat of the country.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,11,180,-0.390274,-1
+15682,It's our vision of America.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,5,214,0.568009,-1
+15686,"I think this is a great country, because we've always wanted to do better, to make our country better, to make our lives better.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,24,218,0.937479,-1
+15689,That's the kind of leadership I want to provide.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,9,221,0.622362,-1
+15690,"But I don't think these labels mean a thing and I would hope that tonight in the course of the rest of this campaign, we can have good solid disagreements on issues.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,32,222,-0.411766,-1
+15718,"They continue to modernize and we can't simply we've got enough nuclear weapons, let's freeze.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,15,250,-0.645378,-1
+15726,"Now, my defense secretary is going to have a lot to do with those decisions, but it's going to be the President who's going to have to ultimately decide before that budget goes to the Congress what weapons systems are going to go and what are going to stay.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,49,258,-0.597736,-1
+15730,Those are decisions that the chief executive has to make.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,10,262,0.0,-1
+15731,"Yes, we're going to have a strong and credible and effective nuclear deterrent.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,13,263,0.926741,-1
+15750,So military security and economic security go hand in hand.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,10,282,0.0,-1
+15751,And we will have a strong and effective and credible nuclear deterrent.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,12,283,0.838799,-1
+15763,Can we start the clock over?,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,6,295,0.0,-1
+15787,Some of my fellow governors who are real heroes to me.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,11,319,0.531691,-1
+15789,We were proud of them.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,5,321,0.61792,-1
+15796,"But more than that, they are role models.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,8,328,0.0,-1
+15801,These are people that give of themselves everyday and every week and every month.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,14,333,0.325657,-1
+15810,"And there's nothing corny about having sports heroes, young people that are clean and honorable and out there setting the pace.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,21,342,0.684306,-1
+15829,I had something very nice to say in there.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,9,361,0.57348,-1
+15842,And so I would say that the concept of the Dukakis family has my great respect.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,16,374,0.72345,-1
+15856,I salute those who participate in the political process.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,9,388,0.0,-1
+15874,We may have different approaches.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,5,406,0.0,-1
+15881,the tone we've just heard might just be the tone we have for the rest of the campaign.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,18,413,-0.395988,-1
+15905,"But that's the way I, George Bush, feel about it.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,10,437,-0.649141,-1
+15930,It's not going to happen overnight; it certainly will have to happen on a step-by-step basis as we make progress in arms negotiation and arms control and arms reduction.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,29,462,0.0,-1
+15933,"The defense budget today takes far less percentage of the gross national product than it did in President Kennedy's time, for example moved tremendously.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,24,465,0.0,1
+15937,"See, I don't believe any other country can pick up the mantel.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,12,469,0.0,-1
+15938,I served at the UN.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,5,470,-0.458987,0
+15939,I don't think we can turn over these kinds of decisions of the collective defense to the United Nations or anything else.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,22,471,-0.471348,-1
+15947,We don't give away our hand before we sit down at the head table.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,14,479,-0.608142,-1
+15987,The Congress is doing a better job of it.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,9,519,0.513527,-1
+15989,But they don't work if you go raise taxes and then the Congress spends it continues to spend that.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,19,521,-0.676117,-1
+16006,And there are several there's a good political reason because it's just about this time of year that the Democrats start saying the Republicans are going to take away your Social Security.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,32,538,0.0,-1
+16014,I learned that the hard way and the Governor and I both supported slipping the COLAs for one year.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,19,546,0.0,1
+16015,He supported it at the National Governors Conference and I supported it in breaking a tie in a major compromise package and we got assailed by the Democrats in the election over that.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,33,547,-0.586926,1
+16017,We do not have to do it.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,7,549,0.0,-1
+16044,I won't support judges like that.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,6,576,-0.503459,-1
+16046,But I will go out there and find men and women to interpret.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,13,578,0.0,-1
+16047,"And I don't have a list, but I think the appointments that the President has made to the Bench have been outstanding, outstanding appointments.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,24,579,0.750578,-1
+16075,"Now, two-thirds of the people in this country who receive Social Security checks live entirely on that check; they have no other income.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,23,607,0.0,1
+16093,"But I do think there are flexible ways to solve some of the pressing problems, particularly that affect our children.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,20,625,0.0,-1
+16099,We're going to tell you how to do it all.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,10,631,0.420166,-1
+16101,You ought to go out and see around this country what's happening in the volunteer section: Americans helping America.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,19,633,0.264005,-1
+16116,I just have to correct the record.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,7,648,0.0,-1
+16128,"But as we look at the decisions that the next president of the United States is going to have to make, I just don't believe the place you go first is those programs, those so-called entitlements, which provide a basic floor of income and a modest amount of medical care for the elderly, the disabled, for people who can't make their way on their own, and in many cases, have given a great deal to this country.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,77,660,0.596572,-1
+16131,It's a contract between generations.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,5,663,0.0,-1
+16154,"We ought to move forward swiftly on my ideas of ethanol which would use more corn, and therefore, create a bigger market for our agricultural products.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,26,686,-0.446689,1
+16184,"So I'll just keep saying, I am one.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,8,716,0.0,-1
+16186,I'm not going to do that.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,6,718,-0.653515,-1
+16187,That boo was excessively loud.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,5,719,-0.682048,-1
+16193,I believe in our parks.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,5,725,0.620627,-1
+16227,I will not agree to another debate.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,7,759,-0.320129,-1
+16233,"In terms of negative campaigning, you know, I don't want to sound like a kid in the schoolyard: he started it.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,21,765,-0.689803,-1
+16236,But I'll try harder to keep it on a high plane.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,11,768,-0.685379,-1
+16246,But it's not getting out because there are too few debates.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,11,778,-0.716327,-1
+16256,"(Laughter, applause) Isn't that the point?",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,6,788,-0.529257,-1
+16257,Most Americans believe in basic values.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,6,789,0.643725,-1
+16258,We have differences about how to achieve them.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,8,790,0.0,-1
+16263,"But those are the issues on which we ought to be debating and if we can just put away the flag factories and the balloons and those kinds of thing and get on to a real discussion of these issues, I think we will have a good success.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,48,795,0.339073,-1
+16269,But we also need well-equipped and well-trained and well-supported conventional forces.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,11,801,0.322789,-1
+16274,"Let's get him working on Syria, their client state, and see if we can't get them to join Israel and other Arab nations, if at all possible, and Arab leaders, in finally bringing peace to that troubled region.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,38,806,0.0,-1
+16275,And I think that's one reason why we need fresh leadership in the White House that can make progress now in bringing peace to the Middle East.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,27,807,0.301239,-1
+16276,"Let's go to work and end this fiasco in Central America, a failed policy which has actually increased Cuban and Soviet influence.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,22,808,-0.698819,-1
+16281,"And we've got to work with them if we are going to create an environment for human rights and democracy for the people of this hemisphere, and go to work on our single most important problem, and that is the avalanche of drugs that is poring into our country and virtually destroying those countries.",Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,54,813,-0.547972,-1
+16307,Maybe the Vice President has an answer.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,7,839,0.0,-1
+16308,But I'm somebody who believes very strongly in taking care of the fundamentals first before you start new stuff.,Michael Dukakis,Governor,DEMOCRAT,1988-10-13.txt,19,840,0.660432,-1
+16313,"Maybe in Idaho, to take care of the requirements, nuclear material requirements, for our Defense Department?",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,16,845,0.0,-1
+16315,"This sounds like real progress here, because we've had a big difference on the safe use of nuclear power for our energy base.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,23,847,0.905698,-1
+16316,"I believe that we must use clean, safe nuclear power.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,10,848,0.693799,-1
+16320,So I am one who believes that we can,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,9,852,0.485765,-1
+16332,I believe that public service is honorable.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,7,864,0.249962,-1
+16340,I will see that these standards apply to the United States Congress.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,12,872,0.0,-1
+16388,Sometimes it does seem that a campaign generates more heat than light.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,12,920,0.0,-1
+16392,I want to invest in our children.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,7,924,0.0,-1
+16402,"America stands tall again, and as a result, we are credible.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,11,934,0.771098,-1
+16408,And I ask for your support on November 8th.,George Bush,Vice President,REPUBLICAN,1988-10-13.txt,9,940,0.396499,-1
+16410,"Working together, we can do wonderful things for the United States and the Free World.",George Bush,Vice President,REPUBLICAN,1988-10-13.txt,15,942,0.80538,-1
+16467,"Those are the kind of specifics that I think we have to discuss on these uh - debates, and these are the kind of programs that I'll talk about on my time.",Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,32,56,0.406304,-1
+16502,"When Mr. Ford first became president in - in August of 1974, the first thing he did in - in October was to ask for a $4.7 billion increase in taxes on our people in the midst of the heaviest recession, since uh - since the great depression of nineteen uh - of the 1940s.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,55,91,-0.663204,1
+16509,And this is why a tax reform is so important.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,10,98,0.258665,-1
+16528,"I believe that it's accurate to say that - that the - that the committees to whom you refer with the - the employment that you uh - state, and with the 5 to 5 and a half percent growth rate in our economy, that the uh - projections would be a uh - a $60 billion increase in the amount of money that we'd have to spend in l981 compared to now.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,73,117,0.478332,1
+16579,"But I think that now is the time to heal our country after the Vietnam War and I think that what the people are concerned about is not the - uh pardon or the amnesty of uh - those who evaded the draft, but - but whether or not our crime system is - is fair.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,56,168,0.256977,-1
+16600,We need to put the responsibilities back on the cabinet members.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,11,189,0.0,-1
+16615,"The last year I was in office uh - our budget was - was actually less than it was a year before, uh which showed a great uh improvement.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,29,204,-0.238688,1
+16626,We uh - have got to do that at the federal government level.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,13,215,-0.621878,-1
+16631,In the Georgia government we only had one agency responsible for drug treatment.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,13,220,0.0,1
+16674,We'll keep the lid on some of these programs that we can hold down as we have a little extra money to spend for those quality-of-life programs which I think are needed and necessary.,Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,34,263,-0.219907,-1
+16692,The take-home pay of a worker in this country is actually less now than it was in 1968 - measured in real dollars.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,23,281,0.0,1
+16699,"Well among my other experiences in the past, I've - I've been a nuclear engineer, and did graduate work in this field.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,22,288,0.557693,0
+16782,Congress has sustained forty-two vetoes.,Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,5,371,0.0,1
+16828,"Another thing is a system called DISC which was originally designed, proposed by Mr. Nixon, to encourage exports.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,18,417,0.213636,0
+16847,"So where else would you raise the revenue to provide this tax relief - would you, in fact, do away with all business deductions, and what other kinds of preferences would you do away with?",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,35,436,-0.668432,-1
+16851,"I would never do anything that would increase the taxes for those who work for a living, or who are presently required to list all their income.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,27,440,-0.392751,-1
+16853,And this is uh - the point of my first statistics that I gave you - that - that the present tax benefits that have been carved out over a long period of years - fifty years - by sharp tax lawyers and by lobbyists have benefited just the rich.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,50,442,0.478933,1
+16857,Governor Carter's answer tonight does not coincide with the answer that he gave in an interview to the Associated Press a week or so ago.,Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,25,446,0.0,1
+16882,But I think the feeling is misplaced.,Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,7,471,-0.847458,-1
+16896,That's where the problem is and I hope there'll be some corrective action taken so we can get some new leadership in the Congress of the United States.,Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,28,485,0.0,-1
+16909,"If we have a Democratic Congress next year, and a president who wants to spend an additional one hundred billion dollars a year, or maybe two hundred billion dollars a year, with more programs, we will have in my judgment, greater deficits with more spending, more dangers of inflation.",Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,49,498,-0.792601,-1
+16927,I might go back to one other thing.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,8,516,-0.371463,-1
+16988,But I think it's time to talk about the future.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,10,577,0.227,-1
+16991,"It's a time to draw ourselves together: to have a president and a Congress that can work together with mutual respect for a change, cooperating for a change, in the open for a change, so the people can understand their own government.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,42,580,0.526296,-1
+16996,I believe in our country.,Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,5,585,0.269221,-1
+17000,"In addition to that, we've suffered because we haven't had leadership in this administration.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,14,589,0.0,-1
+17012,"I owe everything to you, the people of this country.",Jimmy Carter,Governor,DEMOCRAT,1976-09-23.txt,10,601,0.0,-1
+17034,We must make this next century the century of the individual.,Gerald R. Ford,President,REPUBLICAN,1976-09-23.txt,11,623,0.335754,-1
+17110,"At the same time, if we can have a 4-percent recovery continue through that same period of time, that will mean -- without an increase in tax rates -- that will mean $400 billion more in government revenues.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,38,59,-0.63941,1
+17111,"And so, I think that the lines can meet.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,9,60,0.274291,-1
+17121,"As a matter of fact, over 4 years, they've missed the mark by nearly $600 billion.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,16,70,-0.692771,1
+17134,"I think this is a test of leadership, and I think the American people know the difference.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,17,83,0.344965,-1
+17138,"Absolutely, and I proposed over a hundred billion dollars in cuts in Federal spending over 4 years, but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,42,87,0.0,1
+17159,Everybody remembers that; people know what happened.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,7,108,0.0,-1
+17219,"We are today subsidizing housing for more than 10 million people, and we're going to continue along that line.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,19,168,-0.550591,1
+17264,We all know the possibility of terrorism.,Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,7,213,-0.625094,-1
+17274,I am a son of a Methodist minister.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,8,223,0.763994,0
+17283,"I think our faith tells us, instructs us, about the moral life that we should lead.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,16,232,0.823929,-1
+17287,"When the Republican platform says that from here on out, we're going to have a religious test for judges before they're selected for the Federal court, and then Jerry Falwell announces that that means they get at least two Justices of the Supreme Court, I think that's an abuse of faith in our country.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,54,236,-0.79053,1
+17331,"It seems to me that a moment's reflection tells you why the United States Senate turned that amendment down, because it will undermine the practice of honest faith in our country by politicizing it.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,34,280,0.57779,-1
+17361,The American people want to keep opening doors.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,8,310,0.0,-1
+17389,"I said that we would create jobs for our people, and we did -- 6 million in the last 20 or 21 months.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,23,338,-0.371291,1
+17392,"All of the things that I said we would do, from inflation being down, interest rates being down, unemployment falling, all of those things we have done.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,27,341,-0.779037,1
+17420,It's now the largest peacetime government ever in terms of the take from the total economy.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,16,369,-0.243507,1
+17434,"As a matter of fact, there has been less than one-quarter of 1 percent of foreclosures of the 270,000 loans from government that the farmers have.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,26,383,-0.761016,1
+17476,This is one of the most emotional and difficult issues that could possibly be debated.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,15,425,-0.329318,-1
+17485,But there are some things that government can do and some things they cannot do.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,15,434,-0.255411,-1
+17506,You've got another life involved.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,5,455,0.0,-1
+17509,Does every woman in America have to present herself before some judge picked by Jerry Falwell to clear her personal judgment?,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,21,458,-0.524079,-1
+17523,"But in this great society of ours, wouldn't it make a lot more sense, in this gentle and kind society, if we had a program that made it possible for when incidents come along in which someone feels they must do away with that unborn child, that instead we make it available for the adoption?",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,55,472,0.584621,-1
+17550,"In my opinion, as we deal with this deficit, people from about $70,000 a year on down have to be dealt with very, very carefully, because they are the ones who didn't get any relief the first time around.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,39,499,-0.458337,1
+17578,I'm not going to increase taxes.,Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,6,527,-0.681718,-1
+17610,You remember the last time you said that?,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,8,559,-0.416997,-1
+17619,You can't wish it away.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,5,568,-0.299301,-1
+17646,"On the other hand, women heads of household -- single women heads of household have -- for the first time there's been a turndown in the rate of poverty for them.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,31,595,-0.443156,1
+17649,We are spending now 37 percent more on food for the hungry in all the various types of programs than was spent in 1980.,Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,24,598,-0.252709,1
+17655,Half -- one out of two of the full-time college students in the United States are receiving some form of Federal aid.,Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,22,604,0.0,1
+17667,That had nothing to do with the other thing of talking about their needs or anything.,Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,16,616,-0.58343,-1
+17681,Certainly education and training is crucial.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,6,630,0.433801,-1
+17686,I think the President genuinely believes that they're better off.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,10,635,0.529605,-1
+17692,"We are now $120 billion of imports, 3 million jobs lost, and farmers are having their worst year.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,18,641,-0.873574,1
+17695,I think the American people want to make certain that that dollar is wisely spent.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,15,644,0.519308,-1
+17721,There's no way of glossing around that.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,7,670,-0.529177,-1
+17749,But now we need both that kind of discipline and the resources and the consistent leadership that allows this country to catch up in education and science and training.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,29,698,0.564288,-1
+17766,Will you finally touch that defense budget?,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,7,715,0.0,-1
+17773,"I'll tell you what I think has been the most outrageous thing in political dialog, both in this campaign and the one in '82.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,24,722,-0.220048,-1
+17810,"I did support the '76 measure that he told about, because we were in a deep recession and we needed some stimulation.",Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,22,759,-0.283023,1
+17850,Is America better off than it was 4 years ago?,Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,10,799,0.536469,-1
+17855,"But we now have an economy that, for the first time -- well, let's put it this way: In the first half of 1980, gross national product was down a minus 3.7 percent.",Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,33,804,-0.705953,1
+17858,Today it is up a plus 4 percent.,Ronald Reagan,President,REPUBLICAN,1984-10-07.txt,8,807,0.200079,1
+17883,I want to thank President Reagan for agreeing to debate.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,10,832,0.462427,-1
+17898,Are we better off when we load our children with this fantastic debt?,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-07.txt,13,847,0.76418,-1
+17971,"This president has left them in shatters across the globe, and we're now 90 percent of the casualties in Iraq and 90 percent of the costs.",John Kerry,Senator,DEMOCRAT,2004-09-30.txt,26,39,-0.836158,1
+18007,People out there listening know what I believe.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,8,75,0.273957,-1
+18074,It's the hardest decision a president makes.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,7,142,-0.748737,-1
+18117,He believes in the freedom of the Iraqi people.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,9,185,-0.273368,0
+18120,They just need the help to be trained.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,8,188,0.209095,-1
+18139,This president just -- I don't know if he sees what's really happened over there.,John Kerry,Senator,DEMOCRAT,2004-09-30.txt,15,207,-0.582057,-1
+18225,"But, again, I want to tell the American people, we're doing everything we can at home, but you better have a president who chases these terrorists down and bring them to justice before they hurt us again.",George W. Bush,President,REPUBLICAN,2004-09-30.txt,37,293,-0.758894,-1
+18380,I understand how hard it is.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,6,448,-0.299054,-1
+18381,I get the casualty reports every day.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,7,449,-0.678854,0
+18410,It's what leadership is based on.,John Kerry,Senator,DEMOCRAT,2004-09-30.txt,6,478,0.0,-1
+18412,"I have nothing but respect for the British, Tony Blair, and for what they've been willing to do.",John Kerry,Senator,DEMOCRAT,2004-09-30.txt,18,480,0.824379,-1
+18509,"So you say, ""Was it worth it?""",George W. Bush,President,REPUBLICAN,2004-09-30.txt,7,577,0.429971,-1
+18589,"He's a brave, brave man.",George W. Bush,President,REPUBLICAN,2004-09-30.txt,5,657,0.515018,-1
+18627,But a president must always be willing to use troops.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,10,695,0.508261,-1
+18768,"The minute we have bilateral talks, the six-party talks will unwind.",George W. Bush,President,REPUBLICAN,2004-09-30.txt,11,836,0.0,-1
+18859,And I have great respect and admiration for his wife.,John Kerry,Senator,DEMOCRAT,2004-09-30.txt,10,927,0.898961,-1
+18860,I think she's a terrific person...,John Kerry,Senator,DEMOCRAT,2004-09-30.txt,6,928,0.580483,-1
+18918,"Actually, we've increased funding for dealing with nuclear proliferation about 35 percent since I've been the president.",George W. Bush,President,REPUBLICAN,2004-09-30.txt,17,986,-0.286643,1
+18933,My opponent opposed the missile defenses.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,6,1001,-0.514895,1
+19006,The issue is what you do about it.,John Kerry,Senator,DEMOCRAT,2004-09-30.txt,8,1074,0.0,-1
+19059,I appreciate your listening tonight.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,5,1127,0.798291,-1
+19061,And may God continue to bless our great land.,George W. Bush,President,REPUBLICAN,2004-09-30.txt,9,1129,0.529399,-1
+19262,But Senator Dole's plans are not good for the country.,Bill Clinton,President,DEMOCRAT,1996-10-06.txt,10,192,-0.710625,-1
+19417,And I hope we can do better.,Bill Clinton,President,DEMOCRAT,1996-10-06.txt,7,347,0.510704,-1
+19641,"And everybody knows, including the Wall Street Journal, hardly a friend of the Democratic party of this administration, that the '82 tax increase he sponsored in inflation-adjusted dollars was the biggest tax increase in American history.",Bill Clinton,President,DEMOCRAT,1996-10-06.txt,36,571,0.0,1
+19924,"Here's the record: We cut deficit four years in a row for the first time before the Civil War -- I mean, before World War II, and maybe before the Civil War, too.",Bill Clinton,President,DEMOCRAT,1996-10-06.txt,33,854,-0.710635,1
+20127,"Governor Engler of Michigan cut taxes 21 times, created a lot of new jobs.",Bob Dole,Senator,REPUBLICAN,1996-10-06.txt,14,1057,-0.232377,1
+20456,I was in coal country in West Virginia yesterday.,George W. Bush,Governor,REPUBLICAN,2000-10-03.txt,9,280,0.0,0
+20717,"When I was in the United States Senate I worked with former President Bush, your father.",Al Gore,Vice President,DEMOCRAT,2000-10-03.txt,16,541,-0.283802,0
+20870,Two days ago we ate lunch at a restaurant.,Al Gore,Vice President,DEMOCRAT,2000-10-03.txt,9,694,0.0,0
+21237,I want to rebuild our military to keep the peace.,George W. Bush,Governor,REPUBLICAN,2000-10-03.txt,10,1061,-0.367419,-1
+21636,They ought to be engaged in making high speed rail.,Bill Clinton,Governor,DEMOCRAT,1992-10-15.txt,10,354,-0.292704,-1
+21704,Thirty years ago there were three police officers on the street for every crime; today there are three crimes for every police officer.,Bill Clinton,Governor,DEMOCRAT,1992-10-15.txt,23,422,-0.683123,1
+21947,I was in the Lomax AME Church.,George Bush,President,REPUBLICAN,1992-10-15.txt,7,665,0.0,0
+21954,"Therefore, you don't know what's it like.",George Bush,President,REPUBLICAN,1992-10-15.txt,7,672,0.0,-1
+22462,I'd go crazy sitting up there slow dancing that one.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-15.txt,10,1180,-0.592542,-1
+23088,"And we paid down the debt of our nation for two years in a row, and we created 23 million new jobs at the same time.",John Kerry,Senator,DEMOCRAT,2004-10-08.txt,26,581,-0.349916,1
+23421,China and India are graduating more graduates in technology and science than we are.,John Kerry,Senator,DEMOCRAT,2004-10-08.txt,14,914,0.497722,1
+23567,"Plus, I want them all voting for me.",George W. Bush,President,REPUBLICAN,2004-10-08.txt,8,1060,0.0,-1
+23611,I was an altar boy.,John Kerry,Senator,DEMOCRAT,2004-10-08.txt,5,1104,0.0,0
+23743,"Thanks for your questions tonight, very, very much.",John Kerry,Senator,DEMOCRAT,2004-10-08.txt,8,1236,0.727302,-1
+23761,I believe America's best days are ahead of us.,John Kerry,Senator,DEMOCRAT,2004-10-08.txt,9,1254,0.898257,-1
+23821,"I was not put on the ballot by either of the 2 parties; I was not put on the ballot by any PAC money, by any foreign lobbyist money, by any special interest money.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,34,18,-0.61615,1
+23824,"Over time we have developed a government that comes at the people, that comes from the top down, where the people are more or less treated as objects to be programmed during the campaign with commercials and media events and fear messages and personal attacks and things of that nature.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,50,21,-0.766326,-1
+23850,"I believe experience counts, but it's not everything.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,8,47,-0.349301,-1
+23855,And we have to change in this country.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,8,52,0.0,-1
+23864,"In the last four years, there have been twice as many bankruptcies as new jobs created.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,16,61,-0.683074,1
+23865,We need a new approach.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,5,62,0.0,-1
+23866,The same old experience is not relevant.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,7,63,-0.515075,-1
+23895,"If there's more time for gridlock and talk and finger pointing, I'm the wrong man.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,15,92,-0.704245,-1
+23905,"And I'm sorry, but demonstrating -- it's not a question of patriotism.",George Bush,President,REPUBLICAN,1992-10-11.txt,12,102,-0.351586,-1
+23906,It's a question of character and judgment.,George Bush,President,REPUBLICAN,1992-10-11.txt,7,103,0.0,-1
+23971,"I want to give people permanent incentives on investment tax credit, like President Kennedy and the Congress inaugurated in the early '60s to get industry moving again; a research and development tax credit; a low-income housing tax credit; a long-term capital gains proposal for new business and business expansions.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,49,168,0.772251,1
+23972,We've got to have no more trickle down.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,8,169,-0.610806,-1
+23991,"Governor Clinton says $200,000 but he also says he wants to raise $150 billion.",George Bush,President,REPUBLICAN,1992-10-11.txt,14,188,-0.37673,1
+23993,"And then when you add in his other spending proposals, regrettably you end up socking it to the working man.",George Bush,President,REPUBLICAN,1992-10-11.txt,20,190,-0.417903,-1
+24010,And that's about all I can say in a minute.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,10,207,0.371639,-1
+24016,"If you look at the cost of not keeping the peace in Europe, it would be exorbitant.",George Bush,President,REPUBLICAN,1992-10-11.txt,17,213,-0.399468,-1
+24017,We have reduced the number of troops that are deployed and going to be deployed.,George Bush,President,REPUBLICAN,1992-10-11.txt,15,214,-0.266273,1
+24031,"I've seen what it is like to see a war, to see the burdens of a war, and I don't want to see us make reckless cuts.",George Bush,President,REPUBLICAN,1992-10-11.txt,27,228,-0.719858,-1
+24047,"So it I think is very important for us to let them assume more and more of the burden and for us to bring that money back here and rebuild our infrastructure, because we can only be a superpower if we are an economic superpower; and we can only be an economic superpower if we have a growing, expanding job base.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,61,244,0.0,-1
+24050,I agree with the general statement Mr. Bush made.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,9,247,-0.408331,-1
+24077,Why do we have to do it?,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,7,274,-0.633961,-1
+24087,"(Laughter and applause) But--but--see, let me make it very clear.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,10,284,0.761531,-1
+24089,"If they do, then they will have heard the harsh reality of what we have to do.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,17,286,-0.475374,-1
+24105,"You see, I have a fundamental difference.",George Bush,President,REPUBLICAN,1992-10-11.txt,7,302,0.576778,-1
+24117,But I do not want to go the tax-and-spend route.,George Bush,President,REPUBLICAN,1992-10-11.txt,10,314,-0.342108,-1
+24138,"So her best help for short term is job retraining, if she was thrown out of work at a defense plant.",George Bush,President,REPUBLICAN,1992-10-11.txt,21,335,0.0,-1
+24166,No other nation would have cut defense as much as we already have without that.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,15,363,-0.454153,-1
+24199,"Well, obviously, my orientation is let's go do it.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,9,396,0.48613,-1
+24209,But first we must have an aggressive jobs program.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,9,406,-0.211756,-1
+24231,"Well, let me say that I think that we might ought to review the terms, the way it works.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,19,428,0.606507,-1
+24246,I don't think the Fed ought to be put under the Executive Branch.,George Bush,President,REPUBLICAN,1992-10-11.txt,13,443,-0.343854,-1
+24255,"In terms of vetoing tax bills, you're darn right.",George Bush,President,REPUBLICAN,1992-10-11.txt,9,452,-0.374836,-1
+24256,I am going to protect the American taxpayer against the spend and tax Congress.,George Bush,President,REPUBLICAN,1992-10-11.txt,14,453,-0.286119,-1
+24294,That's pennies on the dollar compared to renewing the cold war.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,11,491,0.0,-1
+24306,"So, in terms of priorities, we've got to be financially strong.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,11,503,0.399339,-1
+24352,Mr Bush sent two people in secret to toast the Chinese leaders and basically tell them not to worry about it.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,21,549,-0.20028,1
+24358,"And recently the Chinese have announced they are going to lower some barriers to our products, which they ought to do since they have a 15 billion dollar trade surplus with the United States under Mr. Bush.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,37,555,-0.792892,1
+24364,"If we can stand up for our economics, we ought to be able to preserve the democratic interests of the people of China.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,23,561,-0.231403,-1
+24405,"I am not going to commit US forces until I know what the mission is, till the military tell me that it can be completed, and till I know how they can come out.",George Bush,President,REPUBLICAN,1992-10-11.txt,34,602,-0.306867,-1
+24419,"But I must stop short of using American force until I know how those young men and women are going to get out of there as well as get in, know what the mission is, and define it.",George Bush,President,REPUBLICAN,1992-10-11.txt,38,616,0.0,-1
+24426,We cannot send our people all over the world to solve every problem that comes up.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,16,623,-0.673405,-1
+24429,"But it is inappropriate for us, just because there's a problem somewhere around the world, to take the sons and daughters of working people--and make no mistake about it, our all- volunteer armed force is not made up of the sons and daughters of the beautiful people; it's the working folks who send their sons and daughters to war, with a few exceptions.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,63,626,-0.223618,1
+24432,It's a different world now.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,5,629,0.225625,-1
+24450,"I was born to a widowed mother who gave me family values, and grandparents.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,14,647,0.393613,0
+24464,"I believe that discipline and respect for the law -- all of these things should be taught to children, not in our schools, but families have to do that.",George Bush,President,REPUBLICAN,1992-10-11.txt,29,661,0.0,-1
+24466,But it's gotten too much.,George Bush,President,REPUBLICAN,1992-10-11.txt,5,663,0.0,-1
+24478,"And I think, my gosh, wouldn't it be wonderful if every child had that love and support.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,17,675,0.794169,-1
+24495,"The use of cocaine, for example, by teenagers is dramatically down.",George Bush,President,REPUBLICAN,1992-10-11.txt,11,692,-0.652939,1
+24496,But we've got to keep fighting on this war against drugs.,George Bush,President,REPUBLICAN,1992-10-11.txt,11,693,-0.466827,-1
+24512,"Anytime you think you want to legalize drugs, go to a neonatal unit -- if you can get in.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,19,709,0.0,-1
+24524,And these old boys are not going to quit easy.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,10,721,-0.313993,-1
+24529,I'm very proud of him.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,5,726,0.783968,-1
+24537,"Thirty years ago, there were three policemen for every crime.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,10,734,-0.270561,1
+24544,That crime bill is going to be one of my highest priorities next January if I become president.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,18,741,0.443392,-1
+24553,We are all in this together.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,6,750,0.234296,-1
+24554,We ought to love one another because united teams win and divided teams lose.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,14,751,0.0,-1
+24559,Our diversity is a strength.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,5,756,0.779972,-1
+24562,"I think whoever is in the White House should just make it absolutely unconscionable and inexcusable, and if anybody's in the middle of a speech at, you know, one of these conventions, I would expect the candidate to go out and lift him off the stage if he starts preaching hate -- because we don't have time for it.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,59,759,-0.762147,-1
+24564,We have got to pull together.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,6,761,0.0,-1
+24577,"We are being murdered economically because we have too many drop-outs, we have too many low birthweight babies, we have too many drug addicts as kids, we have too much violence, we are too divided by race, by income, by region.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,41,774,-0.725712,-1
+24584,I do think it's fair to note -- he can rebut it -- but Arkansas is one of the few states that doesn't have any civil rights legislation.,George Bush,President,REPUBLICAN,1992-10-11.txt,28,781,0.0,1
+24610,"Call me, let me know.""",George Bush,President,REPUBLICAN,1992-10-11.txt,5,807,0.0,-1
+24639,Let me go back a minute to racial divisiveness.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,9,836,-0.696504,-1
+24648,Well over a million and a quarter Americans are HIV-positive.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,10,845,0.0,1
+24683,"This is a town where the White House says, Congress did it; Congress says, the White House did it.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,19,880,0.0,-1
+24693,"I mean, look at the facts.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,6,890,0.0,-1
+24694,"Both parties in Washington, the president and the Congress, have cut Medicare.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,12,891,0.0,1
+24711,"What we do need to do, though, is control the growth of these mandatory programs.",George Bush,President,REPUBLICAN,1992-10-11.txt,15,908,0.21864,-1
+24748,The Oregon plan is a good start if the federal government is going to continue to abandon its responsibilities.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,19,945,0.718772,-1
+24752,"We can do better, and we must.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,7,949,0.590087,-1
+24767,"We got the most expensive health care system in the world; it ranks behind 15 other nations when we come to life expectancy, and 22 other nations when we come to infant mortality.",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,33,964,0.0,1
+24790,I don't like to see the people in a deteriorating economy in a deteriorating country because our government has lost touch with the people.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,24,987,-0.856266,-1
+24794,It's time to do it because we have run up so much debt that time is no longer our friend.,Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,20,991,-0.530703,-1
+24798,"Think of your dreams as a child and ask yourself, isn't it time to stop talking about it?",Ross Perot,Independent Candidate,INDEPENDENT,1992-10-11.txt,18,995,-0.442115,-1
+24819,And I'd like to thank those of you who are watching.,Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,11,1016,0.803063,-1
+24821,"I'd like to thank the computer executives and the electronics executives in Silicon Valley, two-thirds of whom are Republicans who said they wanted to sign on to a change in America.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,31,1018,0.36362,1
+24827,"He was president for 3 years before he proposed a health care plan that still hasn't been sent to Congress in total; three years before an economic plan, and he still didn't say tonight that that tax bill he vetoed raised taxes only on the rich and gave the rest of you a break -- but he vetoed it anyway.",Bill Clinton,Governor,DEMOCRAT,1992-10-11.txt,60,1024,-0.618543,1
+24852,"On the domestic side, what we must do is have change that empowers people -- not change for the sake of change, tax and spend.",George Bush,President,REPUBLICAN,1992-10-11.txt,25,1049,-0.25743,-1
+24853,We don't need to do that any more.,George Bush,President,REPUBLICAN,1992-10-11.txt,8,1050,-0.254132,-1
+24863,And I ask for your support for 4 more years to finish this job.,George Bush,President,REPUBLICAN,1992-10-11.txt,14,1060,0.812633,-1
+24992,What did we get for it?,Ronald Reagan,President,REPUBLICAN,1984-10-21.txt,6,121,0.0,-1
+25561,I would like to see their elimination.,Walter Mondale,Former Vice President,DEMOCRAT,1984-10-21.txt,7,690,-0.305255,-1
+25957,Marijuana use is up 141percent.,Bob Dole,Senator,REPUBLICAN,1996-10-16.txt,5,302,0.0,1
+26039,American seniors have the highest life expectancy in the world.,Bill Clinton,President,DEMOCRAT,1996-10-16.txt,10,384,0.301933,1
+26076,We reduced the welfare rolls by 2 million already.,Bill Clinton,President,DEMOCRAT,1996-10-16.txt,9,421,-0.523666,1
+26138,We need to get the economy going.,Bob Dole,Senator,REPUBLICAN,1996-10-16.txt,7,483,-0.406601,-1
+26145,But we have to prove we can pay for them.,Bill Clinton,President,DEMOCRAT,1996-10-16.txt,10,490,0.0,-1
+26228,"We've opened 260,000 new jobs in the military to women since I've been president.",Bill Clinton,President,DEMOCRAT,1996-10-16.txt,14,573,0.0,1
+26344,"Well, 88 percent of the people -- the President claims 11 million are already covered and only 5 percent -- keep in mind only 5 percent of the employers are affected by the Family Leave Act.",Bob Dole,Senator,REPUBLICAN,1996-10-16.txt,36,689,-0.657194,1
+26564,Those are my best ideas about it.,Bill Clinton,President,DEMOCRAT,1996-10-16.txt,7,909,0.597763,-1
+26794,All the people who may still be watching or viewing.,Bob Dole,Senator,REPUBLICAN,1996-10-16.txt,10,1139,0.0,-1
+26829,We're going to have a good economic package.,Bob Dole,Senator,REPUBLICAN,1996-10-16.txt,8,1174,0.59275,-1
+26982,But I'll respond to a couple of things that you mentioned.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,11,122,0.0,-1
+27094,"We should be playing the leadership role there, not on the ground with military.",Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,14,234,0.0,-1
+27100,And we are making sure that those we help are those who will be friends of ours in the long term and friends of our allies in the region over the long term.,Barack Obama,President,DEMOCRAT,2012-10-22.txt,33,240,0.594944,-1
+27106,Imagine if we had pulled out at that point.,Barack Obama,President,DEMOCRAT,2012-10-22.txt,9,246,0.0,-1
+27107,"You know, Moammar Gadhafi had more American blood on his hands than any individual other than Osama bin Laden.",Barack Obama,President,DEMOCRAT,2012-10-22.txt,19,247,-0.415381,1
+27161,I felt that -- I wish we'd have had a better vision of the future.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,15,301,0.363218,-1
+27174,"When the -- when the president of Iraq -- excuse me, of Iran, Ahmadinejad, says that our debt makes us not a great country, that's a frightening thing.",Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,28,314,0.0,0
+27185,"And, finally, we have to stand by our principles.",Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,9,325,0.562697,-1
+27385,"Our Navy is old -- excuse me, our Navy is smaller now than at any time since 1917.",Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,18,525,0.0,1
+27391,Our Air Force is older and smaller than at any time since it was founded in 1947.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,17,531,0.0,1
+27403,But I think Governor Romney maybe hasn't spent enough time looking at how our military works.,Barack Obama,President,DEMOCRAT,2012-10-22.txt,16,543,-0.622317,-1
+27503,"And we're going to make sure that if they do not meet the demands of the international community, then we are going to take all options necessary to make sure they don't have a nuclear weapon.",Barack Obama,President,DEMOCRAT,2012-10-22.txt,36,643,0.0,-1
+27519,"And the way to make sure they understand that is by having, from the very beginning, the tightest sanctions possible.",Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,20,659,0.0,-1
+27683,They're going to come rushing back in to Afghanistan when we go.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,12,823,-0.610191,-1
+27688,Well I believe we should use any and all means necessary to take out people who pose a threat to us and our friends around the world.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,27,828,0.768109,-1
+27722,"We have to remain vigilant, as I just said.",Barack Obama,President,DEMOCRAT,2012-10-22.txt,9,862,0.0,-1
+27814,I was born in Detroit.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,5,954,0.0,0
+27815,My dad was head of a car company.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,8,955,0.0,0
+27828,You can take a look at the op-ed...,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,8,968,0.0,-1
+27958,"Yes, I want to reduce our deficit by cutting spending that we don't need but also by asking the wealthy to do a little bit more so that we can invest in things like research and technology that are the key to a 21st century economy.",Barack Obama,President,DEMOCRAT,2012-10-22.txt,46,1098,0.510736,-1
+27961,"And we've been through tough times but we always bounce back because of our character, because we pull together and if I have the privilege of being your president for another four years, I promise you I will always listen to your voices.",Barack Obama,President,DEMOCRAT,2012-10-22.txt,43,1101,0.480345,-1
+27967,I'm optimistic about the future.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,5,1107,0.829635,-1
+27986,I was in a state where my legislature was 87 percent Democrat.,Mitt Romney,Governor,REPUBLICAN,2012-10-22.txt,12,1126,0.0,1
+28143,"I propose a real prescription drug benefit under Medicare for all seniors, all seniors, and here's how it works.",Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,19,138,0.834698,-1
+28261,"If you want to do a voucher program in Missouri, fine.",George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,11,256,0.443798,-1
+28297,More than 90% of America's children go to public schools.,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,10,292,0.0,1
+28349,I will pay down the debt every single year until it is eliminated early in the next decade.,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,18,344,-0.523805,-1
+28356,The Senate Budget Committee --,George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,5,351,-0.386545,-1
+28369,I don't think that's the role of the president to pick you're right and you're not right.,George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,17,364,-0.251527,-1
+28394,This is a fair plan.,George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,5,389,0.784137,-1
+28438,I've been a person who has to set a clear vision and convince people to follow.,George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,16,433,0.598776,-1
+28598,"Now, many here who are not involved in farming don't -- won't follow this, so just forgive me.",Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,18,593,-0.20071,-1
+28664,"I know this, 100% will get it if I'm the president.",George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,11,659,0.0,-1
+28710,I don't want to embarrass our oldest daughter.,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,8,705,-0.508299,-1
+28739,"We're America, and we believe in our future and we know we have the ability to shape our future.",Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,19,734,0.847984,-1
+28743,I don't believe that's a fair measure.,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,7,738,-0.224903,-1
+28777,He is the chairman of the health committee.,George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,8,772,0.455005,0
+28798,Quotas are bad for America.,George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,5,793,-0.568362,-1
+28815,How do you do it?,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,5,810,0.0,-1
+28851,I think that speaks for itself.,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,6,846,0.373346,-1
+28900,"And if you think I was proud of it, I think you misread me, I do.",George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,16,895,0.0,-1
+28918,"But I'm not proud of any record, sir, I'm not.",George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,10,913,-0.530822,-1
+28956,I promise you I will keep mine.,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,7,951,0.301913,-1
+28958,He has promised a trillion dollars out of the Social Security Trust Fund for young working adults to invest and save on their own.,Al Gore,Vice President,DEMOCRAT,2000-10-17.txt,24,953,0.363438,1
+28965,"(LAUGHTER) I -- there's an old high school debating trick, which is to answer something and then attack your opponent at the end.",George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,23,960,-0.679982,-1
+29011,"Well, can I answer that?",George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,5,1006,0.41302,-1
+29060,I look forward to the final weeks of this campaign.,George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,10,1055,0.625957,-1
+29062,"For those of you for me, thanks for your help.",George W. Bush,Governor,REPUBLICAN,2000-10-17.txt,10,1057,0.844495,-1

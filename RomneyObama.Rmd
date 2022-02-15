@@ -1,0 +1,42 @@
+---
+title: "claimbuster"
+output: html_document
+---
+
+```{r}
+library(rvest)
+library(dplyr)
+```
+
+
+```{r}
+all_sentences = read.csv("datasets/all_sentences.csv")
+crowdsourced = read.csv("datasets/crowdsourced.csv")
+groundtruth = read.csv("datasets/groundtruth.csv")
+```
+
+```{r}
+rom_ob_all = all_sentences %>% 
+  filter(File_id == "2012-10-03.txt")
+
+rom_ob_crowd = crowdsourced %>% 
+  filter(File_id == "2012-10-03.txt")
+
+rom_ob_truth = crowdsourced %>% 
+  filter(File_id == "2012-10-03.txt")
+
+```
+
+
+
+
+# ```{r}
+# truth = read_csv("datasets/groundtruth.csv")
+# crowdsource = read_csv("datasets/crowdsourced.csv")
+# allclaims = read_csv("datasets/all_sentences.csv")
+# ```
+# 
+# ```{r}
+# rom_ob_2012 = truth %>% 
+#   filter(File_id == "2012-10-22.txt")
+# ```
