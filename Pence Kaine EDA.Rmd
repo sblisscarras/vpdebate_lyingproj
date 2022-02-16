@@ -15,12 +15,85 @@ checkdata = read.csv("data/checkdata.csv")
 pencekaine = read.csv("data/pence_kaine_2016.csv")
 ```
 
-```{r}
+```{r arrange-checked}
 checked_claims = checkdata %>% 
   filter(Checked. == "1") %>% 
   arrange(Ratings)
-checked_claims
 ```
 Lowest claimbuster score of a claim that was checked: 0.12 
 The highest claimbuster score of a claim that was checked: 0.71 
 Total claims checked: 112
+
+```{r claimant-info}
+checkdata %>% 
+  group_by(Claimant) %>% 
+  count()
+
+checked_claims %>%
+  group_by(Claimant) %>% 
+  count()
+```
+Mike Pence had a total of 542 factual claims. 53 of his factual claims were
+checked *~9.8%* 
+Tim Kaine had a total of 582 factual claims. 59 of his factual claims were 
+checked *~10%* 
+**No major bias by fact checkers according to candidate** Note: may be worth 
+running a t-test on this to confirm no statistical significance. 
+
+```{r times-checked}
+checked_claims %>% 
+  group_by(times.fact.checked) %>% 
+  count(Claimant)
+```
+As expected (knowing that each claimant was fact-checked a roughly equal amount
+of times) both claimants have similar amounts of claims checked repeatedly. 
+The only *times.fact.checked* category that has different numbers of claims
+checked for each Claimant is *2* where Mike Pence had *11* checked claims and 
+Tim Kaine has *16* checked claims. 
+
+```{r fact-checkers}
+PF = checked_claims %>%
+  filter(PF == "1") %>%
+  group_by(Claimant) %>%
+  summarize(PFcheck = n())
+
+WP = checked_claims %>%
+  filter(WP == "1") %>%
+  group_by(Claimant) %>%
+  summarize(WPcheck = n())
+
+FC = checked_claims %>%
+  filter(FC == "1") %>%
+  group_by(Claimant) %>%
+  summarize(FCcheck = n())
+
+NYT = checked_claims %>%
+  filter(NYT == "1") %>%
+  group_by(Claimant) %>%
+  summarize(NYTcheck = n())
+
+CNN = checked_claims %>%
+  filter(CNN == "1") %>%
+  group_by(Claimant) %>%
+  summarize(CNNcheck = n())
+
+AP = checked_claims %>%
+  filter(AP == "1") %>%
+  group_by(Claimant) %>%
+  summarize(APcheck = n())
+
+TG = checked_claims %>%
+  filter(TG == "1") %>%
+  group_by(Claimant) %>%
+  summarize(TGcheck = n())
+
+checkers = left_join(PF
+                     , left_join(WP
+                                 , left_join(FC,
+                                             left_join(NYT,
+                                                       left_join(CNN
+                                                                 , left_join(AP, TG, 
+                                                                             by = "Claimant"))))))
+checkers                                                                       
+```
+
