@@ -11,11 +11,16 @@ library(tidyr)
 
 
 ```{r load-data}
-checkdata = read.csv("checkdata.csv")
-pencekaine = read.csv("pence_kaine_2016.csv")
+checkdata = read.csv("data/checkdata.csv")
+pencekaine = read.csv("data/pence_kaine_2016.csv")
 ```
 
 ```{r}
-summary(checkdata)
+checked_claims = checkdata %>% 
+  filter(Checked. == "1") %>% 
+  arrange(Ratings)
+checked_claims
 ```
-
+Lowest claimbuster score of a claim that was checked: 0.12 
+The highest claimbuster score of a claim that was checked: 0.71 
+Total claims checked: 112
