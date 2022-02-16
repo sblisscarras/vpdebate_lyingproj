@@ -15,3 +15,7 @@ checkdata = read.csv("checkdata.csv")
 pencekaine = read.csv("pence_kaine_2016.csv")
 ```
 
+```{r}
+summary(checkdata)
+```
+
