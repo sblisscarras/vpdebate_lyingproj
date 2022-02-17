@@ -9,6 +9,7 @@ library(rvest)
 library(dplyr)
 library(tidyr)
 library(tidyverse)
+library(knitr)
 ```
 
 
@@ -67,7 +68,109 @@ all_sentences.csv file contains all presidential debate sentences. It has all th
 
 **FACT CHECKED DATA SET**
 ```{r}
-ob_rom_factcheck <- read.csv("data/ob_rom_factcheckedset.csv")
+ob_rom_factcheck <- read.csv("data/obrom_checkeddata.csv")
+
+ob_rom_factcheck <- ob_rom_factcheck %>%
+  mutate(Checked = Checked.)
 ```
 
+
+```{r}
+ob_rom_factcheck %>%
+  filter(Checked == 1) %>%
+  group_by(Speaker) %>%
+  summarize(count = n()) %>%
+  kable()
+```
+Total checked statements: 105
+
+```{r}
+ob_rom_factcheck %>%
+  count(Checked, Speaker) %>%
+  pivot_wider(id_cols = c(Checked, Speaker),
+              names_from = Speaker, 
+              values_from = n, 
+              values_fill = 0) %>%
+  kable()
+```
+13% of Obama's statements were checked, compared to 12% of Romney's
+.
+```{r}
+ob_rom_factcheck <- ob_rom_factcheck %>%
+  mutate(Checkability = 
+        case_when(Verdict == "-1" ~ "Not Factual Statement",
+                  Verdict == "0" ~ "Uncheckworthy Factual Statement",
+                  Verdict == "1" ~ "Checkworthy Factual Statement"))
+
+ob_rom_factcheck %>%
+  count(Checkability, Speaker) %>%
+  pivot_wider(id_cols = c(Checkability, Speaker),
+              names_from = Speaker, 
+              values_from = n, 
+              values_fill = 0) %>%
+  kable()
+
+ob_rom_factcheck %>%
+  filter(Checked == 1) %>%
+  count(Checkability, Speaker) %>%
+  pivot_wider(id_cols = c(Checkability, Speaker),
+              names_from = Speaker, 
+              values_from = n, 
+              values_fill = 0) %>%
+  kable()
+```
+```{r}
+CNN <- ob_rom_factcheck %>%
+  filter(CNN == "1") %>%
+  group_by(Speaker) %>%
+  summarize(CNN_check = n())
+
+Reuters <- ob_rom_factcheck %>%
+  filter(Reuters == "1") %>%
+  group_by(Speaker) %>%
+  summarize(Reuters_check = n())
+
+APNews <- ob_rom_factcheck %>%
+  filter(AP.News == "1") %>%
+  group_by(Speaker) %>%
+  summarize(AP_check = n())
+
+NYT <- ob_rom_factcheck %>%
+  filter(NYT == "1") %>%
+  group_by(Speaker) %>%
+  summarize(NYT_check = n())
+
+Atl <- ob_rom_factcheck %>%
+  filter(Atlantic == "1") %>%
+  group_by(Speaker) %>%
+  summarize(Atl_check = n())
+
+PF <- ob_rom_factcheck %>%
+  filter(Politifact == "1") %>%
+  group_by(Speaker) %>%
+  summarize(PF_check = n())
+
+WP <- ob_rom_factcheck %>%
+  filter(WashPost == "1") %>%
+  group_by(Speaker) %>%
+  summarize(WP_check = n())
+
+FC <- ob_rom_factcheck %>%
+  filter(Fact.Check == "1") %>%
+  group_by(Speaker) %>%
+  summarize(FC_check = n())
+
+checkers = left_join(CNN, 
+                     left_join(Reuters, 
+                               left_join(APNews, 
+                                         left_join(NYT, 
+                                                   left_join(Atl, 
+                                                             left_join(PF, left_join(WP, FC, by = "Speaker")))))))
+
+checkers %>%
+  kable()
+```
+1/8 fact checkers checked both speakers equally. (PolitiFact)
+3/8 fact checkers checked Obama more than Romney. (Reuters, the Atlantic, the NYT)
+4/8 fact checkers checked Romney more than Obama. (CNN, AP News, the Washington Post, Fact Check)
 
