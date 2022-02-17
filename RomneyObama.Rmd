@@ -65,3 +65,9 @@ Both groundtruth.csv and crowdsourced.csv files contain the following attributes
 all_sentences.csv file contains all presidential debate sentences. It has all the features shown above except for ``Verdict''. It also includes the following attribute:
 - Speaker_role: It depicts the role of the Speaker in the debate as a participant.
 
+**FACT CHECKED DATA SET**
+```{r}
+ob_rom_factcheck <- read.csv("data/ob_rom_factcheckedset.csv")
+```
+
+
