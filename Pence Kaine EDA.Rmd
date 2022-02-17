@@ -19,10 +19,17 @@ pencekaine = read.csv("data/pence_kaine_2016.csv")
 checked_claims = checkdata %>% 
   filter(Checked. == "1") %>% 
   arrange(Ratings)
+
+checked_claims %>% 
+  group_by(Claimant) %>% 
+  summarize(avgrating = mean(Ratings))
 ```
 Lowest claimbuster score of a claim that was checked: 0.12 
 The highest claimbuster score of a claim that was checked: 0.71 
 Total claims checked: 112
+Average claimbuster score Mike Pence: *~.42*
+Average claimbuster score Tim Kaine: *~.38* 
+**On average Tim Kaine's claims are slightly less checkable (0.4 / 4%).**
 
 ```{r claimant-info}
 checkdata %>% 
@@ -96,4 +103,10 @@ checkers = left_join(PF
                                                                              by = "Claimant"))))))
 checkers                                                                       
 ```
+
+1/7 checker checked both candidates equally (TG)
+3/7 checkers checked Pence more than Kaine (NYT, CNN, AP)
+3/7 checkers checked Kaine more than Pence (PF, WP, FC)
+
+**No apparent partisan bias by news sources for one candidate over the other**
 
