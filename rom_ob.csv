@@ -1,0 +1,836 @@
+"Sentence_id","Text","Speaker","Speaker_title","Speaker_party","File_id","Length","Line_number","Sentiment","Verdict"
+26902,"And thank you for agreeing to moderate this debate this evening.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,42,0.857208,-1
+26903,"Thank you to Lynn University for welcoming us here.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,43,0.853587,-1
+26904,"And Mr. President, it's good to be with you again.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,44,0.445012,-1
+26905,"We were together at a humorous event a little earlier, and it's nice to maybe funny this time, not on purpose.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,45,0.426666,0
+26907,"This is obviously an area of great concern to the entire world, and to America in particular, which is to see a -- a complete change in the -- the structure and the -- the environment in the Middle East.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",40,47,0.733874,-1
+26908,"With the Arab Spring, came a great deal of hope that there would be a change towards more moderation, and opportunity for greater participation on the part of women in public life, and in economic life in the Middle East.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",40,48,0.763528,-1
+26909,"But instead, we've seen in nation after nation, a number of disturbing events.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,49,0,-1
+26910,"Of course we see in Syria, 30,000 civilians having been killed by the military there.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,50,-0.239732,1
+26911,"We see in -- in Libya, an attack apparently by, I think we know now, by terrorists of some kind against -- against our people there, four people dead.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",29,51,-0.730436,1
+26912,"Our hearts and -- and minds go out to them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,52,0.542522,-1
+26913,"Mali has been taken over, the northern part of Mali by al-Qaeda type individuals.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,53,0,1
+26914,"We have in -- in Egypt, a Muslim Brotherhood president.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,54,0,1
+26915,"And so what we're seeing is a pretty dramatic reversal in the kind of hopes we had for that region.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,55,0.966738,-1
+26916,"Of course the greatest threat of all is Iran, four years closer to a nuclear weapon.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,56,-0.470511,-1
+26917,"And -- and we're going to have to recognize that we have to do as the president has done.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,57,0.214882,-1
+26918,"I congratulate him on -- on taking out Osama bin Laden and going after the leadership in al-Qaeda.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,58,-0.505632,0
+26919,"But we can't kill our way out of this mess.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,59,-0.872934,-1
+26920,"We're going to have to put in place a very comprehensive and robust strategy to help the -- the world of Islam and other parts of the world, reject this radical violent extremism, which is -- it's certainly not on the run.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",42,60,0.274247,-1
+26922,"This is a group that is now involved in 10 or 12 countries, and it presents an enormous threat to our friends, to the world, to America, long term, and we must have a comprehensive strategy to help reject this kind of extremism.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",43,62,0,1
+26924,"Well, my first job as commander in chief, Bob, is to keep the American people safe.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,64,0.776777,-1
+26925,"And that's what we've done over the last four years.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,65,0,0
+26926,"We ended the war in Iraq, refocused our attention on those who actually killed us on 9/11.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,66,-0.628749,0
+26927,"And as a consequence, Al Qaeda's core leadership has been decimated.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,67,-0.679828,1
+26928,"In addition, we're now able to transition out of Afghanistan in a responsible way, making sure that Afghans take responsibility for their own security.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,68,0,-1
+26929,"And that allows us also to rebuild alliances and make friends around the world to combat future threats.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,69,-0.358599,-1
+26930,"Now with respect to Libya, as I indicated in the last debate, when we received that phone call, I immediately made sure that, number one, that we did everything we could to secure those Americans who were still in harm's way; number two, that we would investigate exactly what happened, and number three, most importantly, that we would go after those who killed Americans and we would bring them to justice.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",71,70,0.54404,1
+26931,"And that's exactly what we're going to do.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,71,0.617075,-1
+26932,"But I think it's important to step back and think about what happened in Libya.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,72,0,-1
+26933,"Keep in mind that I and Americans took leadership in organizing an international coalition that made sure that we were able to, without putting troops on the ground at the cost of less than what we spent in two weeks in Iraq, liberate a country that had been under the yoke of dictatorship for 40 years.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",56,73,-0.247087,1
+26934,"Got rid of a despot who had killed Americans and as a consequence, despite this tragedy, you had tens of thousands of Libyans after the events in Benghazi marching and saying America is our friend.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",35,74,-0.52061,1
+26936,"Now that represents the opportunity we have to take advantage of.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,76,0.733764,-1
+26937,"And, you know, Governor Romney, I'm glad that you agree that we have been successful in going after Al Qaida, but I have to tell you that, you know, your strategy previously has been one that has been all over the map and is not designed to keep Americans safe or to build on the opportunities that exist in the Middle East.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",62,77,0.552122,-1
+26938,"Well, my strategy is pretty straightforward, which is to go after the bad guys, to make sure we do our very best to interrupt them, to -- to kill them, to take them out of the picture.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",37,78,-0.481267,-1
+26939,"But my strategy is broader than that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,79,0.712825,-1
+26940,"That's -- that's important, of course.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,80,0.684893,-1
+26941,"But the key that we're going to have to pursue is a -- is a pathway to get the Muslim world to be able to reject extremism on its own.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",30,81,-0.392107,-1
+26942,"We don't want another Iraq, we don't want another Afghanistan.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,82,-0.207114,-1
+26943,"That's not the right course for us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,83,-0.482074,-1
+26944,"The right course for us is to make sure that we go after the -- the people who are leaders of these various anti-American groups and these -- these jihadists, but also help the Muslim world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",36,84,0,-1
+26945,"And how do we do that?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,85,0.203916,-1
+26946,"A group of Arab scholars came together, organized by the U.N., to look at how we can help the -- the world reject these -- these terrorists.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",27,86,-0.659654,0
+26947,"And the answer they came up with was this:","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,87,0,-1
+26949,"We should key our foreign aid, our direct foreign investment, and that of our friends, we should coordinate it to make sure that we -- we push back and give them more economic development.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",34,89,0.775551,-1
+26952,"Number four, the rule of law.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,92,-0.219188,-1
+26953,"We have to help these nations create civil societies.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,93,0,-1
+26954,"But what's been happening over the last couple of years is, as we've watched this tumult in the Middle East, this rising tide of chaos occur, you see Al Qaida rushing in, you see other jihadist groups rushing in.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",39,94,-0.643143,1
+26955,"And -- and they're throughout many nations in the Middle East.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,95,0,0
+26956,"It's wonderful that Libya seems to be making some progress, despite this terrible tragedy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,96,0.376607,-1
+26957,"But next door, of course, we have Egypt.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,97,0,0
+26958,"Libya's 6 million population; Egypt, 80 million population.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,98,0,1
+26959,"We want -- we want to make sure that we're seeing progress throughout the Middle East.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,99,0.716202,-1
+26960,"With Mali now having North Mali taken over by Al Qaida; with Syria having Assad continuing to -- to kill, to murder his own people, this is a region in tumult.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",31,100,-0.735286,1
+26961,"And, of course, Iran on the path to a nuclear weapon, we've got real (inaudible).","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,101,-0.443682,1
+26963,"Governor Romney, I'm glad that you recognize that Al Qaida is a threat, because a few months ago when you were asked what's the biggest geopolitical threat facing America, you said Russia, not Al Qaida; you said Russia, in the 1980s, they're now calling to ask for their foreign policy back because, you know, the Cold War's been over for 20 years.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",62,103,-0.439301,1
+26964,"But Governor, when it comes to our foreign policy, you seem to want to import the foreign policies of the 1980s, just like the social policies of the 1950s and the economic policies of the 1920s.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",36,104,0,0
+26965,"You say that you're not interested in duplicating what happened in Iraq.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,105,-0.453807,-1
+26966,"But just a few weeks ago, you said you think we should have more troops in Iraq right now.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,106,0,1
+26967,"And the -- the challenge we have -- I know you haven't been in a position to actually execute foreign policy -- but every time you've offered an opinion, you've been wrong.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",32,107,0,-1
+26968,"You said we should have gone into Iraq, despite that fact that there were no weapons of mass destruction.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,108,-0.512675,1
+26969,"You said that we should still have troops in Iraq to this day.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,109,-0.395844,1
+26970,"You indicated that we shouldn't be passing nuclear treaties with Russia despite the fact that 71 senators, Democrats and Republicans, voted for it.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",23,110,-0.414058,1
+26971,"You said that, first, we should not have a timeline in Afghanistan.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,111,0,1
+26972,"Then you said we should.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,112,0,0
+26973,"Now you say maybe or it depends, which means not only were you wrong, but you were also confusing in sending mixed messages both to our troops and our allies.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,113,-0.66517,-1
+26974,"So, what -- what we need to do with respect to the Middle East is strong, steady leadership, not wrong and reckless leadership that is all over the map.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",29,114,0.664983,-1
+26975,"And unfortunately, that's the kind of opinions that you've offered throughout this campaign, and it is not a recipe for American strength, or keeping America safe over the long haul.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,115,0,-1
+26977,"Well, of course I don't concur with what the president said about my own record and the things that I've said.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,117,0.431854,-1
+26978,"They don't happen to be accurate.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,118,0,-1
+26979,"But -- but I can say this, that we're talking about the Middle East and how to help the Middle East reject the kind of terrorism we're seeing, and the rising tide of tumult and -- and confusion.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",38,119,-0.824832,-1
+26980,"And -- and attacking me is not an agenda.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,120,-0.443214,-1
+26981,"Attacking me is not talking about how we're going to deal with the challenges that exist in the Middle East, and take advantage of the opportunity there, and stem the tide of this violence.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",34,121,-0.482887,-1
+26983,"First of all, Russia I indicated is a geopolitical foe.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,123,-0.250713,1
+26987,"It's a geopolitical foe, and I said in the same -- in the same paragraph I said, and Iran is the greatest national security threat we face.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",27,127,-0.746558,1
+26988,"Russia does continue to battle us in the U.N. time and time again.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,128,-0.355708,1
+26989,"I have clear eyes on this.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,129,0.243569,-1
+26990,"I'm not going to wear rose-colored glasses when it comes to Russia, or Mr. Putin.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,130,-0.524603,-1
+26991,"And I'm certainly not going to say to him, I'll give you more flexibility after the election.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,131,0,-1
+26992,"After the election, he'll get more backbone.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,132,0,-1
+26993,"Number two, with regards to Iraq, you and I agreed I believe that there should be a status of forces agreement.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,133,0.443363,0
+26996,"You didn't want a status of...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,136,-0.305177,-1
+26997,"What I would not have had done was left 10,000 troops in Iraq that would tie us down.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,137,-0.419047,1
+26998,"And that certainly would not help us in the Middle East.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,138,-0.432094,-1
+26999,"I'm sorry, you actually -- there was a -- there was an effort on the part of the president to have a status of forces agreement, and I concurred in that, and said that we should have some number of troops that stayed on.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",44,139,-0.237889,1
+27000,"That was something I concurred with...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,140,0,1
+27005,"That was my posture as well.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,145,0.523483,-1
+27006,"You thought it should have been 5,000 troops...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,146,-0.262833,1
+27010,"I thought there should have been more troops, but you know what?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,150,-0.317283,-1
+27011,"The answer was we got...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,151,0,-1
+27013,"... no troops through whatsoever.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,153,-0.377696,1
+27014,"This was just a few weeks ago that you indicated that we should still have troops in Iraq.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,154,-0.284393,1
+27020,"...that's a -- I indicated...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,160,0,-1
+27024,"...I indicated that you failed to put in place a status...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,164,-0.290124,0
+27028,"...of forces agreement at the end of the conflict that existed.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,168,-0.353406,-1
+27029,"Governor -- here -- here's -- here's one thing...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,169,0,-1
+27031,"...here's one thing I've learned as commander in chief.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,171,0,-1
+27034,"You've got to be clear, both to our allies and our enemies, about where you stand and what you mean.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,174,-0.373846,-1
+27035,"You just gave a speech a few weeks ago in which you said we should still have troops in Iraq.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,175,-0.367995,1
+27036,"That is not a recipe for making sure that we are taking advantage of the opportunities and meeting the challenges of the Middle East.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,176,0.267674,-1
+27037,"Now, it is absolutely true that we cannot just meet these challenges militarily.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,177,0,-1
+27038,"And so what I've done throughout my presidency and will continue to do is, number one, make sure that these countries are supporting our counterterrorism efforts.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",26,178,0.646089,0
+27039,"Number two, make sure that they are standing by our interests in Israel's security, because it is a true friend and our greatest ally in the region.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",27,179,0.710818,-1
+27040,"Number three, we do have to make sure that we're protecting religious minorities and women because these countries can't develop unless all the population, not just half of it, is developing.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,180,0,-1
+27041,"Number four, we do have to develop their economic -- their economic capabilities.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,181,-0.285328,-1
+27042,"But number five, the other thing that we have to do is recognize that we can't continue to do nation building in these regions.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,182,-0.373863,-1
+27043,"Part of American leadership is making sure that we're doing nation building here at home.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,183,0.552033,-1
+27044,"That will help us maintain the kind of American leadership that we need.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,184,0.645567,-1
+27057,"What we've done is organize the international community, saying Assad has to go.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,197,0,1
+27058,"We've mobilized sanctions against that government.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,198,-0.282301,1
+27059,"We have made sure that they are isolated.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,199,-0.356517,0
+27060,"We have provided humanitarian assistance and we are helping the opposition organize, and we're particularly interested in making sure that we're mobilizing the moderate forces inside of Syria.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",28,200,0.860455,1
+27061,"But ultimately, Syrians are going to have to determine their own future.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,201,-0.587973,-1
+27062,"And so everything we're doing, we're doing in consultation with our partners in the region, including Israel which obviously has a huge interest in seeing what happens in Syria; coordinating with Turkey and other countries in the region that have a great interest in this.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",45,202,0.636295,1
+27063,"This -- what we're seeing taking place in Syria is heartbreaking, and that's why we are going to do everything we can to make sure that we are helping the opposition.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,203,0.903423,-1
+27064,"But we also have to recognize that, you know, for us to get more entangled militarily in Syria is a serious step, and we have to do so making absolutely certain that we know who we are helping; that we're not putting arms in the hands of folks who eventually could turn them against us or allies in the region.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",60,204,0,-1
+27065,"And I am confident that Assad's days are numbered.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,205,0.690373,-1
+27066,"But what we can't do is to simply suggest that, as Governor Romney at times has suggested, that giving heavy weapons, for example, to the Syrian opposition is a simple proposition that would lead us to be safer over the long term.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",42,206,0.551151,1
+27068,"Well, let's step back and talk about what's happening in Syria and how important it is.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,208,0.751554,-1
+27069,"First of all, 30,000 people being killed by their government is a humanitarian disaster.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,209,-0.516881,1
+27070,"Secondly, Syria is an opportunity for us because Syria plays an important role in the Middle East, particularly right now.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,210,0.315398,-1
+27071,"Syria is Iran's only ally in the Arab world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,211,-0.620773,1
+27072,"It's their route to the sea.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,212,0,0
+27073,"It's the route for them to arm Hezbollah in Lebanon, which threatens, of course, our ally, Israel.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,213,0,-1
+27074,"And so seeing Syria remove Assad is a very high priority for us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,214,0,-1
+27075,"Number two, seeing a -- a replacement government being responsible people is critical for us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,215,0,-1
+27076,"And finally, we don't want to have military involvement there.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,216,0,1
+27077,"We don't want to get drawn into a military conflict.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,217,-0.39105,-1
+27078,"And so the right course for us, is working through our partners and with our own resources, to identify responsible parties within Syria, organize them, bring them together in a -- in a form of -- if not government, a form of -- of -- of council that can take the lead in Syria.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",54,218,0.358302,-1
+27079,"And then make sure they have the arms necessary to defend themselves.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,219,0,-1
+27080,"We do need to make sure that they don't have arms that get into the -- the wrong hands.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,220,-0.429682,-1
+27081,"Those arms could be used to hurt us down the road.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,221,-0.730417,-1
+27082,"We need to make sure as well that we coordinate this effort with our allies, and particularly with -- with Israel.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,222,0.524983,-1
+27083,"But the Saudi's and the Qatari, and -- and the Turks are all very concerned about this.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,223,-0.470654,-1
+27084,"They're willing to work with us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,224,0.792635,1
+27085,"We need to have a very effective leadership effort in Syria, making sure that the -- the insurgent there are armed and that the insurgents that become armed, are people who will be the responsible parties.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",36,225,-0.535912,-1
+27086,"Recognize -- I believe that Assad must go.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,226,-0.301918,-1
+27087,"I believe he will go.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,227,0,-1
+27088,"But I believe -- we want to make sure that we have the relationships of friendship with the people that take his place, steps that in the years to come we see Syria as a -- as a friend, and Syria as a responsible party in the Middle East.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",49,228,0.751387,-1
+27089,"This -- this is a critical opportunity for America.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,229,0.716067,-1
+27090,"And what I'm afraid of is we've watched over the past year or so, first the president saying, well we'll let the U.N. deal with it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,230,-0.287274,-1
+27091,"And Assad -- excuse me, Kofi Annan came in and said we're going to try to have a ceasefire.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,231,-0.547407,0
+27093,"Then it went to the Russians and said, let's see if you can do something.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,233,-0.348554,0
+27097,"We are playing the leadership role.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,237,0,-1
+27098,"We organized the Friends of Syria.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,238,0,0
+27099,"We are mobilizing humanitarian support, and support for the opposition.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,239,0.814647,1
+27101,"But going back to Libya -- because this is an example of how we make choices.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,241,0.583921,-1
+27102,"When we went in to Libya, and we were able to immediately stop the massacre there, because of the unique circumstances and the coalition that we had helped to organize.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,242,0,1
+27103,"We also had to make sure that Moammar Gadhafi didn't stay there.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,243,-0.351701,-1
+27104,"And to the governor's credit, you supported us going into Libya and the coalition that we organized.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,244,0,1
+27105,"But when it came time to making sure that Gadhafi did not stay in power, that he was captured, Governor, your suggestion was that this was mission creep, that this was mission muddle.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",33,245,-0.508931,1
+27108,"And so we were going to make sure that we finished the job.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,248,0.415954,-1
+27109,"That's part of the reason why the Libyans stand with us.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,249,-0.20357,-1
+27110,"But we did so in a careful, thoughtful way, making certain that we knew who we were dealing with, that those forces of moderation on the ground were ones that we could work with, and we have to take the same kind of steady, thoughtful leadership when it comes to Syria.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",51,250,0.755996,-1
+27111,"That's exactly what we're doing.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,251,0.496684,-1
+27113,"I don't want to have our military involved in Syria.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,253,-0.443593,-1
+27114,"I don't think there is a necessity to put our military in Syria at this stage.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,254,-0.245366,-1
+27115,"I don't anticipate that in the future.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,255,-0.459002,-1
+27116,"As I indicated, our objectives are to replace Assad and to have in place a new government which is friendly to us, a responsible government, if possible.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",27,256,0,1
+27117,"And I want to make sure they get armed and they have the arms necessary to defend themselves, but also to remove -- to remove Assad.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,257,-0.630621,-1
+27118,"But I do not want to see a military involvement on the part of our -- of our troops.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,258,-0.409373,-1
+27120,"And this isn't -- this isn't going to be necessary.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,260,-0.734398,-1
+27121,"We -- we have, with our partners in the region, we have sufficient resources to support those groups.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,261,0.754117,1
+27122,"But look, this has been going on for a year.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,262,0.74486,1
+27123,"This is a time -- this should have been a time for American leadership.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,263,0,-1
+27124,"We should have taken a leading role, not militarily, but a leading role organizationally, governmentally to bring together the parties; to find responsible parties.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,264,0.315914,-1
+27125,"As you hear from intelligence sources even today, the -- the insurgents are highly disparate.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,265,-0.389741,-1
+27127,"They haven't formed a unity group, a council of some kind.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,267,0,-1
+27129,"America can help that happen.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,269,0.50241,-1
+27130,"And we need to make sure they have the arms they need to carry out the very important role which is getting rid of Assad.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,270,-0.360832,-1
+27133,"Well, I'll -- I'll be very quick.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,273,0.814004,-1
+27134,"What you just heard Governor Romney said is he doesn't have different ideas.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,274,0,-1
+27135,"And that's because we're doing exactly what we should be doing to try to promote a moderate Syrian leadership and a -- an effective transition so that we get Assad out.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,275,0.750352,-1
+27136,"That's the kind of leadership we've shown.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,276,0.555257,-1
+27137,"That's the kind of leadership we'll continue to show.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,277,0.677227,-1
+27142,"No, I don't, because I think that America has to stand with democracy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,282,-0.322033,-1
+27143,"The notion that we would have tanks run over those young people who were in Tahrir Square, that is not the kind of American leadership that John F. Kennedy talked about 50 years ago.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",34,283,0,-1
+27144,"But what I've also said is that now that you have a democratically elected government in Egypt, that they have to make sure that they take responsibility for protecting religious minorities.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,284,0,1
+27145,"And we have put significant pressure on them to make sure they're doing that; to recognize the rights of women, which is critical throughout the region.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",26,285,0.297651,1
+27146,"These countries can't develop if young women are not given the kind of education that they need.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,286,-0.472184,-1
+27147,"They have to abide by their treaty with Israel.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,287,0,-1
+27148,"That is a red line for us, because not only is Israel's security at stake, but our security is at stake if that unravels.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,288,-0.499382,-1
+27149,"They have to make sure that they're cooperating with us when it comes to counterterrorism.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,289,-0.294289,-1
+27150,"And we will help them with respect to developing their own economy, because ultimately what's going to make the Egyptian revolution successful for the people of Egypt, but also for the world, is if those young people who gathered there are seeing opportunities.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",43,290,0.746299,-1
+27151,"Their aspirations are similar to young people's here.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,291,0,-1
+27152,"They want jobs, they want to be able to make sure their kids are going to a good school.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,292,-0.303339,-1
+27153,"They want to make sure that they have a roof over their heads and that they have the prospects of a better life in the future.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",26,293,0.343892,-1
+27154,"And so one of the things that we've been doing is, is, for example, organizing entrepreneurship conferences with these Egyptians to give them a sense of how they can start rebuilding their economy in a way that's noncorrupt, that's transparent.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",40,294,0.675613,1
+27155,"But what is also important for us to understand is, is that for America to be successful in this region there's some things that we're going to have to do here at home as well.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",35,295,0.885771,-1
+27156,"You know, one of the challenges over the last decade is we've done experiments in nation building in places like Iraq and Afghanistan and we've neglected, for example, developing our own economy, our own energy sectors, our own education system.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",40,296,-0.588078,0
+27157,"And it's very hard for us to project leadership around the world when we're not doing what we need to do...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,297,-0.729937,-1
+27160,"I believe, as the president indicated, and said at the time that I supported his -- his action there.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,300,0,0
+27162,"I wish that, looking back at the beginning of the president's term and even further back than that, that we'd have recognized that there was a growing energy and passion for freedom in that part of the world, and that we would have worked more aggressively with our friend and with other friends in the region to have them make the transition towards a more representative form of government, such that it didn't explode in the way that it did.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",80,302,-0.262376,-1
+27163,"But once it exploded, I felt the same as the president did, which is these freedom voices and the streets of Egypt, where the people who were speaking of our principles and the President Mubarak had done things which were unimaginable and the idea of him crushing his people was not something that we could possibly support.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",57,303,-0.445685,-1
+27164,"Let me step back and talk about what I think our mission has to be in the Middle East and even more broadly, because our purpose is to make sure the world is more -- is peaceful.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",37,304,0.827397,-1
+27165,"We want a peaceful planet.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,305,0.393377,-1
+27166,"We want people to be able to enjoy their lives and know they're going to have a bright and prosperous future, not be at war.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,306,0.631199,-1
+27168,"And the mantle of leadership for the -- promoting the principles of peace has fallen to America.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,308,0.308471,-1
+27169,"We didn't ask for it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,309,-0.30464,-1
+27170,"But it's an honor that we have it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,310,0.60969,-1
+27171,"But for us to be able to promote those principles of peace requires us to be strong.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,311,0.700791,-1
+27172,"And that begins with a strong economy here at home.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,312,0.38201,-1
+27173,"Unfortunately, the economy is not stronger.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,313,-0.8736,-1
+27175,"Former chief of the -- Joint Chiefs of Staff said that -- Admiral Mullen said that our debt is the biggest national security threat we face.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,315,-0.751747,1
+27176,"This -- we have weakened our economy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,316,-0.745392,1
+27177,"We need a strong economy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,317,0,-1
+27178,"We need to have as well a strong military.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,318,0.264543,-1
+27179,"Our military is second to none in the world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,319,-0.528467,1
+27180,"We're blessed with terrific soldiers, and extraordinary technology and intelligence.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,320,0.906479,-1
+27181,"But the idea of a trillion dollar in cuts through sequestration and budget cuts to the military would change that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,321,-0.774912,1
+27182,"We need to have strong allies.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,322,0,-1
+27183,"Our association and connection with our allies is essential to America's strength.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,323,0.842522,-1
+27184,"We're the great nation that has allies, 42 allies and friends around the world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,324,0.768167,1
+27186,"And if we're strong in each of those things, American influence will grow.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,326,0.596002,-1
+27187,"But unfortunately, in nowhere in the world is America's influence will grow.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,327,-0.751178,-1
+27188,"But unfortunately, in -- nowhere in the world is America's influence greater today than it was four years ago.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,328,-0.724748,1
+27190,"And that's because we've become weaker in each of those four...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,330,-0.394241,-1
+27195,"Well I -- I absolutely believe that America has a -- a responsibility, and the privilege of helping defend freedom and promote the principles that -- that make the world more peaceful.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",32,335,0.974649,-1
+27196,"And those principles include human rights, human dignity, free enterprise, freedom of expression, elections.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,336,0.34337,1
+27197,"Because when there are elections, people tend to vote for peace.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,337,0,-1
+27198,"They don't vote for war.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,338,-0.365074,-1
+27199,"So we want to promote those principles around the world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,339,0.240572,-1
+27200,"We recognize that there are places of conflict in the world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,340,-0.399074,-1
+27201,"We want to end those conflicts to the extent humanly possible.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,341,-0.660575,-1
+27202,"But in order to be able to fulfill our role in the world, America must be strong.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,342,0.635845,-1
+27204,"And for that to happen, we have to strengthen our economy here at home.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,344,-0.452941,-1
+27205,"You can't have 23 million people struggling to get a job.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,345,-0.615813,-1
+27206,"You can't have an economy that over the last three years keeps slowing down its growth rate.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,346,-0.702548,-1
+27207,"You can't have kids coming out of college, half of them can't find a job today, or a job that's commensurate with their college degree.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,347,-0.70878,1
+27208,"We have to get our economy going.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,348,-0.309935,-1
+27209,"And our military, we've got to strengthen our military long-term.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,349,0.380793,-1
+27210,"We don't know what the world is going to throw at us down the road.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,350,-0.60793,-1
+27211,"We -- we make decisions today in the military that -- that will confront challenges we can't imagine.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,351,-0.54351,-1
+27212,"In the 2000 debates, there was no mention of terrorism, for instance.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,352,-0.706506,1
+27213,"And a year later, 9/11 happened.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,353,-0.214412,1
+27214,"So, we have to make decisions based upon uncertainty, and that means a strong military.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,354,0.361682,-1
+27215,"I will not cut our military budget.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,355,-0.598742,-1
+27216,"We have to also stand by our allies.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,356,0,-1
+27217,"I -- I think the tension that existed between Israel and the United States was very unfortunate.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,357,-0.565407,-1
+27218,"I think also that pulling our missile defense program out of Poland in the way we did was also unfortunate in terms of, if you will, disrupting the relationship in some ways that existed between us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",36,358,-0.414608,-1
+27219,"And then, of course, with regards to standing for our principles, when -- when the students took to the streets in Tehran and the people there protested, the Green Revolution occurred, for the president to be silent I thought was an enormous mistake.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",43,359,-0.552182,0
+27220,"We have to stand for our principles, stand for our allies, stand for a strong military and stand for a stronger economy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,360,0.837538,-1
+27222,"America remains the one indispensable nation.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,362,0.867459,-1
+27223,"And the world needs a strong America, and it is stronger now than when I came into office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,363,0.442876,-1
+27224,"Because we ended the war in Iraq, we were able to refocus our attention on not only the terrorist threat, but also beginning a transition process in Afghanistan.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",28,364,0,-1
+27225,"It also allowed us to refocus on alliances and relationships that had been neglected for a decade.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,365,-0.291107,-1
+27226,"And Governor Romney, our alliances have never been stronger, in Asia, in Europe, in Africa, with Israel, where we have unprecedented military and intelligence cooperation, including dealing with the Iranian threat.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,366,-0.729238,1
+27227,"But what we also have been able to do is position ourselves so we can start rebuilding America, and that's what my plan does.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,367,0.688797,1
+27228,"Making sure that we're bringing manufacturing back to our shores so that we're creating jobs here, as we've done with the auto industry, not rewarding companies that are shipping jobs overseas.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,368,0.524295,1
+27229,"Making sure that we've got the best education system in the world, including retraining our workers for the jobs of tomorrow.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,369,0.429043,-1
+27230,"Doing everything we can to control our own energy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,370,0.351131,-1
+27231,"We've cut our oil imports to the lowest level in two decades because we've developed oil and natural gas.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,371,0,1
+27232,"But we also have to develop clean energy technologies that will allow us to cut our exports in half by 2020.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,372,0.245457,-1
+27233,"That's the kind of leadership that we need to show.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,373,0.585508,-1
+27234,"And we've got to make sure that we reduce our deficit.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,374,-0.397551,-1
+27235,"Unfortunately, Governor Romney's plan doesn't do it.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,375,-0.850069,-1
+27236,"We've got to do it in a responsible way by cutting out spending we don't need, but also asking the wealthiest to pay a little bit more.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",27,376,-0.509603,-1
+27237,"That way we can invest in the research and technology that's always kept us at the cutting edge.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,377,0.495401,-1
+27238,"Now, Governor Romney has taken a different approach throughout this campaign.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,378,0.288674,0
+27239,"Both at home and abroad, he has proposed wrong and reckless policies.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,379,-0.268121,-1
+27240,"He's praised George Bush as a good economic steward and Dick Cheney as somebody who's -- who shows great wisdom and judgment.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,380,0.451113,0
+27241,"And taking us back to those kinds of strategies that got us into this mess are not the way that we are going to maintain leadership in the 21st century.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,381,-0.520223,-1
+27243,"I've got a policy for the future and agenda for the future.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,383,0.293396,-1
+27244,"And when it comes to our economy here at home, I know what it takes to create 12 million new jobs and rising take-home pay.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,384,-0.267397,-1
+27245,"And what we've seen over the last four years is something I don't want to see over the next four years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,385,-0.459786,-1
+27246,"The president said by now we'd be a 5.4 percent unemployment.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,386,-0.452965,1
+27247,"We're 9 million jobs short of that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,387,-0.456229,1
+27248,"I will get America working again and see rising take-home pay again, and I'll do it with five simple steps.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,388,0,-1
+27249,"Number one, we are going to have North American energy independence.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,389,0,-1
+27250,"We're going to do it by taking full advantage of oil, coal, gas, nuclear and our renewables.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,390,0.591249,-1
+27251,"Number two, we're going to increase our trade.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,391,0,-1
+27252,"Trade grows about 12 percent year.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,392,0,1
+27253,"It doubles about every -- every five or so years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,393,0,1
+27254,"We can do better than that, particularly in Latin America.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,394,0.407109,-1
+27255,"The opportunities for us in Latin America we have just not taken advantage of fully.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,395,0,-1
+27256,"As a matter of fact, Latin America's economy is almost as big as the economy of China.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,396,-0.226701,1
+27257,"We're all focused on China.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,397,0.397371,-1
+27258,"Latin America is a huge opportunity for us -- time zone, language opportunities.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,398,0.452625,-1
+27259,"Number three, we're going to have to have training programs that work for our workers and schools that finally put the parents and the teachers and the kids first, and the teachers' unions going to have to go behind.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",39,399,-0.239051,-1
+27260,"And then we're going to have to get to a balanced budget.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,400,0.607432,-1
+27261,"We can't expect entrepreneurs and businesses large and small to take their life savings or their company's money and invest in America if they think we're headed to the road to Greece.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",32,401,0.436421,-1
+27262,"And that's where we're going right now unless we finally get off this spending and borrowing binge.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,402,-0.514431,-1
+27263,"And I'll get us on track to a balanced budget.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,403,0.406078,-1
+27264,"And finally, number five, we've got to champion small business.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,404,0.367087,-1
+27265,"Small business is where jobs come from.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,405,0,0
+27266,"Two-thirds of our jobs come from small businesses.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,406,0,1
+27267,"New business formation is down to the lowest level in 30 years under this administration.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,407,-0.676518,1
+27268,"I want to bring it back and get back good jobs and rising take-home pay.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,408,0,-1
+27269,"Well, let's talk about what we need to compete.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,409,0.580694,-1
+27270,"First of all, Governor Romney talks about small businesses.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,410,0,0
+27271,"But, Governor, when you were in Massachusetts, small businesses development ranked about 48th, I think out of 50 states in Massachusetts, because the policies that you are promoting actually don't help small businesses.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",33,411,0,1
+27272,"And the way you define small businesses includes folks at the very top.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,412,0.575213,0
+27273,"And they include you and me.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,413,0,-1
+27274,"That's not the kind of small business promotion we need.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,414,0,-1
+27275,"But let's take an example that we know is going to make a difference in the 21st century and that's our education policy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",23,415,0.67079,-1
+27276,"We didn't have a lot of chance to talk about this in the last debate.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,416,-0.506543,0
+27277,"You know, under my leadership, what we've done is reformed education, working with governors, 46 states.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,417,-0.311716,1
+27278,"We've seen progress and gains in schools that were having a terrible time.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,418,0,-1
+27279,"And they're starting to finally make progress.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,419,0.707055,-1
+27280,"And what I now want to do is to hire more teachers, especially in math and science, because we know that we've fallen behind when it comes to math and science.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,420,-0.571122,-1
+27281,"And those teachers can make a difference.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,421,0.203528,-1
+27282,"Now, Governor Romney, when you were asked by teachers whether or not this would help the economy grow, you said this isn't going to help the economy grow.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",28,422,-0.529508,1
+27283,"When you were asked about reduced class sizes, you said class sizes don't make a difference.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,423,0,0
+27284,"But I tell you, if you talk to teachers, they will tell you it does make a difference.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,424,0.270052,-1
+27285,"And if we've got math teachers who are able to provide the kind of support that they need for our kids, that's what's going to determine whether or not the new businesses are created here.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",35,425,0.628356,-1
+27286,"Companies are going to locate here depending on whether we've got the most highly skilled workforce.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,426,0.909245,0
+27287,"And the kinds of budget proposals that you've put forward, when we don't ask either you or me to pay a dime more in terms of reducing the deficit, but instead we slash support for education, that's undermining our long-term competitiveness.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",41,427,-0.73414,-1
+27288,"That is not good for America's position in the world, and the world notices.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,428,-0.603157,-1
+27292,"Well -- well, I need to speak a moment...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,432,0.406977,-1
+27294,"... if you'll let me, Bob, just about education...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,434,0,-1
+27296,"... because I'm -- I'm so proud of the state that I had the chance to be governor of.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,436,0.776768,-1
+27297,"We have every two years tests that look at how well our kids are doing.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,437,0.209678,0
+27298,"Fourth graders and eighth graders are tested in English and math.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,438,0,0
+27299,"While I was governor, I was proud that our fourth graders came out number one of all 50 states in English, and then also in math.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,439,0,1
+27300,"And our eighth graders number one in English and also in math.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,440,0,1
+27301,"First time one state had been number one in all four measures.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,441,0,1
+27302,"How did we do that?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,442,0,-1
+27303,"Well, Republicans and Democrats came together on a bipartisan basis to put in place education principles that focused on having great teachers in the classroom.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,443,0.633822,0
+27305,"And that was -- that was -- that was what allowed us to become the number one state in the nation.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,445,0,1
+27306,"But that was 10 years before you took office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,446,0,1
+27308,"And then you cut education spending when you came into office.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,448,0,1
+27309,"The first -- the first -- the first -- and we kept our schools number one in the nation.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,449,0.547723,1
+27310,"They're still number one today.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,450,0,1
+27312,"And the principles that we put in place, we also gave kids not just a graduation exam that determined whether they were up to the skills needed to -- to be able compete, but also if they graduated the quarter of their class, they got a four-year tuition- free ride at any Massachusetts public institution of higher learning.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",58,452,0.565763,1
+27313,"That happened before you came into office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,453,-0.415159,0
+27315,"That was actually mine, actually, Mr. President.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,455,0,0
+27316,"You got that fact wrong.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,456,-0.359601,1
+27324,"Well, let's come back and talk about the military, but all the way -- all the way through.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,464,0.639975,-1
+27325,"First of all, I'm going through from the very beginning -- we're going to cut about 5 percent of the discretionary budget, excluding military.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,465,0.535011,-1
+27329,"The good news is (inaudible).","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,469,-0.224235,-1
+27330,"I'd be happy to have you take a look.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,470,0.698791,-1
+27332,"You look at how we get to a balanced budget within eight to 10 years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,472,0.651993,-1
+27333,"We do it by getting -- by reducing spending in a whole series of programs.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,473,-0.415082,-1
+27334,"By the way, number one I get rid of is Obamacare.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,474,-0.7844,-1
+27335,"There are a number of things that sound good, but frankly, we just can't afford them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,475,-0.64182,-1
+27336,"And that one doesn't sound good and it's not affordable.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,476,-0.760234,-1
+27337,"So I'd get rid of that one from day one.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,477,-0.617437,-1
+27338,"To the extent humanly possible, we get that out.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,478,0.386273,-1
+27339,"We take program after program that we don't absolutely have to have, and we get rid of them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,479,-0.433138,-1
+27340,"Number two, we take some programs that we are doing to keep, like Medicaid, which is a program for the poor; we'll take that healthcare program for the poor and we give it to the states to run because states run these programs more efficiently.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",45,480,-0.392861,1
+27341,"As a governor, I thought please, give me this program.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,481,-0.244334,-1
+27342,"I can run this more efficiently than the federal government and states, by the way, are proving it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,482,0.434713,-1
+27343,"States like Arizona, Rhode Island have taken these -- these Medicaid dollars; have shown they can run these programs more cost-effectively.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,483,0.397281,1
+27344,"I want to do those two things and get this -- get this to a balanced budget with eight -- eight to 10 years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,484,0.222715,-1
+27345,"But the military -- let's get back to the military, though.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,485,0,-1
+27349,"He should have answered the first question.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,489,0,-1
+27350,"Look, Governor Romney's called for $5 trillion of tax cuts that he says he's going to pay for by closing deductions.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,490,-0.601609,1
+27351,"Now, the math doesn't work, but he continues to claim that he's going to do it.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,491,0,1
+27352,"He then wants to spend another $2 trillion on military spending that our military is not asking for.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,492,-0.666799,1
+27353,"Now, keep in mind that our military spending has gone up every single year that I've been in office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,493,-0.452137,1
+27354,"We spend more on our military than the next 10 countries combined; China, Russia, France, the United Kingdom, you name it.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,494,0,1
+27356,"And what I did was work with our joint chiefs of staff to think about, what are we going to need in the future to make sure that we are safe?","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,496,0,-1
+27357,"And that's the budget that we've put forward.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,497,0,-1
+27358,"But, what you can't do is spend $2 trillion in additional military spending that the military is not asking for, $5 trillion on tax cuts.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",25,498,-0.801533,1
+27359,"You say that you're going to pay for it by closing loopholes and deductions, without naming what those loopholes and deductions are.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,499,-0.699303,-1
+27360,"And then somehow you're also going to deal with the deficit that we've already got.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,500,-0.262842,-1
+27361,"The math simply doesn't work.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,501,-0.393272,1
+27362,"But when it comes to our military, what we have to think about is not, you know just budgets, we've got to think about capabilities.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",25,502,0,-1
+27363,"We need to be thinking about cyber security.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,503,-0.295961,-1
+27364,"We need to be talking about space.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,504,0,-1
+27365,"That's exactly what our budget does, but it's driven by strategy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,505,0.486918,-1
+27366,"It's not driven by politics.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,506,-0.224802,1
+27367,"It's not driven by members of Congress, and what they would like to see.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,507,-0.261809,-1
+27368,"It's driven by, what are we going to need to keep the American people safe?","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,508,0.32058,-1
+27369,"That's exactly what our budget does, and it also then allows us to reduce our deficit, which is a significant national security concern.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",23,509,-0.440834,1
+27370,"Because we've got to make sure that our economy is strong at home so that we can project military power overseas.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,510,0.658762,-1
+27371,"I'm pleased that I've balanced budgets.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,511,0.877875,0
+27372,"I was on the world of business for 25 years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,512,0,0
+27373,"If you didn't balance your budget, you went out of business.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,513,-0.530135,-1
+27374,"I went into the Olympics that was out of balance, and we got it on balance, and made a success there.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,514,0.410778,0
+27375,"I had the chance to be governor of a state.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,515,0,0
+27376,"Four years in a row, Democrats and Republicans came together to balance the budget.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,516,-0.590141,0
+27377,"We cut taxes 19 times and balanced our budget.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,517,-0.226718,1
+27378,"The president hasn't balanced a budget yet.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,518,-0.434239,1
+27379,"I expect to have the opportunity to do so myself.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,519,0.428157,-1
+27381,"I'm going to be able to balance the budget.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,521,0.418818,-1
+27382,"Let's talk about military spending, and that's this.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,522,0,-1
+27386,"The Navy said they needed 313 ships to carry out their mission.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,526,0,1
+27387,"We're now at under 285.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,527,0,1
+27388,"We're headed down to the low 200s if we go through a sequestration.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,528,-0.662563,-1
+27390,"I want to make sure that we have the ships that are required by our Navy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,530,0,-1
+27392,"We've changed for the first time since FDR -- since FDR we had the -- we've always had the strategy of saying we could fight in two conflicts at once.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",30,532,-0.536577,1
+27393,"Now we're changing to one conflict.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,533,-0.538897,1
+27394,"Look, this, in my view, is the highest responsibility of the President of the United States, which is to maintain the safety of the American people.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,534,0.778801,-1
+27395,"And I will not cut our military budget by a trillion dollars, which is a combination of the budget cuts the president has, as well as the sequestration cuts.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",29,535,-0.707971,1
+27396,"That, in my view, is making -- is making our future less certain and less secure.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,536,0,-1
+27397,"Bob, I just need to comment on this.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,537,-0.427138,-1
+27398,"First of all, the sequester is not something that I've proposed.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,538,-0.533087,0
+27399,"It is something that Congress has proposed.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,539,0,0
+27401,"The budget that we are talking about is not reducing our military spending.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,541,-0.569956,1
+27404,"You mentioned the Navy, for example, and that we have fewer ships than we did in 1916.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,544,0,1
+27405,"Well, Governor, we also have fewer horses and bayonets, because the nature of our military's changed.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,545,0,0
+27406,"We have these things called aircraft carriers, where planes land on them.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,546,0,0
+27407,"We have these ships that go underwater, nuclear submarines.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,547,0,0
+27408,"And so the question is not a game of Battleship, where we're counting slips.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,548,-0.203251,-1
+27409,"It's what are our capabilities.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,549,0.328748,-1
+27410,"And so when I sit down with the Secretary of the Navy and the Joint Chiefs of Staff, we determine how are we going to be best able to meet all of our defense needs in a way that also keeps faith with our troops, that also makes sure that our veterans have the kind of support that they need when they come home.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",64,550,0.836908,0
+27411,"And that is not reflected in the kind of budget that you're putting forward because it just doesn't work.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,551,-0.398634,-1
+27413,"And, you know, we visited the website quite a bit and it still doesn't work.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,553,-0.270834,0
+27420,"First of all, Israel is a true friend.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,560,0.600921,1
+27421,"It is our greatest ally in the region.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,561,0.441818,0
+27422,"And if Israel is attacked, America will stand with Israel.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,562,0,-1
+27423,"I've made that clear throughout my presidency.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,563,0.381305,-1
+27426,"I will stand with Israel if they are attacked.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,566,-0.337893,-1
+27427,"And this is the reason why, working with Israel, we have created the strongest military and intelligence cooperation between our two countries in history.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,567,0,1
+27428,"In fact, this week we'll be carrying out the largest military exercise with Israel in history, this very week.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,568,0,1
+27429,"But to the issue of Iran, as long as I'm president of the United States Iran will not get a nuclear weapon.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,569,-0.608311,1
+27430,"I made that clear when I came into office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,570,0.250644,1
+27431,"We then organized the strongest coalition and the strongest sanctions against Iran in history, and it is crippling their economy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,571,-0.6463,1
+27432,"Their currency has dropped 80 percent.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,572,-0.518691,1
+27433,"Their oil production has plunged to the lowest level since they were fighting a war with Iraq 20 years ago.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,573,-0.728142,1
+27434,"So their economy is in a shambles.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,574,-0.70327,1
+27435,"And the reason we did this is because a nuclear Iran is a threat to our national security, and it is a threat to Israel's national security.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",27,575,-0.806787,-1
+27436,"We cannot afford to have a nuclear arms race in the most volatile region of the world.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,576,0,-1
+27437,"Iran is a state sponsor of terrorism.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,577,-0.719156,1
+27438,"And for them to be able to provide nuclear technology to non-state actors, that's unacceptable.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,578,-0.711914,-1
+27439,"And they have said that they want to see Israel wiped off the map.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,579,-0.626855,1
+27440,"So the work that we've done with respect to sanctions now offers Iran a choice.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,580,-0.557652,1
+27441,"They can take the diplomatic route and end their nuclear program or they will have to face a united world and a United States president, me, who said we're not going to take any options off the table.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",38,581,-0.542179,0
+27442,"The disagreement I have with Governor Romney is that, during the course of this campaign, he's often talked as if we should take premature military action.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",26,582,0,1
+27443,"I think that would be a mistake, because when I've sent young men and women into harm's way, I always understand that that is the last resort, not the first resort.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,583,-0.711221,-1
+27445,"Well, first of all, I want to underscore the same point the president mad,e which is that if I'm President of the United States, when I'm President of the United States, we will stand with Israel.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",36,585,0,-1
+27446,"And if Israel is attacked, we have their back, not just diplomatically, not just culturally, but militarily.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,586,-0.394741,-1
+27448,"Number two, with regards to Iran and the threat of Iran, there's no question but that a nuclear Iran, a nuclear-capable Iran is unacceptable to America.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,588,-0.849601,-1
+27449,"It presents a threat not only to our friends but ultimately a threat to us to have Iran have nuclear material, nuclear weapons that could be used against us or used to be threatening to us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",36,589,-0.814238,-1
+27450,"It is also essential for us to understand what our mission is in Iran, and that is to dissuade Iran from having a nuclear weapon through peaceful and diplomatic means.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",30,590,-0.315604,1
+27451,"And crippling sanctions are something I called for five years ago, when I was in Israel, speaking at the Herzliya Conference.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,591,-0.497767,1
+27452,"I laid out seven steps, crippling sanctions were number one.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,592,-0.370095,0
+27454,"You're seeing it right now in the economy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,594,0.443546,1
+27455,"It's absolutely the right thing to do, to have crippling sanctions.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,595,-0.396071,-1
+27456,"I would have put them in place earlier.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,596,0,-1
+27457,"But it's good that we have them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,597,0.562462,-1
+27458,"Number two, something I would add today is I would tighten those sanctions.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,598,-0.417139,-1
+27459,"I would say that ships that carry Iranian oil, can't come into our ports.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,599,-0.566618,-1
+27461,"would agree with us as well.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,601,0.63179,-1
+27462,"Not only ships couldn't, but I'd say companies that are moving their oil can't, people who are trading in their oil can't.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,602,-0.631382,-1
+27463,"I would tighten those sanctions further.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,603,-0.469548,-1
+27464,"Secondly, I'd take on diplomatic isolation efforts.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,604,-0.353263,-1
+27465,"I'd make sure that Ahmadinejad is indicted under the Genocide Convention.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,605,-0.498028,1
+27466,"His words amount to genocide incitation.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,606,-0.333089,-1
+27467,"I would indict him for it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,607,-0.226146,-1
+27468,"I would also make sure that their diplomats are treated like the pariah they are around the world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,608,0.206788,-1
+27469,"The same way we treated the apartheid diplomats of South Africa.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,609,0,-1
+27470,"We need to increase pressure time, and time again on Iran because anything other than a -- a -- a solution to this, which says -- which stops this -- this nuclear folly of theirs, is unacceptable to America.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",39,610,-0.818727,-1
+27471,"And of course, a military action is the last resort.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,611,0.36423,-1
+27472,"It is something one would only - only consider if all of the other avenues had been -- had been tried to their full extent.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,612,-0.400632,-1
+27476,"Well, first of all those are reports in the newspaper.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,616,0,-1
+27478,"But our goal is to get Iran to recognize it needs to give up its nuclear program and abide by the U.N. resolutions that have been in place.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",28,618,-0.284841,-1
+27479,"Because they have the opportunity to reenter the community of nations, and we would welcome that.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,619,0.44067,-1
+27480,"There -- there are people in Iran who have the same aspirations as people all around the world for a better life.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,620,0,0
+27481,"And we hope that their leadership takes the right decision, but the deal we'll accept is they end their nuclear program.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,621,0.738515,-1
+27483,"And I'm glad that Governor Romney agrees with the steps that we're taking.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,623,0.828571,0
+27484,"You know, there have been times, Governor, frankly, during the course of this campaign, where it sounded like you thought that you'd do the same things we did, but you'd say them louder and somehow that -- that would make a difference.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",42,624,0.414904,-1
+27485,"And it turns out that the work involved in setting up these crippling sanctions is painstaking.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,625,-0.516815,-1
+27487,"We started from the day we got into office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,627,0,0
+27488,"And the reason is was so important -- and this is a testament to how we've restored American credibility and strength around the world -- is we had to make sure that all the countries participated, even countries like Russia and China.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",42,628,0.853927,-1
+27489,"Because if it's just us that are imposing sanctions -- we've had sanctions in place a long time.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,629,-0.359983,0
+27490,"It's because we got everybody to agree that Iran is seeing so much pressure.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,630,0.203479,-1
+27491,"And we've got to maintain that pressure.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,631,0.377156,-1
+27492,"There is a deal to be had, and that is that they abide by the rules that have already been established.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,632,0.358651,-1
+27493,"They convince the international community they are not pursuing a nuclear program.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,633,0,0
+27494,"There are inspections that are very intrusive.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,634,-0.609037,-1
+27495,"But over time, what they can do is regain credibility.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,635,-0.34587,-1
+27496,"In the meantime, though, we're not going to let up the pressure until we have clear evidence that that takes place.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,636,-0.22219,-1
+27497,"And one last thing -- just -- just to make this point.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,637,0,-1
+27499,"We're not going to allow Iran to perpetually engage in negotiations that lead nowhere.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,639,-0.845748,-1
+27500,"And I've been very clear to them.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,640,0.492794,-1
+27501,"You know, because of the intelligence coordination that we do with a range of countries, including Israel, we have a sense of when they would get breakout capacity, which means that we would not be able to intervene in time to stop their nuclear program.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",45,641,0,1
+27502,"And that clock is ticking.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,642,0.640098,-1
+27505,"I think from the very beginning, one of the challenges we've had with Iran is that they have looked at this administration, and felt that the administration was not as strong as it needed to be.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",36,645,-0.386306,-1
+27506,"I think they saw weakness where they had expected to find American strength.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,646,-0.327211,-1
+27507,"And I say that because from the very beginning, the president in his campaign four years ago, said he would meet with all the world's worst actors in his first year, he'd sit down with Chavez and Kim Jong-il, with Castro and President Ahmadinejad of Iran.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",46,647,-0.810132,1
+27508,"And I think they looked and thought, well, that's an unusual honor to receive from the President of the United States.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,648,0.557469,-1
+27509,"And then the president began what I have called an apology tour, of going to various nations in the Middle East and criticizing America.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,649,-0.328122,1
+27510,"I think they looked at that and saw weakness.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,650,-0.462558,-1
+27511,"Then when there were dissidents in the streets of Tehran, a Green Revolution, holding signs saying, is America with us, the president was silent.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,651,0,0
+27512,"I think they noticed that as well.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,652,0.362838,-1
+27513,"And I think that when the president said he was going to create daylight between ourselves and Israel, that they noticed that as well.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,653,0,0
+27514,"All of these things suggested, I think, to the Iranian mullahs that, hey, you know, we can keep on pushing along here, we can keep talks going on, we're just going to keep on spinning centrifuges.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",36,654,0.275852,-1
+27515,"Now there are some 10,000 centrifuges spinning uranium, preparing to create a nuclear threat to the United States and to the world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,655,-0.297838,1
+27516,"That's unacceptable for us, and it's essential for a president to show strength from the very beginning, to make it very clear what is acceptable and not acceptable.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",28,656,0.639013,-1
+27517,"And an Iranian nuclear program is not acceptable to us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,657,-0.536757,-1
+27518,"They must not develop nuclear capability.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,658,0,-1
+27520,"They need to be tightened.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,660,-0.377423,-1
+27521,"Our diplomatic isolation needs to be tougher.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,661,-0.400457,-1
+27522,"We need to indict Ahmadinejad.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,662,-0.209061,-1
+27523,"We need to put the pressure on them as hard as we possibly can, because if we do that, we won't have to take the military action.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",27,663,-0.468806,-1
+27524,"Bob, let me just respond.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,664,0,-1
+27525,"Nothing Governor Romney just said is true, starting with this notion of me apologizing.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,665,-0.534945,0
+27526,"This has been probably the biggest whopper that's been told during the course of this campaign.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,666,-0.549336,-1
+27527,"And every fact checker and every reporter who's looked at it, Governor, has said this is not true.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,667,-0.499982,1
+27528,"And when it comes to tightening sanctions, look, as I said before, we've put in the toughest, most crippling sanctions ever.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,668,-0.599243,1
+27529,"And the fact is, while we were coordinating an international coalition to make sure these sanctions were effective, you were still invested in a Chinese state oil company that was doing business with the Iranian oil sector.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",37,669,0.328757,1
+27530,"So I'll let the American people decide, judge, who's going to be more effective and more credible when it comes to imposing crippling sanctions.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,670,-0.252446,-1
+27531,"And with respect to our attitude about the Iranian revolution, I was very clear about the murderous activities that had taken place and that was contrary to international law and everything that civilized people stand for.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",36,671,0.761826,1
+27532,"And -- and so the strength that we have shown in Iran is shown by the fact that we've been able to mobilize the world.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",25,672,0.398453,-1
+27533,"When I came into office, the world was divided.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,673,-0.202212,-1
+27535,"Iran is at its weakest point, economically, strategically, militarily, then since -- then in many years.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,675,0,1
+27536,"And we are going to continue to keep the pressure on to make sure that they do not get a nuclear weapon.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,676,0,-1
+27537,"That's in America's national interest and that will be the case so long as I'm president.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,677,0,1
+27538,"We're four years closer to a nuclear Iran.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,678,-0.464776,1
+27539,"We're four years closer to a nuclear Iran.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,679,-0.464777,1
+27540,"And -- and -- we should not have wasted these four years to the extent they -- they continue to be able to spin these centrifuges and get that much closer.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",31,680,-0.26221,-1
+27542,"Number two, Mr. President, the reason I call it an apology tour is because you went to the Middle East and you flew to Egypt and to Saudi Arabia and to Turkey and Iraq.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",34,682,-0.399518,0
+27543,"And by the way, you skipped Israel, our closest friend in the region, but you went to the other nations.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,683,0,1
+27544,"And by the way, they noticed that you skipped Israel.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,684,0,0
+27545,"And then in those nations, and on Arabic TV, you said that America had been dismissive and derisive.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,685,-0.812146,0
+27546,"You said that on occasion America had dictated to other nations.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,686,-0.226622,0
+27547,"Mr. President, America has not dictated to other nations.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,687,0,-1
+27548,"We have freed other nations from dictators.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,688,-0.211143,1
+27549,"Bob, let me -- let me respond.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,689,0,-1
+27550,"If we're going to talk about trips that we've taken -- when I was a candidate for office, first trip I took was to visit our troops.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",27,690,0.430574,0
+27551,"And when I went to Israel as a candidate, I didn't take donors.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,691,-0.248189,1
+27553,"I went to Yad Beshef (ph), the Holocaust museum there, to remind myself the nature of evil and why our bond with Israel will be unbreakable.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",26,693,-0.335326,0
+27554,"And then I went down to the border towns of Storok (ph), which had experienced missiles raining dowm from Hamas.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,694,-0.437537,0
+27555,"And I saw families there who showed me there where missiles had come down near their children's bedrooms.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,695,-0.230834,0
+27556,"And I was reminded of what that would mean if those were my kids.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,696,0,-1
+27557,"Which is why as president, we funded an Iron Dome program to stop those missiles.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,697,0,1
+27558,"So that's how I've used my travels, when I travel to Israel and when I travel to the region.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,698,0,0
+27559,"And the -- the central question at this point is going to be: Who is going to be credible to all parties involved?","Barack Obama","President","DEMOCRAT","2012-10-22.txt",23,699,0.513309,-1
+27560,"And they can look at my track record, whether it's Iran sanctions, whether it's dealing with counterterrorism, whether it's supporting democracy, whether it's supporting women's rights, whether it's supporting religious minorities.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,700,0,-1
+27561,"And they can say that the President of the United States and the United States of America has stood on the right side of history.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",25,701,0,-1
+27562,"And that kind of credibility is precisely why we've been able to show leadership on a wide range of issues facing the world right now.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",25,702,0,-1
+27566,"Bob, let's not go into hypotheticals of that nature.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,706,-0.447922,-1
+27567,"Our relationship with Israel, my relationship with the prime minister of Israel is such that we would not get a call saying our bombers are on the way, or their fighters are on the way.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",35,707,0,-1
+27568,"This is the kind of thing that would have been discussed and thoroughly evaluated well before that kind of --","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,708,0.69996,-1
+27573,"But let me -- let me come back -- we can come back.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,713,0,-1
+27574,"Let's come back to what the president was speaking about, which is what's happening in the world and the president's statement that things are going so well.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",27,714,0.713302,-1
+27575,"Look, I look at what's happening around the world, and i see Iran four years closer to a bomb.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,715,0.32101,-1
+27576,"I see the Middle East with a rising tide of violence, chaos, tumult.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,716,-0.503659,-1
+27577,"I see jihadists continuing to spread, whether they're rising or just about the same level, hard to precisely measure, but it's clear they're there.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,717,0.438726,1
+27579,"I see Syria with 30,000 civilians dead, Assad still in power.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,719,-0.310689,1
+27580,"I see our trade deficit with China, larger than it's -- growing larger every year, as a matter of fact.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,720,0,1
+27581,"I look around the world and I don't feel that you see North Korea, continuing to export their nuclear technology, Russia said they're not going to follow Nunn-Lugar any more.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",30,721,-0.520241,1
+27582,"They're back away from a nuclear proliferation treaty that we had with them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,722,-0.282217,1
+27583,"I look around the world, I don't see our influence growing around the world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,723,-0.322694,-1
+27584,"I see our influence receding, in part because of the failure of the president to deal with our economic challenges at home; in part because of our withdrawal from our commitment to our military in the way I think it ought to be; in part because of the -- the -- the turmoil with Israel.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",55,724,-0.687334,-1
+27585,"I mean, the president received a letter from 38 Democrat senators saying the tensions with Israel were a real problem.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,725,-0.569932,1
+27586,"They asked him, please repair the tension -- Democrat senators -- please repair the tension...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,726,0.286786,0
+27588,"... the damage in his -- in his own party.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,728,-0.675792,-1
+27589,"Governor, the problem is, is that on a whole range of issues, whether it's the Middle East, whether it's Afghanistan, whether it's Iraq, whether it's now Iran, you've been all over the map.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",33,729,-0.510018,-1
+27590,"I mean, I'm -- I'm pleased that you now are endorsing our policy of applying diplomatic pressure and potentially having bilateral discussions with the Iranians to end their nuclear program.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,730,0.372316,-1
+27591,"But just a few years ago you said that's something you'd never do.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,731,-0.251204,1
+27592,"In the same way that you initially opposed a timetable in Afghanistan, now you're for it, although it depends.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,732,0,1
+27593,"In the same way that you say you would have ended the war in Iraq, but recently gave a speech saying that we should have 20,000 more folks in there.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,733,0,1
+27594,"The same way that you said that it was mission creep to go after Gadhafi.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,734,-0.238405,0
+27595,"When it comes to going after Osama bin Laden, you said, well, any president would make that call.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,735,-0.240455,1
+27596,"But when you were a candidate in 2008, as I was, and I said if I got bin Laden in our sights I would take that shot, you said we shouldn't move heaven and earth to get one man.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",39,736,-0.626237,1
+27597,"And you said we should ask Pakistan for permission.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,737,0,-1
+27598,"And if we had asked Pakistan permission, we would not have gotten him.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,738,0,-1
+27599,"And it was worth moving heaven and earth to get him.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,739,0.498627,-1
+27600,"You know, after we killed bin Laden I was at ground zero for a memorial and talked to a young women who was four years old when 9/11 happened.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",29,740,-0.575183,0
+27601,"And the last conversation she had with her father was him calling from the twin towers, saying ""Peyton (ph), I love you and I will always watch over you.""","Barack Obama","President","DEMOCRAT","2012-10-22.txt",29,741,0.712153,0
+27602,"And for the next decade, she was haunted by that conversation.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,742,0,-1
+27603,"And she said to me, ""You know, by finally getting bin Laden, that brought some closure to me.""","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,743,-0.324362,0
+27604,"And when we do things like that -- when we bring those who have harmed us to justice, that sends a message to the world and it tells Peyton (ph) that we did not forget her father.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",37,744,0,-1
+27605,"And I make that point because that's the kind of clarity of leadership, and those decisions are not always popular.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,745,0.24511,0
+27606,"Those decisions generally -- generally are not poll-tested.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,746,0,0
+27607,"And even some in my own party, including my current vice president, had the same critique as you did.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,747,0,0
+27608,"But what the American people understand is that I look at what we need to get done to keep the American people safe and to move our interests forward, and I make those decisions.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",34,748,0.783614,-1
+27613,"You can't -- but you can't have the president just lay out a whole series of items without giving me a chance to respond.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,753,-0.382077,-1
+27622,"Well, we're going to be finished by 2014, and when I'm president, we'll make sure we bring our troops out by the end of 2014.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,762,0.566767,-1
+27623,"The commanders and the generals there are on track to do so.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,763,-0.399556,-1
+27624,"We've seen progress over the past several years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,764,0.389024,1
+27625,"The surge has been successful and the training program is proceeding apace.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,765,0.307441,1
+27626,"There are now a large number of Afghan Security Forces, 350,000 that are ready to step in to provide security and we're going to be able to make that transition by the end of 2014.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",35,766,0.55244,1
+27627,"So our troops will come home at that point.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,767,0,1
+27628,"I can tell you at the same time, that we will make sure that we look at what's happening in Pakistan, and recognize that what's happening in Pakistan is going to have a major impact on the success in Afghanistan.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",40,768,0,-1
+27629,"And I say that because I know a lot of people that feel like we should just brush our hands and walk away.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",23,769,0.327562,-1
+27630,"And I don't mean you, Mr. President, but some people in the -- in our nation feel that Pakistan is being nice to us, and that we should walk away fro mthem.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",32,770,0.395076,-1
+27631,"But Pakistan is important to the region, to the world and to us, because Pakistan has 100 nuclear warheads and they're rushing to build a lot more.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",27,771,0,1
+27632,"They'll have more than Great Britain sometime in the -- in the relatively near future.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,772,0,-1
+27633,"They also have the Haqqani Network and the Taliban existent within their country.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,773,-0.367462,1
+27634,"And so a Pakistan that falls apart, becomes a failed state, would be of extraordinary danger to Afghanistan and to us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,774,-0.843793,-1
+27635,"And so we're going to have to remain helpful in encouraging Pakistan to move towards a more stable government and rebuild the relationship with us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,775,0.911091,-1
+27636,"And that means that our aid that we provide to Pakistan is going to have to be conditioned upon certain benchmarks being met.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",23,776,0.624231,-1
+27637,"So for me, I look at this as both a need to help move Pakistan in the right direction, and also to get Afghanistan to be ready, and they will be ready by the end of 2014.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",37,777,0.407955,-1
+27639,"When I came into office, we were still bogged down in Iraq and Afghanistan had been drifting for a decade.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,779,-0.742955,1
+27640,"We ended the war in Iraq, refocused our attention on Afghanistan, and we did deliver a surge of troops.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,780,-0.626461,0
+27641,"That was facilitated in part because we had ended the war in Iraq.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,781,0,0
+27642,"And we are now in a position where we have met many of the objectives that got us there in the first place.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",23,782,0,-1
+27643,"Part of what had happened is we'd forgotten why we had gone.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,783,-0.788525,-1
+27644,"We went because there were people who were responsible for 3,000 American deaths.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,784,-0.259137,1
+27645,"And so we decimated Al Qaida's core leadership in the border regions between Afghanistan and Pakistan.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,785,-0.515281,1
+27646,"We then started to build up Afghan forces.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,786,0,0
+27647,"And we're now in a position where we can transition out, because there's no reason why Americans should die when Afghans are perfectly capable of defending their own country.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",29,787,-0.393777,1
+27648,"Now, that transition has to take place in a responsible fashion.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,788,0,-1
+27649,"We've been there a long time, and we've got to make sure that we and our coalition partners are pulling out responsibly and giving Afghans the capabilities that they need.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,789,0.746206,-1
+27650,"But what I think the American people recognize is after a decade of war it's time to do some nation building here at home.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,790,0,-1
+27651,"And what we can now do is free up some resources, to, for example, put Americans back to work, especially our veterans, rebuilding our roads, our bridges, our schools, making sure that, you know, our veterans are getting the care that they need when it comes to post-traumatic stress disorder and traumatic brain injury, making sure that the certifications that they need for good jobs of the future are in place.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",71,791,-0.303275,-1
+27652,"You know, I was having lunch with some -- a veteran in Minnesota who had been a medic dealing with the most extreme circumstances.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,792,-0.323509,0
+27653,"When he came home and he wanted to become a nurse, he had to start from scratch.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,793,-0.232601,0
+27654,"And what we've said is let's change those certifications.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,794,0.475041,-1
+27655,"The first lady has done great work with an organization called Joining Forces putting our veterans back to work.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,795,0,1
+27656,"And as a consequence, veterans' unemployment is actually now lower than general population.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,796,-0.637452,1
+27657,"It was higher when I came into office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,797,0,1
+27658,"So those are the kinds of things that we can now do because we're making that transition in Afghanistan.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",19,798,0,-1
+27665,"No, it's not time to divorce a nation on Earth that has 100 nuclear weapons and is on the way to double that at some point, a nation that has serious threats from terrorist groups within its nation, as I indicated before, the Taliban, Haqqani Network.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",46,805,-0.79206,1
+27666,"It's a nation that's not like -- like others and it does not have a civilian leadership that is calling the shots there.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",23,806,0,1
+27667,"You have the ISI, their intelligence organization, is probably the most powerful of the -- of three branches there.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,807,0.453038,0
+27668,"Then you have the military and then you have the civilian government.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,808,0,-1
+27669,"This is a nation, which, if it falls apart, if it -- if it becomes a failed state, there are nuclear weapons there and you've got -- you've got terrorists there who could grab their -- their hands onto those nuclear weapons.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",42,809,-0.717176,1
+27670,"This is -- this is an important part of the world for us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,810,0.82605,-1
+27671,"Pakistan is -- is technically an ally, and they're not acting very much like an ally right now.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,811,0,-1
+27672,"But we have some work to do.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,812,-0.348722,-1
+27673,"And I -- I don't blame the administration for the fact that the relationship with Pakistan is strained.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,813,-0.811336,1
+27674,"We -- we had to go into Pakistan.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,814,-0.400175,-1
+27675,"We had to go in there to get Osama bin Laden.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,815,-0.369561,-1
+27676,"That was the right thing to do.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,816,0.234703,-1
+27677,"And -- and that upset them, but obviously there was a great deal of anger even before that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,817,0,-1
+27678,"But we're going to have to work with the -- with the people in Pakistan to try and help them move to a more responsible course than the one that they're on.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",32,818,0.223529,-1
+27679,"And it's important for them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,819,0.491596,-1
+27680,"It's important for the nuclear weapons.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,820,0,-1
+27681,"It's important for the success of Afghanistan.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,821,0.432999,-1
+27682,"Because inside Pakistan, you have a -- a large group of Pashtun that are -- that are Taliban.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,822,-0.521067,0
+27684,"And that's one of the reasons the Afghan Security Forces have so much work to do to be able to fight against that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",23,824,-0.653054,-1
+27685,"But it's important for us to recognize that we can't just walk away from Pakistan.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,825,0,-1
+27686,"But we do need to make sure that as we -- as we send support for them, that this is tied to them making progress on -- on matters that would lead them to becoming a civil society.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",38,826,0.560155,-1
+27689,"And it's widely reported that drones are being used in drone strikes, and I support that and entirely, and feel the president was right to up the usage of that technology, and believe that we should continue to use it, to continue to go after the people that represent a threat to this nation and to our friends.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",58,829,0.865752,0
+27690,"But let me also note that as I said earlier, we're going to have to do more than just going after leaders and -- and killing bad guys, important as that is.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",32,830,-0.336807,-1
+27691,"We're also going to have to have a farm more effective and comprehensive strategy to help move the world away from terror and Islamic extremism.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,831,0.511202,1
+27692,"We haven't done that yet.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,832,-0.284384,-1
+27693,"We talk a lot about these things, but you look at the -- the record, you look at the record.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,833,0.55348,-1
+27694,"You look at the record of the last four years and say is Iran closer to a bomb?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,834,-0.661143,-1
+27696,"Is the Middle East in tumult?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,836,-0.519696,-1
+27698,"Is -- is al-Qaida on the run, on its heels?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,838,-0.686726,-1
+27700,"Is -- are Israel and the Palestinians closer to reaching a peace agreement?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,840,-0.293849,-1
+27701,"No, they haven't had talks in two years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,841,-0.470354,0
+27702,"We have not seen the progress we need to have, and I'm convinced that with strong leadership and an effort to build a strategy based upon helping these nations reject extremism, we can see the kind of peace and prosperity the world demands.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",43,842,0.95014,-1
+27703,"Well, keep in mind our strategy wasn't just going after bin Laden.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,843,0,-1
+27704,"We created partnerships throughout the region to deal with extremism in Somalia, in Yemen, in Pakistan.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,844,-0.346519,1
+27705,"And what we've also done is engaged these governments in the kind of reforms that are actually going to make a difference in people's lives day to day, to make sure that their governments aren't corrupt, to make sure that they're treating women with the kind of respect and dignity that every nation that succeeds has shown and to make sure that they've got a free market system that works.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",70,845,0.971639,1
+27706,"So across the board, we are engaging them in building capacity in these countries.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,846,0.425022,-1
+27707,"And we have stood on the side of democracy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,847,0,-1
+27708,"One thing I think Americans should be proud of, when Tunisians began to protest, this nation -- me, my administration -- stood with them earlier than just about any country.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,848,0,1
+27709,"In Egypt we stood on the side of democracy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,849,0,1
+27710,"In Libya we stood on the side of the people.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,850,-0.317246,0
+27711,"And as a consequence, there's no doubt that attitudes about Americans have changed.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,851,-0.211171,-1
+27712,"But there are always going to be elements in these countries that potentially threaten the United States.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,852,0,-1
+27713,"And we want to shrink those groups and those networks and we can do that.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,853,0,-1
+27714,"But we're always also going to have to maintain vigilance when it comes to terrorist activities.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,854,-0.37719,-1
+27715,"The truth, though, is that Al Qaeda is much weaker than it was when I came into office.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",18,855,-0.41805,1
+27716,"And they don't have the same capacities to attack the U.S. homeland and our allies as they did four years ago.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,856,-0.257634,1
+27721,"Well, I think it will continue to be terrorist networks.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,861,0,-1
+27723,"But with respect to China, China is both an adversary, but also a potential partner in the international community if it's following the rules.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,863,0.671672,-1
+27724,"So my attitude coming into office was that we are going to insist that China plays by the same rules as everybody else.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",23,864,0,-1
+27725,"I know Americans had seen jobs being shipped overseas; businesses and workers not getting a level playing field when it came to trade.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",23,865,-0.233934,1
+27726,"And that's the reason why I set up a trade task force to go after cheaters when it came to international trade.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,866,-0.618531,0
+27727,"That's the reason why we have brought more cases against China for violating trade rules than the other -- the previous administration had done in two terms.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",27,867,-0.492461,1
+27728,"And we've won just about every case that we've filed, that has been decided.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,868,0.626392,-1
+27729,"In fact, just recently steelworkers in Ohio and throughout the Midwest -- Pennsylvania -- are in a position now to sell steel to China because we won that case.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",29,869,0.511088,1
+27730,"We had a tire case in which they were flooding us with cheap domestic tires -- or -- or cheap Chinese tires.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,870,-0.862387,1
+27731,"And we put a stop to it and as a consequence saved jobs throughout America.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",15,871,0.248733,1
+27732,"I have to say that Governor Romney criticized me for being too tough in that tire case; said this wouldn't be good for American workers and that it would be protectionist.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,872,-0.727949,0
+27733,"But I tell you, those workers don't feel that way.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,873,-0.503644,-1
+27734,"They feel as if they had finally an administration who was going to take this issue seriously.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",17,874,0,-1
+27735,"Over the long term, in order for us to compete with China, we've also got to make sure, though, that we're taking -- taking care of business here at home.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,875,0.673185,-1
+27736,"If we don't have the best education system in the world, if we don't continue to put money into research and technology that will allow us to create great businesses here in the United States, that's how we lose the competition.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",41,876,0,1
+27737,"And, unfortunately, Governor Romney's budget and his proposals would not allow us to make those investments.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,877,-0.75163,-1
+27740,"Well, first of all, it's not government that makes business successful.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,880,0.266814,-1
+27741,"It's not government investments that makes businesses grow and hire people.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,881,0,1
+27742,"Let me also note that the greatest threat that the world faces, the greatest national security threat is a nuclear Iran.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,882,-0.274274,-1
+27744,"China has an interest that's very much like ours in one respect, and that is they want a stable world.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,884,0.872054,0
+27746,"They don't want to see protectionism.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,886,-0.444077,-1
+27747,"They don't want to see the world break out into -- into various forms of chaos, because they have to -- they have to manufacture goods and put people to work and they have about 20,000 -- 20 million, rather, people coming out of the farms every year coming into the cities, needing jobs.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",54,887,-0.649801,1
+27748,"So they want the economy to work and the world to be free and open.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,888,0,-1
+27749,"And so we can be a partner with China.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,889,0.603603,-1
+27750,"We don't have to be an adversary in any way, shape or form.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,890,0,-1
+27751,"We can work with them, we can collaborate with them, if they're willing to be responsible.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,891,0.711823,-1
+27752,"Now, they look at us and say, Is it a good idea to be with America?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,892,0.699759,-1
+27753,"How strong are we going to be?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,893,0.388991,-1
+27754,"How strong is our economy?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,894,0,-1
+27755,"They look at the fact that we owe 'em a trillion dollars and owe other people $16 trillion in total, including that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,895,-0.287252,1
+27756,"They look at our -- our decision to -- to cut back on our military capabilities.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,896,0.596185,-1
+27758,"The secretary of defense called these trillion dollars of cuts to our military devastating.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,898,-0.773714,1
+27759,"It's not my term, it's the president's own secretary of defense called these trillion dollars of cuts to our military devastating.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,899,-0.81959,1
+27760,"It's not my term, it's the president's own Secretary of Defense, called them devastating.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,900,-0.719101,1
+27761,"They look at America's commitments around the world and they see what's happening, and they say, well, OK. Is America going to be strong?","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,901,0.73802,-1
+27762,"And the answer is, yes, if I'm president, America will be very strong.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,902,0.772734,-1
+27763,"We'll also make sure that we have trade relations with China that work for us.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,903,0.410243,-1
+27764,"I've watched year in and year out as companies have shut down and people have lost their jobs because China has not played by the same rules, in part by holding down artificially the value of their currency.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",38,904,-0.666816,1
+27765,"It holds down the prices of their goods.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,905,0.408304,1
+27766,"It means our goods aren't as competitive and we lose jobs.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,906,-0.639497,-1
+27768,"They're making some progress; they need to make more.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,908,0.343418,-1
+27769,"That's why on day one, i will label them a currency manipulator, which allows us to apply tariffs where they're taking jobs.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,909,-0.394513,-1
+27770,"They're stealing our intellectual property, our patents, our designs, our technology, hacking into our computers, counterfeiting our goods.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,910,-0.590669,1
+27771,"They have to understand we want to trade with them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,911,-0.265931,-1
+27772,"We want a world that's stable.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,912,0.723882,-1
+27773,"We like free enterprise, but you got to play by the rules.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,913,0.344688,-1
+27777,"Well, they sell us about this much stuff every year, and we sell them about this much stuff every year.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,917,0.847707,-1
+27778,"So it's pretty clear who doesn't want a trade war.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,918,0.23321,-1
+27779,"And there's one going on right now, which we don't know about it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,919,0.273805,1
+27782,"We have enormous trade imbalance with China, and it's worse this year than last year, and it's worse last year than the year before.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,922,-0.885495,1
+27783,"And so we have to understand that we can't just surrender and lose jobs year in and year out.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,923,-0.646544,-1
+27784,"We have to say to our friend in China, look, you guys are playing aggressively.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,924,-0.488985,-1
+27786,"But this can't keep on going.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,926,-0.73507,-1
+27787,"You can't keep on holding down the value of your currency, stealing our intellectual property, counterfeiting our products, selling them around the world, even to the United States.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",28,927,-0.677224,-1
+27788,"I was with one company that makes valves and -- and process industries and they said, look, we were -- we were having some valves coming in that -- that were broken and we had to repair them under warranty and we looked them and -- and they had our serial number on them.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",54,928,0,0
+27789,"And then we noticed that there was more than one with that same serial number.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,929,0,0
+27790,"They were counterfeit products being made overseas with the same serial number as a U.S. company, the same packaging, these were being sold into our market and around the world as if they were made by the U.S. competitor.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",39,930,-0.321283,1
+27792,"I want a great relationship with China.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,932,0.745653,-1
+27793,"China can be our partner, but -- but that doesn't mean they can just roll all over us and steal our jobs on an unfair basis.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,933,-0.827686,-1
+27794,"Well, Governor Romney's right, you are familiar with jobs being shipped overseas because you invested in companies that were shipping jobs overseas.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,934,0.685233,1
+27795,"And, you know, that's -- you're right.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,935,0.642486,-1
+27796,"I mean that's how our free market works.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,936,0.293436,0
+27797,"But I've made a different bet on American workers.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,937,0,-1
+27798,"If we had taken your advice Governor Romney about our auto industry, we'd be buying cars from China instead of selling cars to China.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",24,938,0,-1
+27799,"If we take your advice with respect to how we change our tax codes so that companies that earn profits overseas don't pay U.S. taxes compared to companies here that are paying taxes.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",33,939,0.496253,-1
+27800,"Now that's estimated to create 800,000 jobs, the problem is they won't be here, they'll be in places like China.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",20,940,0,1
+27801,"And if we're not making investments in education and basic research, which is not something that the private sector is doing at a sufficient pace right now and has never done, then we will lose the (inaudible) in things like clean energy technology.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",43,941,0.264865,1
+27802,"Now with respect to what we've done with China already, U.S. exports have doubled since I came into office, to China and actually currencies are at their most advantageous point for U.S. exporters since 1993.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",35,942,0.453006,1
+27803,"We absolutely have to make more progress and that's why we're going to keep on pressing.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",16,943,0.262914,-1
+27804,"And when it comes to our military and Chinese security, part of the reason that we were able to pivot to the Asia-Pacific region after having ended the war in Iraq and transitioning out of Afghanistan, is precisely because this is going to be a massive growth area in the future.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",51,944,0,-1
+27805,"And we believe China can be a partner, but we're also sending a very clear signal that America is a Pacific power; that we are going to have a presence there.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",31,945,0.862237,-1
+27806,"We are working with countries in the region to make sure, for example, that ships can pass through; that commerce continues.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,946,0,0
+27807,"And we're organizing trade relations with countries other than China so that China starts feeling more pressure about meeting basic international standards.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,947,0.387157,1
+27808,"That's the kind of leadership we've shown in the region.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,948,0.522284,1
+27809,"That's the kind of leadership that we'll continue to show.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,949,0.714851,-1
+27810,"I just want to take one of those points, again, attacking me as not talking about an agenda for -- for getting more trade and opening up more jobs in this country.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",32,950,-0.662773,-1
+27811,"But the president mentioned the auto industry and that somehow I would be in favor of jobs being elsewhere.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,951,0,1
+27812,"Nothing could be further from the truth.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,952,-0.312502,-1
+27813,"I'm a son of Detroit.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,953,0,0
+27817,"And I would do nothing to hurt the U.S. auto industry.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,957,-0.483053,-1
+27818,"My plan to get the industry on its feet when it was in real trouble was not to start writing checks.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,958,-0.549481,-1
+27819,"It was President Bush that wrote the first checks.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,959,-0.354072,0
+27821,"I said they need -- these companies need to go through a managed bankruptcy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,961,-0.808882,-1
+27822,"And in that process, they can get government help and government guarantees, but they need to go through bankruptcy to get rid of excess cost and the debt burden that they'd -- they'd built up.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",35,962,-0.806044,1
+27825,"Governor Romney, that's not what you said...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,965,-0.642038,1
+27827,"Governor Romney, you did not...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,967,-0.367195,-1
+27830,"You did not say that you would provide government help.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,970,0,1
+27831,"I said that we would provide guarantees, and -- and that was what was able to allow these companies to go through bankruptcy, to come out of bankruptcy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",28,971,-0.845902,1
+27832,"Under no circumstances would I do anything other than to help this industry get on its feet.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",17,972,-0.455069,-1
+27833,"And the idea that has been suggested that I would liquidate the industry, of course not.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,973,0,-1
+27838,"That's the height of silliness...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,978,0,-1
+27840,"Let -- let -- let's...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,980,-0.35102,-1
+27842,"I have never said I would liquidate...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,982,-0.7309,0
+27846,"...I would liquidate the industry.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,986,-0.394253,-1
+27848,"Governor, the people in Detroit don't forget.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,988,0,-1
+27850,"...and -- and that's why I have the kind of commitment to ensure that our industries in this country can compete and be successful.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,990,0.868527,-1
+27851,"We in this country can -- can compete successfully with anyone in the world, and we're going to.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,991,0.812335,-1
+27852,"We're going to have to have a president, however, that doesn't think that somehow the government investing in -- in car companies like Tesla and -- and Fisker, making electric battery cars.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",32,992,0.394745,-1
+27853,"This is not research, Mr President, these are the government investing in companies.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,993,0,0
+27855,"This is a company, this isn't basic research.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,995,-0.296351,-1
+27856,"I -- I want to invest in research.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,996,0,-1
+27858,"Providing funding to universities and think tanks is great.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,998,0.667604,-1
+27863,"That's the wrong way to go.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,1003,-0.713161,-1
+27865,"The fact of the matter is...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,1005,0,-1
+27868,"So I want to make sure that we make -- we make America more competitive.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,1008,0,-1
+27870,"And that we do those things that make America the most attractive place in the world for entrepreneurs, innovators, businesses to grow.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,1010,0.922563,-1
+27871,"But you're investing in companies doesn't do that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,1011,-0.337267,-1
+27872,"In fact it makes it less likely for them to come here...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,1012,-0.638818,-1
+27874,"...because the private sector's not going to invest in a...","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,1014,-0.527023,-1
+27876,"I'm -- I'm -- I'm happy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,1016,0.38637,-1
+27884,"...you've had the floor for a while.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,1024,0,0
+27887,"The -- look, I think anybody out there can check the record.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,1027,0.342809,-1
+27888,"Governor Romney, you keep on trying to, you know airbrush history here.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,1028,0,-1
+27889,"You were very clear that you would not provide, government assistance to the U.S. auto companies, even if they went through bankruptcy.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",22,1029,-0.371679,1
+27890,"You said that they could get it in the private marketplace.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,1030,0,0
+27892,"They would have gone through a...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,1032,-0.499631,-1
+27896,"...they would have gone through a...","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,1036,-0.534151,-1
+27900,"No, I am not wrong.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,1040,-0.414423,-1
+27903,"People can look it up, you're right.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,1043,0.763204,-1
+27904,"People will look it up.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",5,1044,0,-1
+27906,"But more importantly it is true that in order for us to be competitive, we're going to have to make some smart choices right now.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",25,1046,0.949434,-1
+27907,"Cutting our education budget, that's not a smart choice.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",9,1047,-0.755755,-1
+27908,"That will not help us compete with China.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,1048,-0.43672,-1
+27909,"Cutting our investments in research and technology, that's not a smart choice.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,1049,-0.590227,-1
+27910,"That will not help us compete with China.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,1050,-0.43672,1
+27911,"Bringing down our deficit by adding $7 trillion of tax cuts and military spending that our military is not asking for, before we even get to the debt that we currently have, that is not going to make us more competitive.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",41,1051,-0.852536,1
+27912,"Those are the kinds of choices that the American people face right now.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",13,1052,0.49578,1
+27913,"Having a tax code that rewards companies that are shipping jobs overseas instead of companies that are investing here in the United States, that will not make us more competitive.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,1053,0,-1
+27914,"And the one thing that I'm absolutely clear about is that after a decade in which we saw drift, jobs being shipped overseas, nobody championing American workers and American businesses, we've now begun to make some real progress.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",38,1054,0.822738,1
+27915,"What we can't do is go back to the same policies that got us into such difficulty in the first place.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,1055,-0.522273,-1
+27916,"That's why we have to move forward and not go back.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",11,1056,-0.732926,-1
+27917,"I couldn't agree more about going forward, but I certainly don't want to go back to the policies of the last four years.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",23,1057,-0.702284,-1
+27918,"The policies of the last four years have seen incomes in America decline every year for middle income families, now down $4,300 during your term.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",25,1058,-0.596806,1
+27919,"Twenty-three million Americans still struggling to find a good job.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,1059,-0.717545,1
+27920,"When you came to office 32 million people on food stamps.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,1060,0,1
+27921,"Today, 47 million people on food stamps.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,1061,0,1
+27922,"When you came to office, just over $10 trillion in debt, now $16 trillion in debt.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,1062,-0.557651,1
+27924,"You said by now we'd be at 5.4 percent unemployment.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,1064,-0.375684,1
+27925,"We're 9 million jobs short of that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,1065,-0.456229,1
+27926,"I've met some of those people.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,1066,0,0
+27927,"I've met them in Appleton, Wisconsin.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",6,1067,0,0
+27928,"I met a young woman in -- in Philadelphia who's coming out of -- out of college, can't find work.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,1068,-0.410784,1
+27929,"I've been -- Ann was with someone just the other day that was just weeping about not being able to get work.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,1069,-0.497705,0
+27930,"It's just a tragedy in a nation so prosperous as ours, that the last four years have been so hard.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",20,1070,0.747732,-1
+27931,"And that's why it's so critical, that we make America once again the most attractive place in the world to start businesses, to build jobs, to grow the economy.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",29,1071,0.85995,-1
+27932,"And that's not going to happen by just hiring teachers.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,1072,-0.491236,-1
+27933,"Look, I love to -- I love teachers, and I'm happy to have states and communities that want to hire teachers do that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",23,1073,0.877379,-1
+27934,"By the way, I don't like to have the federal government start pushing its weight deeper and deeper into our schools.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",21,1074,-0.731574,-1
+27935,"Let the states and localities do that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,1075,0,-1
+27937,"The federal government didn't hire our teachers.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,1077,-0.456089,1
+27940,"But I want to get our private sector growing and I know how to do it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",16,1080,-0.296886,-1
+27947,"Well, thank you very much, Bob, Governor Romney, and to Lynn University.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",12,1087,0.731285,-1
+27948,"You've now heard three debates, months of campaigning and way too many TV commercials.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,1088,-0.526719,-1
+27949,"And now you've got a choice.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",6,1089,0,-1
+27950,"Over the last four years we've made real progress digging our way out of policies that gave us two prolonged wars, record deficits and the worst economic crisis since the Great Depression.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",32,1090,-0.792054,1
+27951,"And Governor Romney wants to take us back to those policies, a foreign policy that's wrong and reckless, economic policies that won't create jobs, won't reduce our deficit, but will make sure that folks at the very top don't have to play by the same rules that you do.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",49,1091,-0.635216,-1
+27952,"And I've got a different vision for America.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",8,1092,0.59432,-1
+27953,"I want to build on our strengths.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",7,1093,0.405668,-1
+27954,"And I've put forward a plan to make sure that we're bringing manufacturing jobs back to our shores by rewarding companies and small businesses that are investing here, not overseas.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",30,1094,0.615215,1
+27955,"I want to make sure we've got the best education system in the world.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",14,1095,0.298501,-1
+27956,"And we're retaining our workers for the jobs of tomorrow.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",10,1096,0.597614,1
+27957,"I want to control our own energy by developing oil and natural gas but also the energy sources of the future.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",21,1097,0,-1
+27959,"As Commander in Chief, I will maintain the strongest military in the world, keep faith with our troops and go after those who would do us harm.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",27,1099,0.583037,-1
+27960,"but after a decade of war, I think we all recognize we've got to do some nation building here at home, rebuilding our roads, our bridges and especially caring for our Veterans who sacrificed so much for our freedom.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",39,1100,0.662761,-1
+27962,"I will fight for your families and I will work every single day to make sure that America continues to be the greatest nation on earth.","Barack Obama","President","DEMOCRAT","2012-10-22.txt",26,1102,0,-1
+27966,"Bob, Mr. President, folks at Lynn University, good to be with you.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,1106,0.381428,-1
+27968,"I'm excited about our prospects as a nation.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,1108,0.872889,-1
+27969,"I want to see peace.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,1109,0.241239,-1
+27970,"I want to see growing peace in this country.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,1110,0.236171,-1
+27972,"We have an opportunity to have real leadership.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,1112,0.558294,-1
+27973,"America's going to have that kind of leadership and continue to promote principles of peace to make a world a safer place and make people in this country more confident that their future is secure.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",35,1113,0.986569,-1
+27974,"I also want to make sure that we get this economy going.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",12,1114,0,-1
+27975,"And there are two very different paths the country can take.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,1115,0,-1
+27976,"One is a path represented by the president, which at the end of four years would mean we'd have $20 trillion in debt heading towards Greece.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",26,1116,0,1
+27977,"I'll get us on track to a balanced budget.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,1117,0.333389,-1
+27978,"The president's path will mean continuing declining in take-home pay.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,1118,-0.493687,1
+27979,"I want to make sure our take-home pay turns around and starts to grow.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",14,1119,0,-1
+27980,"The president's path will mean continuing declining in take-home pay.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",10,1120,-0.493687,1
+27981,"I want to make sure take-home pay turns around and starts to grow.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,1121,0,-1
+27982,"The president's path means 20 million people out of work struggling for a good job.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,1122,-0.353091,1
+27983,"I'll get people back to work with 12 million new jobs.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",11,1123,-0.340383,-1
+27984,"I'm going to make sure that we get people off of food stamps, not by cutting the program, but by getting them good jobs.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,1124,0,-1
+27985,"America's going to come back, and for that to happen, we're going to have to have a president who can work across the aisle.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",24,1125,0,-1
+27987,"I learned how to get along on the other side of the aisle.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",13,1127,0.261808,-1
+27988,"We've got to do that in Washington.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",7,1128,0,-1
+27990,"I know what it takes to get this country back, and will work with good Democrats and good Republicans to do that.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",22,1130,-0.573743,-1
+27991,"This nation is the hope of the earth.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,1131,0.213616,-1
+27992,"We've been blessed by having a nation that's free and prosperous thanks to the contributions of the greatest generation.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",19,1132,0.972798,-1
+27993,"They've held a torch for the world to see -- the torch of freedom and hope and opportunity.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",18,1133,0.739609,-1
+27994,"Now, it's our turn to take that torch.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",8,1134,-0.252223,-1
+27995,"I'm convinced we'll do it.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",5,1135,0.671467,-1
+27997,"I'd like to be that leader with your support.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",9,1137,0.71089,-1
+27999,"I'll lead you in an open and honest way, and I ask for your vote.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",15,1139,0.78779,-1
+28000,"I'd like to be the next president of the United States to support and help this great nation and to make sure that we all together remain America as the hope of the earth.","Mitt Romney","Governor","REPUBLICAN","2012-10-22.txt",34,1140,0.905754,-1

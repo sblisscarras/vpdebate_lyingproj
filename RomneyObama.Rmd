@@ -13,9 +13,9 @@ library(tidyverse)
 
 
 ```{r}
-all_sentences = read_csv("all_sentences.csv")
-crowdsourced = read_csv("crowdsourced.csv")
-groundtruth = read_csv("groundtruth.csv")
+all_sentences = read_csv("data/all_sentences.csv")
+crowdsourced = read_csv("data/crowdsourced.csv")
+groundtruth = read_csv("data/groundtruth.csv")
 ```
 
 ```{r}
