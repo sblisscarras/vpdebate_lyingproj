@@ -82,7 +82,7 @@ ob_rom_factcheck %>%
   summarize(count = n()) %>%
   kable()
 ```
-Total checked statements: 105
+Total claims checked: 105
 
 ```{r}
 ob_rom_factcheck %>%
@@ -93,8 +93,10 @@ ob_rom_factcheck %>%
               values_fill = 0) %>%
   kable()
 ```
-13% of Obama's statements were checked, compared to 12% of Romney's
-.
+13% of Obama's statements were checked, compared to 12% of Romney's.
+
+*No apparent partisan bias*
+
 ```{r}
 ob_rom_factcheck <- ob_rom_factcheck %>%
   mutate(Checkability = 
@@ -119,6 +121,60 @@ ob_rom_factcheck %>%
               values_fill = 0) %>%
   kable()
 ```
+*Of all claims checked:*
+  52.1% of Obama's claims were Checkworthy Factual Statements, compared to 45.6% of Romney's.
+  29.2% of Obama's claims were Not Factual Statements, compared to 26.3% of Romney's.
+  18.8% of Obama's claims were Uncheckworthy Factual Statements, compared to 28.1% of Romney's.
+  
+**Of claims checked, the most notable difference was in Uncheckworthy Factual Statements, with about 10% more of Romney's UFS checked.**
+  
+
+
+*Of all total claims:*
+  29.5% of Obama's claims were Checkworthy Factual Statements, compared to 23.6% of Romney's.
+  55.2% of Obama's claims were Not Factual Statements, compared to 67.1% of Romney's.
+  15.3% of Obama's claims were Uncheckworthy Factual Statements, compared to 9.3% of Romney's.
+
+**The distribution of total claims is much different than that of checked claims. Checkworthy Factual Statments make up a significantly smaller percentage of total claims than checked claims, which makes logical sense. The greatest partisan difference among total claims is that Romney made about 12% more Not Factual Statements than Obama, and Obama made about 1.5x as many Uncheckworthy Factual Statements as Romney's.**
+
+
+
+*Comparing checked claims to total claims:*
+  Obama
+  23.6% of Checkworthy Factual Statements were checked.
+  7.1% of Not Factual Statements were checked.
+  16.3% of Uncheckworthy Factual Statements were checked.
+  
+  Romney
+  23.2% of Checkworthy Factual Statements were checked.
+  4.7% of Not Factual Statements were checked.
+  36.4 % of Uncheckworthy Factual Statements were checked.
+  
+**Obama and Romney had an extremely similar percentage of CFS checked. Obama had a higher percentage (by about 1.5x) of his Non Factual Statements checked. Romney had a much higher percentage (about 2x) of his Uncheckworthy Factual Statements Checked.** It may be worth further investigating if this shows a partisan bias.
+
+
+```{r}
+ob_rom_factcheck %>%
+  group_by(Speaker) %>%
+  summarize(avg = mean(Verdict)) %>%
+  kable()
+```
+
+With 1 meaning Not Factual Statement, 0 meaning Uncheckworthy Factual Statement, and 1 meaning Checkworthy Factual Statement, I can conclude that in this debate, both candidates made more Nonfactual statements. This data indicates that Obama may make more Factual Statements than Romney.
+
+```{r}
+ob_rom_factcheck %>%
+  filter(times.fact.checked != "#REF!") %>%
+  count(times.fact.checked, Speaker) %>%
+  pivot_wider(id_cols = c(times.fact.checked, Speaker),
+              names_from = Speaker, 
+              values_from = n, 
+              values_fill = 0) %>%
+  kable()
+```
+
+**The distribution of number of times a claim was checked by speaker is relatively equal, Romney had significantly more unchecked statements as he originally made more statements than Obama.**
+
 ```{r}
 CNN <- ob_rom_factcheck %>%
   filter(CNN == "1") %>%
