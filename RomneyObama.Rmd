@@ -12,7 +12,7 @@ library(tidyverse)
 library(knitr)
 ```
 
-```{r load data, message=FALSE}
+```{r load data, message=FALSE, echo=FALSE}
 all_sentences = read_csv("data/all_sentences.csv")
 crowdsourced = read_csv("data/crowdsourced.csv")
 groundtruth = read_csv("data/groundtruth.csv")
@@ -35,7 +35,7 @@ rom_ob_entire <- rom_ob_all %>%
          Speaker == "Barack Obama")
 ```
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, results=FALSE, message=FALSE}
 full_join(rom_ob_crowd, rom_ob_truth, Sentence_id = Sentence_id)
 #essentially, these datasets are identical
 write.csv(rom_ob_truth, 'rom_ob.csv', row.names=FALSE) 
