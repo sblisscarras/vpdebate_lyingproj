@@ -1,0 +1,24 @@
+Verdict,Speaker,Text,Speaker_title,Speaker_party,File_id,Sentence_id,Length,Line_number,Sentiment,Checked? ,CNN,Reuters,AP News,NYT,Atlantic,Politifact,WashPost,Fact Check,times fact-checked
+-1,Mitt Romney,But I'll respond to a couple of things that you mentioned.,Governor,REPUBLICAN,2012-10-22.txt,26982,11,122,0,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,"We should be playing the leadership role there, not on the ground with military.",Governor,REPUBLICAN,2012-10-22.txt,27094,14,234,0,1,0,0,1,0,0,0,0,0,1
+-1,Barack Obama,And we are making sure that those we help are those who will be friends of ours in the long term and friends of our allies in the region over the long term.,President,DEMOCRAT,2012-10-22.txt,27100,33,240,0.594944,0,0,0,0,0,0,0,0,0,0
+-1,Barack Obama,Imagine if we had pulled out at that point.,President,DEMOCRAT,2012-10-22.txt,27106,9,246,0,0,0,0,0,0,0,0,0,0,0
+1,Barack Obama,"You know, Moammar Gadhafi had more American blood on his hands than any individual other than Osama bin Laden.",President,DEMOCRAT,2012-10-22.txt,27107,19,247,-0.415381,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,I felt that -- I wish we'd have had a better vision of the future.,Governor,REPUBLICAN,2012-10-22.txt,27161,15,301,0.363218,0,0,0,0,0,0,0,0,0,0
+0,Mitt Romney,"When the -- when the president of Iraq -- excuse me, of Iran, Ahmadinejad, says that our debt makes us not a great country, that's a frightening thing.",Governor,REPUBLICAN,2012-10-22.txt,27174,28,314,0,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,"And, finally, we have to stand by our principles.",Governor,REPUBLICAN,2012-10-22.txt,27185,9,325,0.562697,0,0,0,0,0,0,0,0,0,0
+1,Mitt Romney,"Our Navy is old -- excuse me, our Navy is smaller now than at any time since 1917.",Governor,REPUBLICAN,2012-10-22.txt,27385,18,525,0,1,0,0,0,1,0,0,1,1,3
+1,Mitt Romney,Our Air Force is older and smaller than at any time since it was founded in 1947.,Governor,REPUBLICAN,2012-10-22.txt,27391,17,531,0,0,0,0,0,0,0,0,0,0,0
+-1,Barack Obama,But I think Governor Romney maybe hasn't spent enough time looking at how our military works.,President,DEMOCRAT,2012-10-22.txt,27403,16,543,-0.622317,0,0,0,0,0,0,0,0,0,0
+-1,Barack Obama,"And we're going to make sure that if they do not meet the demands of the international community, then we are going to take all options necessary to make sure they don't have a nuclear weapon.",President,DEMOCRAT,2012-10-22.txt,27503,36,643,0,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,"And the way to make sure they understand that is by having, from the very beginning, the tightest sanctions possible.",Governor,REPUBLICAN,2012-10-22.txt,27519,20,659,0,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,They're going to come rushing back in to Afghanistan when we go.,Governor,REPUBLICAN,2012-10-22.txt,27683,12,823,-0.610191,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,Well I believe we should use any and all means necessary to take out people who pose a threat to us and our friends around the world.,Governor,REPUBLICAN,2012-10-22.txt,27688,27,828,0.768109,0,0,0,0,0,0,0,0,0,0
+-1,Barack Obama,"We have to remain vigilant, as I just said.",President,DEMOCRAT,2012-10-22.txt,27722,9,862,0,0,0,0,0,0,0,0,0,0,0
+0,Mitt Romney,I was born in Detroit.,Governor,REPUBLICAN,2012-10-22.txt,27814,5,954,0,0,0,0,0,0,0,0,0,0,0
+0,Mitt Romney,My dad was head of a car company.,Governor,REPUBLICAN,2012-10-22.txt,27815,8,955,0,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,You can take a look at the op-ed...,Governor,REPUBLICAN,2012-10-22.txt,27828,8,968,0,0,0,0,0,0,0,0,0,0,0
+-1,Barack Obama,"Yes, I want to reduce our deficit by cutting spending that we don't need but also by asking the wealthy to do a little bit more so that we can invest in things like research and technology that are the key to a 21st century economy.",President,DEMOCRAT,2012-10-22.txt,27958,46,1098,0.510736,0,0,0,0,0,0,0,0,0,0
+-1,Barack Obama,"And we've been through tough times but we always bounce back because of our character, because we pull together and if I have the privilege of being your president for another four years, I promise you I will always listen to your voices.",President,DEMOCRAT,2012-10-22.txt,27961,43,1101,0.480345,0,0,0,0,0,0,0,0,0,0
+-1,Mitt Romney,I'm optimistic about the future.,Governor,REPUBLICAN,2012-10-22.txt,27967,5,1107,0.829635,0,0,0,0,0,0,0,0,0,0
+1,Mitt Romney,I was in a state where my legislature was 87 percent Democrat.,Governor,REPUBLICAN,2012-10-22.txt,27986,12,1126,0,0,0,0,0,0,0,0,0,0,0
