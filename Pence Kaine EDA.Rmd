@@ -1,5 +1,7 @@
 ---
-title: "Pence Kaine EDA"
+title: "2016 Pence-Kaine Vice Presidential Debate"
+subtitle: "Claimbuster Data, EDA"
+author: "Belen Bricchi"
 output: pdf_document
 ---
 
@@ -10,7 +12,7 @@ library(tidyr)
 library(knitr)
 ```
 
-```{r load-data}
+```{r load-data, echo=FALSE}
 checkdata <- read.csv("data/checkdata.csv")
 pencekaine <- read.csv("data/pence_kaine_2016.csv")
 ```
