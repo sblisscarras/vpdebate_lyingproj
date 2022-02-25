@@ -1,72 +1,93 @@
 ---
-title: "Pence Kaine EDA"
+title: "2016 Pence-Kaine Vice Presidential Debate"
+subtitle: "Claimbuster Data, EDA"
+author: "Belen Bricchi"
 output: pdf_document
 ---
 
-```{r load-packages, message = FALSE}
+```{r load-packages, message = FALSE, echo=FALSE}
 library(rvest)
 library(dplyr)
 library(tidyr)
+library(knitr)
 ```
 
-
-```{r load-data}
-checkdata = read.csv("data/checkdata.csv")
-pencekaine = read.csv("data/pence_kaine_2016.csv")
+```{r load-data, echo=FALSE}
+checkdata <- read.csv("data/checkdata.csv")
+pencekaine <- read.csv("data/pence_kaine_2016.csv")
 ```
 
-```{r arrange-checked}
+### ClaimBuster Ratings
+
+```{r arrange-checked, echo=FALSE}
 checked_claims = checkdata %>% 
   filter(Checked. == "1") %>% 
   arrange(desc(Ratings))
 
 checked_claims %>% 
   group_by(Claimant) %>% 
-  summarize(avgrating = mean(Ratings))
+  summarize(avgrating = mean(Ratings)) %>%
+  kable(caption = "Average ClaimBuster Rating")
 ```
-Lowest claimbuster score of a claim that was checked: 0.12 
 
-The highest claimbuster score of a claim that was checked: 0.71 
+Lowest ClaimBuster score of a claim that was checked: 0.12
+
+The highest ClaimBuster score of a claim that was checked: 0.71
 
 Total claims checked: 112
 
-Average claimbuster score Mike Pence: *~.42*
+Average ClaimbBuster score Mike Pence: *\~.42*
 
-Average claimbuster score Tim Kaine: *~.38* 
+Average ClaimBuster score Tim Kaine: *\~.38*
 
 **On average Tim Kaine's claims are slightly less checkable (0.04 / 4%).**
 
-```{r claimant-info}
+### Claims Checked and Unchecked
+
+```{r claimant-info, echo=FALSE}
 checkdata %>% 
   group_by(Claimant) %>% 
-  count()
+  count() %>%
+  kable(caption = "All Claims by Candidate")
 
 checked_claims %>%
   group_by(Claimant) %>% 
-  count()
+  count() %>%
+  kable(caption = "Checked Claims by Candidate")
 ```
-Mike Pence had a total of 542 factual claims. 53 of his factual claims were
-checked *~9.8%* 
 
-Tim Kaine had a total of 582 factual claims. 59 of his factual claims were 
-checked *~10%* 
+Mike Pence had a total of 542 factual claims. 53 of his factual claims were checked *\~9.8%*
 
-**No major bias by fact checkers according to candidate** Note: may be worth 
-running a t-test on this to confirm no statistical significance. 
+Tim Kaine had a total of 582 factual claims. 59 of his factual claims were checked *\~10%*
 
-```{r times-checked}
+**No major bias by fact checkers according to candidate** Note: may be worth running a t-test on this to confirm no statistical significance.
+
+### Repeated Fact-Checks
+
+```{r times-checked, eval=FALSE, echo=FALSE}
 checked_claims %>% 
   group_by(times.fact.checked) %>% 
-  count(Claimant)
+  count(Claimant) %>%
+  kable()
 ```
-As expected (knowing that each claimant was fact-checked a roughly equal amount
-of times) both claimants have similar amounts of claims checked repeatedly. 
 
-The only *times.fact.checked* category that has different numbers of claims
-checked for each Claimant is *2* where Mike Pence had *11* checked claims and 
-Tim Kaine has *16* checked claims. 
+```{r times-checked 2, echo=FALSE}
+checked_claims %>%
+  count(times.fact.checked, Claimant) %>%
+  pivot_wider(id_cols = c(times.fact.checked, Claimant),
+              names_from = times.fact.checked, 
+              values_from = n,
+              values_fill = 0) %>%
+  kable(caption = "Instances of Repeated Checks")
+```
 
-```{r fact-checkers}
+As expected (knowing that each claimant was fact-checked a roughly equal amount of times) both claimants have similar amounts of claims checked repeatedly.
+
+The only *times.fact.checked* category that has different numbers of claims checked for each Claimant is *2* where Mike Pence had *11* checked claims and Tim Kaine has *16* checked claims.
+
+### Differences between Publishers
+
+```{r fact-checkers, echo=FALSE, message=FALSE}
 PF = checked_claims %>%
   filter(PF == "1") %>%
   group_by(Claimant) %>%
@@ -108,7 +129,7 @@ checkers = left_join(PF, left_join(WP
                                                            , left_join(CNN
                                                                        , left_join(AP, TG, 
                                                                                    by = "Claimant"))))))
-checkers                                                                       
+checkers %>% kable(caption = "Fact Checks by Publisher")                                                                       
 ```
 
 1/7 checker checked both candidates equally (TG)
@@ -119,8 +140,9 @@ checkers
 
 **No apparent partisan bias by news sources for one candidate over the other**
 
+### With 0.2 ClaimBuster Threshold
 
-```{r 0.2-checked}
+```{r 0.2-checked, echo=FALSE}
 `0.2checked` = checked_claims %>% 
   filter(Ratings >= 0.2)
 
@@ -129,33 +151,35 @@ checkers
 
 `0.2checked` %>%
   group_by(Claimant) %>%
-  summarize(avgrating = mean(Ratings))
+  summarize(avgrating = mean(Ratings)) %>% 
+  kable(caption = "Average CB Score above 0.2")
 
 `0.2data` %>%
   group_by(Claimant) %>%
-  count()
+  count() %>%
+  kable(caption = "All Checkable Claims >0.2")
 
 `0.2checked` %>%
   group_by(Claimant) %>%
-  count()
+  count() %>%
+  kable(caption = "All Checked Claims >0.2")
 ```
 
-Average claimbuster score Mike Pence: *~.44*
+Average claimbuster score Mike Pence: *\~.44*
 
-Average claimbuster score Tim Kaine: *~.39* 
+Average claimbuster score Tim Kaine: *\~.39*
 
 **On average Tim Kaine's claims are slightly less checkable (0.05 / 5%).**
 
-Mike Pence had a total of 358 factual claims. 50 of his factual claims were
-checked *~14%* 
+Mike Pence had a total of 358 factual claims. 50 of his factual claims were checked *\~14%*
 
-Tim Kaine had a total of 402 factual claims. 57 of his factual claims were 
-checked *~14%* 
+Tim Kaine had a total of 402 factual claims. 57 of his factual claims were checked *\~14%*
 
-**No major bias by fact checkers according to candidate** Note: may be worth 
-running a t-test on this to confirm no statistical significance.
+**No major bias by fact checkers according to candidate** Note: may be worth running a t-test on this to confirm no statistical significance.
 
-```{r fact-checkers.2}
+### By Publisher \>0.2
+
+```{r fact-checkers.2, echo=FALSE, message=FALSE}
 PF.2 = `0.2checked` %>%
   filter(PF == "1") %>%
   group_by(Claimant) %>%
@@ -198,7 +222,7 @@ checkers.2 = left_join(PF.2
                                                        , left_join(CNN.2
                                                                   , left_join(AP.2, TG.2, 
                                                                              by = "Claimant"))))))
-checkers.2                                                                       
+checkers.2 %>% kable(caption = "# Fact-Checks by Publisher")                                                                      
 ```
 
 3/7 checkers checked Pence more than Kaine (NYT, CNN, AP)

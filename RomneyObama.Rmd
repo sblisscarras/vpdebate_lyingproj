@@ -1,10 +1,11 @@
 ---
 title: "Third Obama-Romney Presidential Debate"
 subtitle: "Claimbuster Data, EDA"
+author: "Sofia Bliss-Carrascosa"
 output: pdf_document
 ---
 
-```{r}
+```{r load-packages, echo=FALSE, message=FALSE, warning=FALSE}
 library(rvest)
 library(dplyr)
 library(tidyr)
@@ -12,14 +13,13 @@ library(tidyverse)
 library(knitr)
 ```
 
-
-```{r}
+```{r load data, message=FALSE, echo=FALSE}
 all_sentences = read_csv("data/all_sentences.csv")
 crowdsourced = read_csv("data/crowdsourced.csv")
 groundtruth = read_csv("data/groundtruth.csv")
 ```
 
-```{r}
+```{r load files, echo=FALSE}
 rom_ob_all = all_sentences %>% 
   filter(File_id == "2012-10-22.txt")
 
@@ -31,18 +31,27 @@ rom_ob_truth = groundtruth %>%
 write.csv(rom_ob_truth, 'rom_ob_truth.csv', row.names=FALSE)
 ```
 
-```{r}
+```{r, echo=FALSE}
 rom_ob_entire <- rom_ob_all %>%
   filter(Speaker == "Mitt Romney" |
          Speaker == "Barack Obama")
 ```
 
+<<<<<<< HEAD
 ```{r}
 rom_ob_entire <- full_join(rom_ob_crowd, rom_ob_truth, join_by = Sentence_id)
 write.csv(rom_ob_entire, 'rom_ob.csv', row.names=FALSE)
+=======
+```{r, echo=FALSE, results=FALSE, message=FALSE}
+full_join(rom_ob_crowd, rom_ob_truth, Sentence_id = Sentence_id)
+#essentially, these datasets are identical
+write.csv(rom_ob_truth, 'rom_ob.csv', row.names=FALSE) 
+>>>>>>> 1007573a79b8f076b2cfbc0124697af55e641cfa
 ```
 
+### **FACT CHECKED DATA SET**
 
+<<<<<<< HEAD
 **README Info from Claimbuster Datasets**
 
 The ClaimBuster dataset consists of six files, the three used are the following:
@@ -67,36 +76,40 @@ all_sentences.csv file contains all presidential debate sentences. It has all th
 
 **FACT CHECKED DATA SET**
 ```{r}
+=======
+```{r, echo=FALSE}
+>>>>>>> 1007573a79b8f076b2cfbc0124697af55e641cfa
 ob_rom_factcheck <- read.csv("data/obrom_checkeddata.csv")
 
 ob_rom_factcheck <- ob_rom_factcheck %>%
   mutate(Checked = Checked.)
 ```
 
-
-```{r}
+```{r, echo=FALSE}
 ob_rom_factcheck %>%
   filter(Checked == 1) %>%
   group_by(Speaker) %>%
   summarize(count = n()) %>%
-  kable()
+  kable(caption = "# of Checked Claims")
 ```
+
 Total claims checked: 105
 
-```{r}
+```{r, echo=FALSE}
 ob_rom_factcheck %>%
   count(Checked, Speaker) %>%
   pivot_wider(id_cols = c(Checked, Speaker),
               names_from = Speaker, 
               values_from = n, 
               values_fill = 0) %>%
-  kable()
+  kable(caption = "Unchecked versus Checked Claims")
 ```
+
 13% of Obama's statements were checked, compared to 12% of Romney's.
 
 *No apparent partisan bias*
 
-```{r}
+```{r, echo=FALSE}
 ob_rom_factcheck <- ob_rom_factcheck %>%
   mutate(Checkability = 
         case_when(Verdict == "-1" ~ "Not Factual Statement",
@@ -109,7 +122,7 @@ ob_rom_factcheck %>%
               names_from = Speaker, 
               values_from = n, 
               values_fill = 0) %>%
-  kable()
+  kable(caption = "Checkability Score for All Claims")
 
 ob_rom_factcheck %>%
   filter(Checked == 1) %>%
@@ -118,50 +131,33 @@ ob_rom_factcheck %>%
               names_from = Speaker, 
               values_from = n, 
               values_fill = 0) %>%
-  kable()
+  kable(caption = "Checkability Score for Checked Claims")
 ```
-*Of all claims checked:*
-  52.1% of Obama's claims were Checkworthy Factual Statements, compared to 45.6% of Romney's.
-  29.2% of Obama's claims were Not Factual Statements, compared to 26.3% of Romney's.
-  18.8% of Obama's claims were Uncheckworthy Factual Statements, compared to 28.1% of Romney's.
-  
+
+*Of all claims checked:* 52.1% of Obama's claims were Checkworthy Factual Statements, compared to 45.6% of Romney's. 29.2% of Obama's claims were Not Factual Statements, compared to 26.3% of Romney's. 18.8% of Obama's claims were Uncheckworthy Factual Statements, compared to 28.1% of Romney's.
+
 **Of claims checked, the most notable difference was in Uncheckworthy Factual Statements, with about 10% more of Romney's UFS checked.**
-  
 
-
-*Of all total claims:*
-  29.5% of Obama's claims were Checkworthy Factual Statements, compared to 23.6% of Romney's.
-  55.2% of Obama's claims were Not Factual Statements, compared to 67.1% of Romney's.
-  15.3% of Obama's claims were Uncheckworthy Factual Statements, compared to 9.3% of Romney's.
+*Of all total claims:* 29.5% of Obama's claims were Checkworthy Factual Statements, compared to 23.6% of Romney's. 55.2% of Obama's claims were Not Factual Statements, compared to 67.1% of Romney's. 15.3% of Obama's claims were Uncheckworthy Factual Statements, compared to 9.3% of Romney's.
 
 **The distribution of total claims is much different than that of checked claims. Checkworthy Factual Statments make up a significantly smaller percentage of total claims than checked claims, which makes logical sense. The greatest partisan difference among total claims is that Romney made about 12% more Not Factual Statements than Obama, and Obama made about 1.5x as many Uncheckworthy Factual Statements as Romney's.**
 
+*Comparing checked claims to total claims:* Obama 23.6% of Checkworthy Factual Statements were checked. 7.1% of Not Factual Statements were checked. 16.3% of Uncheckworthy Factual Statements were checked.
 
+Romney 23.2% of Checkworthy Factual Statements were checked. 4.7% of Not Factual Statements were checked. 36.4 % of Uncheckworthy Factual Statements were checked.
 
-*Comparing checked claims to total claims:*
-  Obama
-  23.6% of Checkworthy Factual Statements were checked.
-  7.1% of Not Factual Statements were checked.
-  16.3% of Uncheckworthy Factual Statements were checked.
-  
-  Romney
-  23.2% of Checkworthy Factual Statements were checked.
-  4.7% of Not Factual Statements were checked.
-  36.4 % of Uncheckworthy Factual Statements were checked.
-  
 **Obama and Romney had an extremely similar percentage of CFS checked. Obama had a higher percentage (by about 1.5x) of his Non Factual Statements checked. Romney had a much higher percentage (about 2x) of his Uncheckworthy Factual Statements Checked.** It may be worth further investigating if this shows a partisan bias.
 
-
-```{r}
+```{r, echo=FALSE}
 ob_rom_factcheck %>%
   group_by(Speaker) %>%
   summarize(avg = mean(Verdict)) %>%
-  kable()
+  kable(caption = "More or Less Factual Statements?")
 ```
 
-With 1 meaning Not Factual Statement, 0 meaning Uncheckworthy Factual Statement, and 1 meaning Checkworthy Factual Statement, I can conclude that in this debate, both candidates made more Nonfactual statements. This data indicates that Obama may make more Factual Statements than Romney.
+With -1 meaning Not Factual Statement, 0 meaning Uncheckworthy Factual Statement, and 1 meaning Checkworthy Factual Statement, I can conclude that in this debate, both candidates made more Nonfactual statements. This data indicates that Obama may make more Factual Statements than Romney.
 
-```{r}
+```{r, echo=FALSE}
 ob_rom_factcheck %>%
   filter(times.fact.checked != "#REF!") %>%
   count(times.fact.checked, Speaker) %>%
@@ -169,12 +165,12 @@ ob_rom_factcheck %>%
               names_from = Speaker, 
               values_from = n, 
               values_fill = 0) %>%
-  kable()
+  kable(caption = "Instances of Repeated Checks")
 ```
 
 **The distribution of number of times a claim was checked by speaker is relatively equal, Romney had significantly more unchecked statements as he originally made more statements than Obama.**
 
-```{r}
+```{r, echo=FALSE, message=FALSE}
 CNN <- ob_rom_factcheck %>%
   filter(CNN == "1") %>%
   group_by(Speaker) %>%
@@ -223,9 +219,7 @@ checkers = left_join(CNN,
                                                              left_join(PF, left_join(WP, FC, by = "Speaker")))))))
 
 checkers %>%
-  kable()
+  kable(caption = "Fact Checks by Publisher")
 ```
-1/8 fact checkers checked both speakers equally. (PolitiFact)
-3/8 fact checkers checked Obama more than Romney. (Reuters, the Atlantic, the NYT)
-4/8 fact checkers checked Romney more than Obama. (CNN, AP News, the Washington Post, Fact Check)
 
+1/8 fact checkers checked both speakers equally. (PolitiFact) 3/8 fact checkers checked Obama more than Romney. (Reuters, the Atlantic, the NYT) 4/8 fact checkers checked Romney more than Obama. (CNN, AP News, the Washington Post, Fact Check)
