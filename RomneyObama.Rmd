@@ -26,8 +26,9 @@ rom_ob_all = all_sentences %>%
 rom_ob_crowd = crowdsourced %>% 
   filter(File_id == "2012-10-22.txt")
 
-rom_ob_truth = crowdsourced %>% 
+rom_ob_truth = groundtruth %>% 
   filter(File_id == "2012-10-22.txt")
+write.csv(rom_ob_truth, 'rom_ob_truth.csv', row.names=FALSE)
 ```
 
 ```{r}
@@ -36,19 +37,17 @@ rom_ob_entire <- rom_ob_all %>%
          Speaker == "Barack Obama")
 ```
 
-
 ```{r}
-full_join(rom_ob_crowd, rom_ob_truth, Sentence_id = Sentence_id)
-#essentially, these datasets are identical
-write.csv(rom_ob_truth, 'rom_ob.csv', row.names=FALSE) 
+rom_ob_entire <- full_join(rom_ob_crowd, rom_ob_truth, join_by = Sentence_id)
+write.csv(rom_ob_entire, 'rom_ob.csv', row.names=FALSE)
 ```
 
 
 **README Info from Claimbuster Datasets**
 
 The ClaimBuster dataset consists of six files, the three used are the following:
-groundtruth.csv, (22,501 sentences)
-crowdsourced.csv, (1032 sentences)
+groundtruth.csv, (1032 sentences)
+crowdsourced.csv, (22,501 sentences)
 all_sentences.csv, (32,072 sentences)
 
 Both groundtruth.csv and crowdsourced.csv files contain the following attributes.
@@ -179,42 +178,42 @@ ob_rom_factcheck %>%
 CNN <- ob_rom_factcheck %>%
   filter(CNN == "1") %>%
   group_by(Speaker) %>%
-  summarize(CNN_check = n())
+  summarize(CNNcheck = n())
 
 Reuters <- ob_rom_factcheck %>%
   filter(Reuters == "1") %>%
   group_by(Speaker) %>%
-  summarize(Reuters_check = n())
+  summarize(Rcheck = n())
 
 APNews <- ob_rom_factcheck %>%
   filter(AP.News == "1") %>%
   group_by(Speaker) %>%
-  summarize(AP_check = n())
+  summarize(APcheck = n())
 
 NYT <- ob_rom_factcheck %>%
   filter(NYT == "1") %>%
   group_by(Speaker) %>%
-  summarize(NYT_check = n())
+  summarize(NYTcheck = n())
 
 Atl <- ob_rom_factcheck %>%
   filter(Atlantic == "1") %>%
   group_by(Speaker) %>%
-  summarize(Atl_check = n())
+  summarize(Atlcheck = n())
 
 PF <- ob_rom_factcheck %>%
   filter(Politifact == "1") %>%
   group_by(Speaker) %>%
-  summarize(PF_check = n())
+  summarize(PFcheck = n())
 
 WP <- ob_rom_factcheck %>%
   filter(WashPost == "1") %>%
   group_by(Speaker) %>%
-  summarize(WP_check = n())
+  summarize(WPcheck = n())
 
 FC <- ob_rom_factcheck %>%
   filter(Fact.Check == "1") %>%
   group_by(Speaker) %>%
-  summarize(FC_check = n())
+  summarize(FCcheck = n())
 
 checkers = left_join(CNN, 
                      left_join(Reuters, 
