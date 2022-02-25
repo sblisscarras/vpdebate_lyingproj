@@ -24,22 +24,14 @@ rom_ob_all = all_sentences %>%
   filter(File_id == "2012-10-22.txt")
 
 rom_ob_crowd = crowdsourced %>% 
-  filter(File_id == "2012-10-22.txt")
-
-rom_ob_truth = groundtruth %>% 
-  filter(File_id == "2012-10-22.txt")
-write.csv(rom_ob_truth, 'rom_ob_truth.csv', row.names=FALSE)
-```
-
-```{r, echo=FALSE}
-rom_ob_entire <- rom_ob_all %>%
+  filter(File_id == "2012-10-22.txt") %>%
   filter(Speaker == "Mitt Romney" |
          Speaker == "Barack Obama")
-```
 
-```{r}
-rom_ob_entire <- full_join(rom_ob_crowd, rom_ob_truth, join_by = Sentence_id)
-write.csv(rom_ob_entire, 'rom_ob.csv', row.names=FALSE)
+rom_ob_truth = groundtruth %>% 
+  filter(File_id == "2012-10-22.txt" )%>%
+  filter(Speaker == "Mitt Romney" |
+         Speaker == "Barack Obama")
 ```
 
 ### **FACT CHECKED DATA SET**
@@ -70,9 +62,12 @@ Joined relevant claims in `groundtruth` and `crowdsourced` dataset the gather th
 
 **FACT CHECKED DATA SET**
 ```{r, echo=FALSE}
-ob_rom_factcheck <- read.csv("data/obrom_checkeddata.csv")
+ob_rom_factcheck1 <- read.csv("data/obrom_checkeddata.csv")
+ob_rom_factcheck2 <- read.csv("data/ob_rom_missingdata.csv") %>%
+  mutate(times.fact.checked = as.factor(times.fact.checked)) %>%
+  mutate(Speaker = if_else(Speaker == "Mitt Romney", "Romney", "Obama"))
 
-ob_rom_factcheck <- ob_rom_factcheck %>%
+ob_rom_factcheck <- full_join(ob_rom_factcheck1, ob_rom_factcheck2) %>%
   mutate(Checked = Checked.)
 ```
 
@@ -84,7 +79,15 @@ ob_rom_factcheck %>%
   kable(caption = "# of Checked Claims")
 ```
 
-Total claims checked: 105
+Total claims checked: 107
+
+```{r}
+ob_rom_factcheck %>%
+  group_by(Speaker) %>%
+  summarize(count = n()) %>%
+  kable(caption = "# of Total Claims")
+```
+
 
 ```{r, echo=FALSE}
 ob_rom_factcheck %>%
@@ -96,7 +99,7 @@ ob_rom_factcheck %>%
   kable(caption = "Unchecked versus Checked Claims")
 ```
 
-13% of Obama's statements were checked, compared to 12% of Romney's.
+13.1% of Obama's statements were checked, compared to 12.1% of Romney's.
 
 *No apparent partisan bias*
 
@@ -125,19 +128,19 @@ ob_rom_factcheck %>%
   kable(caption = "Checkability Score for Checked Claims")
 ```
 
-*Of all claims checked:* 52.1% of Obama's claims were Checkworthy Factual Statements, compared to 45.6% of Romney's. 29.2% of Obama's claims were Not Factual Statements, compared to 26.3% of Romney's. 18.8% of Obama's claims were Uncheckworthy Factual Statements, compared to 28.1% of Romney's.
+*Of all claims checked:* 52.1% of Obama's claims were Checkworthy Factual Statements, compared to 45.8% of Romney's. 29.2% of Obama's claims were Not Factual Statements, compared to 27.1% of Romney's. 18.8% of Obama's claims were Uncheckworthy Factual Statements, compared to 27.1% of Romney's.
 
-**Of claims checked, the most notable difference was in Uncheckworthy Factual Statements, with about 10% more of Romney's UFS checked.**
+**Of claims checked, the most notable difference was in Uncheckworthy Factual Statements, with about 8.3% more of Romney's UFS checked.**
 
-*Of all total claims:* 29.5% of Obama's claims were Checkworthy Factual Statements, compared to 23.6% of Romney's. 55.2% of Obama's claims were Not Factual Statements, compared to 67.1% of Romney's. 15.3% of Obama's claims were Uncheckworthy Factual Statements, compared to 9.3% of Romney's.
+*Of all total claims:* 29.2% of Obama's claims were Checkworthy Factual Statements, compared to 23.5% of Romney's. 55.9% of Obama's claims were Not Factual Statements, compared to 66.9% of Romney's. 15.0% of Obama's claims were Uncheckworthy Factual Statements, compared to 9.6% of Romney's.
 
-**The distribution of total claims is much different than that of checked claims. Checkworthy Factual Statments make up a significantly smaller percentage of total claims than checked claims, which makes logical sense. The greatest partisan difference among total claims is that Romney made about 12% more Not Factual Statements than Obama, and Obama made about 1.5x as many Uncheckworthy Factual Statements as Romney's.**
+**The distribution of total claims is much different than that of checked claims. Checkworthy Factual Statments make up a significantly smaller percentage of total claims than checked claims, which makes logical sense. The greatest partisan difference among total claims is that Romney made about 11% more Not Factual Statements than Obama, and Obama made about 1.6x as many Uncheckworthy Factual Statements as Romney's.**
 
-*Comparing checked claims to total claims:* Obama 23.6% of Checkworthy Factual Statements were checked. 7.1% of Not Factual Statements were checked. 16.3% of Uncheckworthy Factual Statements were checked.
+*Comparing checked claims to total claims:* Obama 23.4% of Checkworthy Factual Statements were checked. 6.8% of Not Factual Statements were checked. 16.4% of Uncheckworthy Factual Statements were checked.
 
-Romney 23.2% of Checkworthy Factual Statements were checked. 4.7% of Not Factual Statements were checked. 36.4 % of Uncheckworthy Factual Statements were checked.
+Romney 23.5% of Checkworthy Factual Statements were checked. 4.9% of Not Factual Statements were checked. 34.0% of Uncheckworthy Factual Statements were checked.
 
-**Obama and Romney had an extremely similar percentage of CFS checked. Obama had a higher percentage (by about 1.5x) of his Non Factual Statements checked. Romney had a much higher percentage (about 2x) of his Uncheckworthy Factual Statements Checked.** It may be worth further investigating if this shows a partisan bias.
+**Obama and Romney had an extremely similar percentage of CFS checked. Obama had a higher percentage (by about 1.4x) of his Non Factual Statements checked. Romney had a much higher percentage (about 2.1x) of his Uncheckworthy Factual Statements Checked.** It may be worth further investigating if this shows a partisan bias.
 
 ```{r, echo=FALSE}
 ob_rom_factcheck %>%
