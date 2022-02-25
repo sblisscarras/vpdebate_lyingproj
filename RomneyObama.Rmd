@@ -37,21 +37,13 @@ rom_ob_entire <- rom_ob_all %>%
          Speaker == "Barack Obama")
 ```
 
-<<<<<<< HEAD
 ```{r}
 rom_ob_entire <- full_join(rom_ob_crowd, rom_ob_truth, join_by = Sentence_id)
 write.csv(rom_ob_entire, 'rom_ob.csv', row.names=FALSE)
-=======
-```{r, echo=FALSE, results=FALSE, message=FALSE}
-full_join(rom_ob_crowd, rom_ob_truth, Sentence_id = Sentence_id)
-#essentially, these datasets are identical
-write.csv(rom_ob_truth, 'rom_ob.csv', row.names=FALSE) 
->>>>>>> 1007573a79b8f076b2cfbc0124697af55e641cfa
 ```
 
 ### **FACT CHECKED DATA SET**
 
-<<<<<<< HEAD
 **README Info from Claimbuster Datasets**
 
 The ClaimBuster dataset consists of six files, the three used are the following:
@@ -74,11 +66,10 @@ Both groundtruth.csv and crowdsourced.csv files contain the following attributes
 all_sentences.csv file contains all presidential debate sentences. It has all the features shown above except for ``Verdict''. It also includes the following attribute:
 - Speaker_role: It depicts the role of the Speaker in the debate as a participant.
 
+Joined relevant claims in `groundtruth` and `crowdsourced` dataset the gather the most complete look at the data.
+
 **FACT CHECKED DATA SET**
-```{r}
-=======
 ```{r, echo=FALSE}
->>>>>>> 1007573a79b8f076b2cfbc0124697af55e641cfa
 ob_rom_factcheck <- read.csv("data/obrom_checkeddata.csv")
 
 ob_rom_factcheck <- ob_rom_factcheck %>%
